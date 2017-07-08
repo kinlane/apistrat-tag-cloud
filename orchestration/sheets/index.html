@@ -52,49 +52,11 @@ title: Update Spreadsheet
       $total_count = $product.length;
       $.each( tabletop.sheets($resource).all(), function(i, service) {
 
-          $p = {};
-          if(service['tags'].includes("{{ site.tag }}") == true)
-            {
-            $.each(service, function($key, $value) {
-              //console.log($key + ' == ' + $value);
-              $p[$key] = $value;
-            });
-            $products.push($p);
-            }
+          $title = service['Title'];
+          $abstract = service['Abstract'];
 
-          $count++;
-          //console.log($count + ' == ' + $total_count);
-          if($count==$total_count)
-            {
-            $yaml_dump = jsyaml.dump($products);
+          console.log($title);
 
-            document.getElementById('source').value = $yaml_dump;
-
-            // Grab the token from cookie
-            $oAuthToken = Cookies.get('token');
-
-            var github = new Github({token: $oAuthToken,auth: "oauth"});
-            var repo = github.getRepo($org,$repo);
-
-            repo.getTree('{{ site.github_branch }}?recursive=true', function(err, tree) {
-
-              $.each(tree, function(treeKey, treeValue) {
-
-                $writepath = '_data/' + $resource + '/index.yaml';
-                //console.log($writepath);
-                $path = treeValue['path'];
-                $sha = treeValue['sha'];
-                //console.log($path + ' == ' + $writepath);
-                if($path==$writepath)
-                  {
-                  repo.writemanual('master',$writepath, $yaml_dump, 'Save', $sha, function(err) { });
-                  console.log("writing " + $writepath);
-                  //alert("saved " + $writepath);
-                  }
-                });
-              });
-
-            }
       });
 
     }
