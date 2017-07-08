@@ -51,9 +51,9 @@ title: Update Spreadsheet
       $count = 0;
       $total_count = $product.length;
       $.each( tabletop.sheets($resource).all(), function(i, service) {
-        $.each(service, function($key, $value) {
-          console.log($key + ' == ' + $value);
-        });
+
+        $title = service['Title'];
+        console.log($title);
 
       });
 
