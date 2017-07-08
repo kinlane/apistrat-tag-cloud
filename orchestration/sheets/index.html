@@ -48,6 +48,7 @@ title: Update Spreadsheet
 
       $product = tabletop.sheets($resource).all();
 
+      $all_words = {};
       $count = 0;
       $total_count = $product.length;
       $.each( tabletop.sheets($resource).all(), function(i, service) {
@@ -60,13 +61,48 @@ title: Update Spreadsheet
 
 
         $title_array = $title.split(" ");
-        $.each($title_array, function(i, $word) {
-
+        foreach($title_array as $word)
+          {
           console.log($word);
+          $word_exist = 0;
+          $word_index = 0;
+          foreach($all_words as $main_word)
+            {
+            if(main_word['word'] == word)
+              {
+              console.log("EXISTING: "+ $word);
+              $word_exist=1;
+              $all_words[$word_index]['count'] = main_word['count']+1;
+              }
+            $word_index++;
+            }
 
-          });
+          if($word_exist==1)
+            {
+
+            }
+          else
+            {
+            $this_word = {};
+            $this_word['word'] = $word;
+            $this_word['count'] = 1;
+            $products.push($p);
+            }
+
+          }
 
           $count++;
+
+          if($count==$total_count)
+            {
+              foreach($all_words as $main_word)
+                {
+                $word = $main_word['word'];
+                $word_count = $main_word['count'];
+                console.log($word + ' = ' + $word_count);
+                }
+            }
+
         }
       });
 
