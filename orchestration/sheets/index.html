@@ -52,6 +52,8 @@ title: Update Spreadsheet
       $total_count = $product.length;
       $.each( tabletop.sheets($resource).all(), function(i, service) {
 
+        if($count<2)
+          {
         $title = service['Title'];
         $abstract = service['Abstract'];
         console.log($title);
@@ -64,6 +66,8 @@ title: Update Spreadsheet
 
           });
 
+          $count++;
+        }
       });
 
     }
