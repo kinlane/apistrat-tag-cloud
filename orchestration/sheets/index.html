@@ -56,11 +56,19 @@ title: Update Spreadsheet
         if(!$all_words)
           {
           $all_words = new Array();
+          $this_word = {};
+          $this_word['word'] = "start";
+          $this_word['count'] = 1;
+          $all_words.push($this_word);
           }
 
         if(!Array.isArray($all_words))
           {
           $all_words = new Array();
+          $this_word = {};
+          $this_word['word'] = 'start';
+          $this_word['count'] = 1;
+          $all_words.push($this_word);
           }
 
         if($count<2)
@@ -75,6 +83,7 @@ title: Update Spreadsheet
           for ($e = 0; $e = $title_array.length; $e++)
             {
             $word = $title_array[$e];
+            $word = $word.toLowerCase();
             //console.log($word);
             $word_exist = 0;
             $word_index = 0;
