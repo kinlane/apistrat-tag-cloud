@@ -80,7 +80,7 @@ title: Update Spreadsheet
 
           $title_array = $title.split(" ");
           console.log("COUNT: "+$title_array.length);
-          for ($e = 0; $e = $title_array.length; $e++)
+          for ($e = 0; $e < $title_array.length; $e++)
             {
             $word = $title_array[$e];
             console.log("e: " + $e);
@@ -88,7 +88,7 @@ title: Update Spreadsheet
             console.log($title_array[$e]);
             $word_exist = 0;
             $word_index = 0;
-            for ($word_index = 0; $word_index = $all_words.length; $word_index++)
+            for ($word_index = 0; $word_index < $all_words.length; $word_index++)
               {
               console.log("HERE: " + $all_words[$word_index]);
               if($all_words[$word_index]['word'] == $word)
