@@ -51,7 +51,7 @@ title: Update Spreadsheet
       $all_words = {};
       $count = 0;
       $total_count = $product.length;
-      $.each( tabletop.sheets($resource).all(), function(i, service) {
+      $.each( tabletop.sheets($resource).all(), function(i, service, $all_words) {
 
         if($count<2)
           {
