@@ -53,7 +53,16 @@ title: Update Spreadsheet
       $.each( tabletop.sheets($resource).all(), function(i, service) {
 
         $title = service['Title'];
+        $abstract = service['Abstract'];
         console.log($title);
+
+
+        $title_array = $title.split(" ");
+        $.each($title_array, function(i, $word) {
+
+          console.log($word);
+
+          });
 
       });
 
