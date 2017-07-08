@@ -55,55 +55,55 @@ title: Update Spreadsheet
 
         if($count<2)
           {
-        $title = service['Title'];
-        $abstract = service['Abstract'];
-        console.log($title);
+          $title = service['Title'];
+          $abstract = service['Abstract'];
+          console.log($title);
 
 
-        $title_array = $title.split(" ");
-        foreach($title_array as $word)
-          {
-          console.log($word);
-          $word_exist = 0;
-          $word_index = 0;
-          foreach($all_words as $main_word)
+          $title_array = $title.split(" ");
+          foreach($title_array as $word)
             {
-            if(main_word['word'] == word)
+
+            //console.log($word);
+            $word_exist = 0;
+            $word_index = 0;
+            for ($word_index = 0; $word_index = $all_words.length; $word_index++) {
               {
-              console.log("EXISTING: "+ $word);
-              $word_exist=1;
-              $all_words[$word_index]['count'] = main_word['count']+1;
+              if(main_word[word_index]['word'] == word)
+                {
+                console.log("EXISTING: "+ $word);
+                $word_exist=1;
+                $all_words[$word_index]['count'] = main_word['count']+1;
+                }
               }
-            $word_index++;
-            }
 
-          if($word_exist==1)
-            {
+            if($word_exist==1)
+              {
+
+              }
+            else
+              {
+              $this_word = {};
+              $this_word['word'] = $word;
+              $this_word['count'] = 1;
+              $products.push($p);
+              }
 
             }
-          else
-            {
-            $this_word = {};
-            $this_word['word'] = $word;
-            $this_word['count'] = 1;
-            $products.push($p);
-            }
-
-          }
 
           $count++;
 
           if($count==$total_count)
             {
-              foreach($all_words as $main_word)
-                {
-                $word = $main_word['word'];
-                $word_count = $main_word['count'];
-                console.log($word + ' = ' + $word_count);
-                }
+            for ($word_index = 0; $word_index = $all_words.length; $word_index++) {
+              {
+              $word = $main_word[word_index]['word'];
+              $word_count = $main_word[word_index]['count'];
+              console.log($word + ' = ' + $word_count);
+              }
             }
 
-        }
+          }
       });
 
     }
