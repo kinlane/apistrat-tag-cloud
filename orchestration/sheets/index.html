@@ -61,9 +61,10 @@ title: Update Spreadsheet
 
 
           $title_array = $title.split(" ");
-          foreach($title_array as $word)
-            {
 
+          for ($e = 0; $e = $title_array.length; $e++) {
+            {
+            $word = $title_array[$e]['word'];
             //console.log($word);
             $word_exist = 0;
             $word_index = 0;
