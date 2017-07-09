@@ -127,6 +127,8 @@ title: Update Spreadsheet
               $word = $word.replace('.','');
               $word = $word.replace('&','');
               $word = $word.replace("'",'');
+              $word = $word.replace('-','');
+              $word = $word.replace('"','');
               if($word!='')
                 {
                 $word_count = $all_words[$word_index]['count'];
