@@ -145,7 +145,11 @@ title: Update Spreadsheet
 
               }
 
-              $this_json  = JSON.stringify($publish_words);
+              $new_array = JSON.parse($this_json);
+
+              $all_words_sorted = sortByColumn($new_array, 2);
+
+              $this_json  = JSON.stringify($all_words_sorted);
               document.getElementById('source').value = $this_json;
 
             }
