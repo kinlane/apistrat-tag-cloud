@@ -22,7 +22,7 @@ paginate_path: "/blog/page:num"
 
 github_user: kinlane
 github_repo: apistrat-tag-cloud
-github_branch: gh-pages
+github_branch: master
 
 # Footer
 footer_title: API Evangelist
