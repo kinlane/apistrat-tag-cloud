@@ -187,7 +187,7 @@ function compareSecondColumn(a, b) {
 
               }
 
-            $publish_words.sort(compareSecondColumn);  
+            $publish_words.sort(compareSecondColumn);
 
             $yaml_dump = jsyaml.dump($publish_words);
             document.getElementById('source').value = $yaml_dump;
@@ -208,7 +208,7 @@ function compareSecondColumn(a, b) {
                 //console.log($writepath);
                 $path = treeValue['path'];
                 $sha = treeValue['sha'];
-                console.log($path + ' == ' + $writepath);
+                //console.log($path + ' == ' + $writepath);
                 if($path==$writepath)
                   {
                   repo.writemanual('master',$writepath, $yaml_dump, 'Save', $sha, function(err) { });
