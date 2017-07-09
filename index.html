@@ -52,6 +52,9 @@ title: API Evangelist - Tag Cloud for APIStrat
 		<table class="alt">
 			<tbody>
 				{% for entry in words %}
+				<tr>
+					<td colspan="2">{{ entry }}</td>
+				</tr>
 					<tr>
 						<td width="90%">{{ entry.word }}</td>
 						<td width="10%" align="center">{{ entry.count }}</td>
