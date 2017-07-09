@@ -1,37 +1,37 @@
 - word: start
-  count: 7
-- word: How
-  count: 38
+  count: 9
+- word: highlighting
+  count: 1
 - word: we
-  count: 126
+  count: 171
 - word: built
-  count: 16
+  count: 17
 - word: a
-  count: 474
+  count: 495
 - word: thriving
   count: 2
-- word: API
-  count: 390
+- word: api
+  count: 393
 - word: ecosystem
-  count: 13
+  count: 16
 - word: at
-  count: 73
+  count: 80
 - word: year
   count: 4
 - word: old
   count: 3
 - word: company
   count: 4
-- word: Manheim
+- word: manheim
   count: 3
 - word: is
-  count: 228
+  count: 237
 - word: company
-  count: 9
+  count: 10
 - word: and
-  count: 792
+  count: 805
 - word: the
-  count: 817
+  count: 889
 - word: largest
   count: 3
 - word: automotive
@@ -39,43 +39,41 @@
 - word: wholesaler
   count: 1
 - word: in
-  count: 270
+  count: 324
 - word: world
   count: 2
-- word: The
-  count: 72
 - word: has
-  count: 47
+  count: 48
 - word: used
   count: 21
-- word: IBM
+- word: ibm
   count: 3
-- word: iSeries
+- word: iseries
   count: 2
 - word: platform
-  count: 20
+  count: 22
 - word: since
-  count: 3
+  count: 6
 - word: 1970s
   count: 1
 - word: as
-  count: 105
+  count: 118
 - word: core
   count: 6
 - word: part
-  count: 21
+  count: 22
 - word: of
-  count: 517
+  count: 518
 - word: its
-  count: 8
+  count: 14
 - word: brick
   count: 2
 - word: mortar
   count: 2
 - word: business
   count: 6
-- word: Two
-  count: 2
+- word: two
+  count: 13
 - word: years
   count: 13
 - word: ago
@@ -85,56 +83,54 @@
 - word: out
   count: 26
 - word: to
-  count: 676
+  count: 684
 - word: transform
   count: 3
 - word: technology
   count: 10
 - word: foundation
-  count: 4
+  count: 5
 - word: with
-  count: 174
+  count: 186
 - word: goal
   count: 6
 - word: accelerating
   count: 2
 - word: developer
-  count: 49
+  count: 60
 - word: productivity
   count: 1
 - word: flexibility
   count: 2
-- word: We
-  count: 45
 - word: started
   count: 7
 - word: by
-  count: 64
+  count: 69
 - word: establishing
   count: 2
 - word: vision
   count: 4
 - word: for
-  count: 228
+  count: 233
 - word: developercentric
   count: 1
 - word: alongside
   count: 1
 - word: cloud
-  count: 23
+  count: 27
 - word: vision
   count: 1
 - word: first
-  count: 13
+  count: 15
 - word: system
-  count: 22
+  count: 24
 - word: that
-  count: 184
+  count: 185
 - word: uses
   count: 11
-- word: Apache
+- word: apache
   count: 3
-- word: Camel
+- word: camel
   count: 2
 - word: which
   count: 36
@@ -143,11 +139,11 @@
 - word: streams
   count: 1
 - word: changes
-  count: 13
+  count: 14
 - word: coming
   count: 1
 - word: from
-  count: 61
+  count: 67
 - word: each
   count: 15
 - word: individual
@@ -155,49 +151,49 @@
 - word: boxes
   count: 1
 - word: our
-  count: 90
+  count: 97
 - word: locations
   count: 2
 - word: turns
   count: 1
 - word: these
-  count: 37
+  count: 45
 - word: into
   count: 41
 - word: logical
   count: 1
 - word: business
-  count: 43
+  count: 47
 - word: events
   count: 1
 - word: then
-  count: 13
+  count: 14
 - word: routes
   count: 2
 - word: events
   count: 7
 - word: series
   count: 4
-- word: Java
+- word: java
   count: 5
-- word: Spring
+- word: spring
   count: 2
 - word: processors
   count: 1
 - word: handle
   count: 2
 - word: them
-  count: 24
+  count: 25
 - word: deliver
   count: 4
 - word: 'on'
-  count: 97
+  count: 98
 - word: interested
   count: 3
 - word: subscribers
   count: 1
-- word: This
-  count: 46
+- word: this
+  count: 183
 - word: been
   count: 27
 - word: critical
@@ -209,15 +205,15 @@
 - word: way
   count: 20
 - word: build
-  count: 34
+  count: 38
 - word: software
   count: 2
-- word: It
-  count: 20
+- word: it
+  count: 106
 - word: led
   count: 2
 - word: both
-  count: 25
+  count: 27
 - word: successful
   count: 8
 - word: ability
@@ -234,18 +230,18 @@
   count: 9
 - word: ongoing
   count: 2
-- word: ERP
+- word: erp
   count: 1
 - word: implementation
   count: 2
-- word: Following
-  count: 2
+- word: following
+  count: 6
 - word: this
   count: 2
 - word: developed
   count: 4
 - word: an
-  count: 133
+  count: 138
 - word: cookbook
   count: 1
 - word: prescribes
@@ -256,20 +252,18 @@
   count: 1
 - word: behavior
   count: 4
-- word: REST
+- word: rest
   count: 32
 - word: based
-  count: 11
+  count: 13
 - word: entity
   count: 1
 - word: centric
   count: 1
-- word: API
+- word: api
   count: 18
-- word: Using
-  count: 2
-- word: this
-  count: 137
+- word: using
+  count: 40
 - word: cookbook
   count: 1
 - word: foundational
@@ -279,15 +273,15 @@
 - word: gave
   count: 2
 - word: developers
-  count: 33
+  count: 35
 - word: outside
   count: 2
 - word: interact
   count: 5
 - word: key
-  count: 13
+  count: 15
 - word: services
-  count: 35
+  count: 37
 - word: including
   count: 14
 - word: inventory
@@ -296,8 +290,6 @@
   count: 1
 - word: pricing
   count: 1
-- word: At
-  count: 7
 - word: same
   count: 9
 - word: time
@@ -305,11 +297,11 @@
 - word: committed
   count: 2
 - word: creating
-  count: 15
+  count: 19
 - word: robust
   count: 1
 - word: portal
-  count: 2
+  count: 3
 - word: commitment
   count: 1
 - word: should
@@ -322,10 +314,8 @@
   count: 19
 - word: developers
   count: 5
-- word: Our
-  count: 7
 - word: they
-  count: 58
+  count: 64
 - word: be
   count: 113
 - word: able
@@ -337,38 +327,38 @@
 - word: read
   count: 3
 - word: through
-  count: 21
-- word: documentation
-  count: 18
-- word: get
   count: 22
+- word: documentation
+  count: 21
+- word: get
+  count: 23
 - word: code
-  count: 17
+  count: 20
 - word: up
   count: 20
 - word: running
   count: 3
 - word: minutes
   count: 2
-- word: Finally
-  count: 4
+- word: finally
+  count: 5
 - word: building
-  count: 34
+  count: 47
 - word: success
-  count: 10
+  count: 11
 - word: realtime
   count: 2
 - word: event
   count: 1
 - word: delivery
   count: 9
-- word: API
+- word: api
   count: 14
 - word: called
   count: 3
-- word: Eventer
+- word: eventer
   count: 1
-- word: Eventer
+- word: eventer
   count: 1
 - word: native
   count: 4
@@ -377,29 +367,29 @@
 - word: partners
   count: 4
 - word: use
-  count: 44
+  count: 46
 - word: establish
   count: 2
 - word: subscriptions
   count: 1
 - word: theyre
-  count: 6
+  count: 7
 - word: receiving
   count: 1
 - word: variety
   count: 5
-- word: SAAS
-  count: 1
+- word: saas
+  count: 3
 - word: tools
   count: 22
 - word: code
   count: 3
 - word: weve
-  count: 9
+  count: 10
 - word: selfservice
   count: 2
 - word: driven
-  count: 4
+  count: 9
 - word: allows
   count: 6
 - word: subscribe
@@ -408,7 +398,7 @@
   count: 1
 - word: realtime
   count: 1
-- word: Combining
+- word: combining
   count: 1
 - word: three
   count: 4
@@ -419,57 +409,57 @@
 - word: eventdriven
   count: 1
 - word: data
-  count: 56
+  count: 60
 - word: taken
   count: 3
-- word: life
-  count: 2
+- word: how
+  count: 179
 - word: own
   count: 1
 - word: are
-  count: 127
+  count: 131
 - word: now
-  count: 9
+  count: 11
 - word: having
-  count: 5
+  count: 6
 - word: develop
   count: 5
 - word: new
-  count: 32
+  count: 34
 - word: support
-  count: 25
+  count: 26
 - word: structures
   count: 2
 - word: order
-  count: 8
+  count: 9
 - word: service
-  count: 23
+  count: 35
 - word: growing
-  count: 5
+  count: 6
 - word: customer
-  count: 13
+  count: 15
 - word: base
   count: 2
 - word: adopting
-  count: 1
-- word: Additionally
+  count: 4
+- word: additionally
   count: 1
 - word: succeeded
   count: 1
 - word: transforming
-  count: 4
+  count: 5
 - word: software
-  count: 20
+  count: 25
 - word: here
   count: 1
-- word: One
-  count: 9
+- word: one
+  count: 33
 - word: internal
   count: 16
 - word: roll
   count: 1
 - word: model
-  count: 16
+  count: 17
 - word: across
   count: 18
 - word: country
@@ -481,59 +471,57 @@
 - word: not
   count: 45
 - word: have
-  count: 77
+  count: 79
 - word: even
-  count: 17
+  count: 18
 - word: conceivable
   count: 1
 - word: prior
-  count: 2
+  count: 3
 - word: existence
   count: 1
-- word: Ramping
+- word: ramping
   count: 1
 - word: your
-  count: 148
-- word: SDK
+  count: 162
+- word: sdk
   count: 5
 - word: offering
   count: 3
-- word: using
-  count: 38
-- word: Swagger
+- word: swagger
   count: 9
-- word: Codegen
+- word: codegen
   count: 2
-- word: Outdated
-  count: 1
+- word: outdated
+  count: 2
 - word: documentation
   count: 1
-- word: Broken
+- word: broken
   count: 1
-- word: SDKs
+- word: sdks
   count: 2
 - word: you
-  count: 131
+  count: 149
 - word: like
-  count: 45
+  count: 47
 - word: reduce
   count: 4
 - word: pain
-  count: 3
+  count: 4
 - word: experience
-  count: 35
+  count: 42
 - word: every
-  count: 6
+  count: 9
 - word: time
-  count: 18
+  count: 19
 - word: update
   count: 1
-- word: API
+- word: api
   count: 7
-- word: Keeping
-  count: 2
+- word: keeping
+  count: 6
 - word: client
-  count: 16
+  count: 17
 - word: libraries
   count: 7
 - word: current
@@ -544,42 +532,40 @@
   count: 2
 - word: process
   count: 5
-- word: Why
-  count: 4
+- word: why
+  count: 27
 - word: automate
-  count: 7
+  count: 9
 - word: it
   count: 3
-- word: OpenAPI
+- word: openapi
   count: 31
 - word: specification
-  count: 12
+  count: 17
 - word: offers
   count: 2
 - word: languageagnostic
   count: 1
 - word: approach
-  count: 9
+  count: 10
 - word: describing
   count: 3
-- word: RESTful
-  count: 9
-- word: APIs
-  count: 34
-- word: By
-  count: 5
+- word: restful
+  count: 11
+- word: apis
+  count: 35
 - word: leveraging
-  count: 6
+  count: 7
 - word: tooling
-  count: 6
+  count: 8
 - word: under
   count: 4
-- word: OAS
+- word: oas
   count: 2
 - word: umbrella
   count: 1
 - word: can
-  count: 129
+  count: 133
 - word: sure
   count: 4
 - word: always
@@ -590,15 +576,13 @@
   count: 3
 - word: resources
   count: 6
-- word: Come
-  count: 5
+- word: come
+  count: 10
 - word: learn
-  count: 21
-- word: how
-  count: 140
+  count: 26
 - word: team
   count: 18
-- word: Lyft
+- word: lyft
   count: 1
 - word: leverage
   count: 3
@@ -606,47 +590,37 @@
   count: 11
 - word: their
   count: 86
-- word: Better
-  count: 1
-- word: APIs
+- word: better
+  count: 16
+- word: apis
   count: 159
-- word: Though
+- word: though
   count: 1
-- word: Open
-  count: 36
-- word: Source
-  count: 4
-- word: Standards
-  count: 2
-- word: source
-  count: 21
 - word: open
-  count: 44
+  count: 80
+- word: source
+  count: 25
 - word: standards
-  count: 15
+  count: 17
 - word: uniting
   count: 1
 - word: guide
-  count: 2
+  count: 3
 - word: creation
   count: 7
-- word: better
-  count: 15
 - word: enterprises
   count: 1
-- word: IT
-  count: 1
+- word: it
+  count: 8
 - word: networking
   count: 1
-- word: it
-  count: 81
 - word: empowers
   count: 2
 - word: rapid
   count: 4
 - word: innovation
-  count: 3
-- word: IoT
+  count: 4
+- word: iot
   count: 1
 - word: lead
   count: 3
@@ -664,26 +638,24 @@
   count: 17
 - word: ideal
   count: 1
-- word: 'On'
-  count: 1
 - word: other
-  count: 27
+  count: 28
 - word: hand
   count: 1
 - word: organization
   count: 2
 - word: such
-  count: 24
-- word: IETF
+  count: 25
+- word: ietf
   count: 2
-- word: MEF
+- word: mef
   count: 1
 - word: realize
   count: 2
 - word: need
-  count: 34
+  count: 35
 - word: change
-  count: 12
+  count: 13
 - word: mode
   count: 1
 - word: operation
@@ -697,7 +669,7 @@
 - word: manner
   count: 1
 - word: hackathons
-  count: 1
+  count: 3
 - word: aimed
   count: 1
 - word: reference
@@ -705,15 +677,15 @@
 - word: implementations
   count: 2
 - word: parallel
-  count: 3
+  count: 4
 - word: definition
   count: 2
 - word: evolving
-  count: 3
+  count: 4
 - word: organizations
-  count: 14
+  count: 15
 - word: embracing
-  count: 1
+  count: 2
 - word: eye
   count: 3
 - word: toward
@@ -727,37 +699,33 @@
 - word: definition
   count: 2
 - word: about
-  count: 43
-- word: Hackathons
-  count: 2
-- word: MEF
+  count: 44
+- word: mef
   count: 1
-- word: LSO
+- word: lso
   count: 1
-- word: come
-  count: 5
 - word: together
   count: 10
 - word: benefit
   count: 6
 - word: communities
   count: 2
-- word: Microversions
+- word: microversions
   count: 1
-- word: OpenStack
+- word: openstack
   count: 4
 - word: ran
   count: 2
 - word: challenge
   count: 1
 - word: do
-  count: 30
+  count: 34
 - word: balance
   count: 1
 - word: evolve
   count: 4
 - word: backwards
-  count: 5
+  count: 6
 - word: compatibility
   count: 2
 - word: guarantees
@@ -765,19 +733,19 @@
 - word: work
   count: 19
 - word: different
-  count: 23
+  count: 24
 - word: deployments
   count: 2
 - word: when
-  count: 36
+  count: 45
 - word: 'no'
-  count: 13
+  count: 15
 - word: control
-  count: 9
+  count: 10
 - word: over
-  count: 30
+  count: 31
 - word: going
-  count: 9
+  count: 10
 - word: upgrade
   count: 1
 - word: answer
@@ -788,27 +756,27 @@
   count: 26
 - word: labeled
   count: 1
-- word: Microversions"
+- word: microversions"
   count: 1
 - word: inspired
   count: 2
-- word: HTTP
+- word: http
   count: 7
 - word: content
-  count: 2
+  count: 3
 - word: negotiation
   count: 1
 - word: talk
   count: 52
 - word: will
-  count: 164
+  count: 168
 - word: dig
   count: 2
 - word: challenges
   count: 17
 - word: versioning
   count: 4
-- word: APIs
+- word: apis
   count: 29
 - word: unique
   count: 3
@@ -821,7 +789,7 @@
 - word: interoperable
   count: 1
 - word: public
-  count: 14
+  count: 16
 - word: clouds
   count: 1
 - word: dive
@@ -829,27 +797,27 @@
 - word: ideas
   count: 4
 - word: were
-  count: 11
+  count: 12
 - word: tried
   count: 3
 - word: retired
   count: 1
-- word: OpenStack
+- word: openstack
   count: 1
 - word: describe
-  count: 7
+  count: 8
 - word: depth
   count: 1
 - word: microversion
   count: 1
 - word: many
-  count: 28
+  count: 34
 - word: use
   count: 5
-- word: Well
-  count: 5
+- word: well
+  count: 14
 - word: look
-  count: 15
+  count: 17
 - word: whats
   count: 1
 - word: learned
@@ -865,25 +833,21 @@
 - word: might
   count: 10
 - word: applied
-  count: 3
+  count: 4
 - word: projects
   count: 2
-- word: Microservices
-  count: 13
+- word: microservices
+  count: 32
 - word: vs
   count: 2
-- word: History
-  count: 1
-- word: Industrial
+- word: history
   count: 3
-- word: Revolution
+- word: industrial
   count: 3
-- word: Software
-  count: 5
+- word: revolution
+  count: 3
 - word: happening
   count: 2
-- word: Many
-  count: 6
 - word: had
   count: 7
 - word: built
@@ -896,33 +860,29 @@
   count: 2
 - word: line
   count: 3
-- word: Ford
+- word: ford
   count: 1
-- word: Motor
-  count: 1
-- word: Company
+- word: motor
   count: 1
 - word: helped
   count: 2
 - word: launch
   count: 3
-- word: Second
+- word: second
   count: 1
-- word: I
+- word: i
   count: 1
 - word: wrote
   count: 2
 - word: all
-  count: 39
+  count: 40
 - word: blog
   count: 3
 - word: post
   count: 1
 - word: back
-  count: 7
-- word: In
-  count: 54
-- word: Fords
+  count: 8
+- word: fords
   count: 1
 - word: electrification
   count: 2
@@ -935,7 +895,7 @@
 - word: innovation
   count: 2
 - word: practical
-  count: 10
+  count: 12
 - word: combination
   count: 1
 - word: electric
@@ -958,13 +918,13 @@
   count: 1
 - word: cycles
   count: 1
-- word: Today
-  count: 1
+- word: today
+  count: 4
 - word: computing
-  count: 1
+  count: 2
 - word: world
   count: 6
-- word: OSS
+- word: oss
   count: 6
 - word: means
   count: 6
@@ -979,19 +939,19 @@
 - word: course
   count: 1
 - word: its
-  count: 5
+  count: 7
 - word: far
   count: 1
 - word: over
   count: 1
-- word: Until
-  count: 1
+- word: until
+  count: 3
 - word: few
   count: 10
 - word: most
-  count: 21
+  count: 22
 - word: companies
-  count: 12
+  count: 13
 - word: developing
   count: 4
 - word: heavy
@@ -999,7 +959,7 @@
 - word: monolithic
   count: 5
 - word: applications
-  count: 18
+  count: 21
 - word: weighed
   count: 1
 - word: down
@@ -1008,21 +968,19 @@
   count: 2
 - word: code
   count: 4
-- word: Since
-  count: 3
 - word: rise
   count: 5
 - word: container
   count: 2
 - word: orchestration
-  count: 3
+  count: 4
 - word: technologies
   count: 14
-- word: Docker
+- word: docker
   count: 1
-- word: Mesos
+- word: mesos
   count: 1
-- word: Kubernetes
+- word: kubernetes
   count: 1
 - word: decoupled
   count: 3
@@ -1032,20 +990,18 @@
   count: 1
 - word: thousands
   count: 5
-- word: microservices
-  count: 19
 - word: communicate
   count: 4
 - word: via
   count: 11
 - word: architecture
-  count: 18
+  count: 23
 - word: operations
   count: 6
 - word: smaller
   count: 1
 - word: more
-  count: 62
+  count: 65
 - word: lightweight
   count: 2
 - word: shapeless
@@ -1053,25 +1009,23 @@
 - word: fastmoving
   count: 1
 - word: dynamic
-  count: 2
+  count: 3
 - word: but
-  count: 34
+  count: 52
 - word: also
-  count: 30
+  count: 31
 - word: much
   count: 13
 - word: complex
   count: 4
 - word: interdependent
   count: 1
-- word: Oncoming
+- word: oncoming
   count: 1
 - word: serverless
-  count: 13
+  count: 20
 - word: microfunctions
   count: 1
-- word: These
-  count: 8
 - word: profound
   count: 1
 - word: created
@@ -1091,39 +1045,33 @@
 - word: orchestrated
   count: 1
 - word: while
-  count: 13
+  count: 18
 - word: maintaining
-  count: 5
+  count: 7
 - word: low
   count: 1
 - word: latency
   count: 1
-- word: Microservice
-  count: 5
+- word: microservice
+  count: 11
 - word: missioncritical
   count: 1
-- word: Black
-  count: 1
-- word: Pipe
-  count: 1
-- word: Testing
-  count: 1
-- word: Verify
-  count: 1
-- word: Your
-  count: 14
-- word: Distributed
-  count: 3
-- word: System
+- word: black
   count: 2
-- word: Face
+- word: pipe
+  count: 2
+- word: testing
   count: 1
-- word: Errors
+- word: verify
   count: 1
-- word: When
-  count: 9
+- word: distributed
+  count: 10
+- word: face
+  count: 7
+- word: errors
+  count: 2
 - word: program
-  count: 13
+  count: 15
 - word: black
   count: 2
 - word: box
@@ -1136,14 +1084,10 @@
   count: 2
 - word: toast
   count: 1
-- word: But
-  count: 18
 - word: network
   count: 4
-- word: I/O
+- word: i/o
   count: 1
-- word: two
-  count: 11
 - word: ends
   count: 1
 - word: network
@@ -1155,15 +1099,15 @@
 - word: once
   count: 1
 - word: so
-  count: 21
+  count: 23
 - word: its
   count: 22
 - word: wire
   count: 1
 - word: protocol
-  count: 4
+  count: 5
 - word: or
-  count: 55
+  count: 60
 - word: errorhandling
   count: 1
 - word: pipe
@@ -1171,63 +1115,47 @@
 - word: test
   count: 1
 - word: messaging
-  count: 3
+  count: 4
 - word: socket
   count: 1
-- word: Ill
+- word: ill
   count: 6
 - word: present
   count: 13
 - word: handy
   count: 2
 - word: library
-  count: 7
+  count: 10
 - word: advise
-  count: 1
-- word: black
-  count: 1
-- word: pipe
   count: 1
 - word: tests
   count: 3
-- word: Smart
-  count: 4
-- word: Strategies
-  count: 1
-- word: Resilient
-  count: 1
-- word: MongoDB
-  count: 2
-- word: Applications
+- word: smart
+  count: 6
+- word: strategies
+  count: 11
+- word: resilient
   count: 3
-- word: Do
-  count: 4
+- word: mongodb
+  count: 2
 - word: application
   count: 20
 - word: run
   count: 6
 - word: reliably
   count: 1
-- word: You
-  count: 18
 - word: must
   count: 9
 - word: failovers
   count: 1
 - word: errors
   count: 3
-- word: one
-  count: 24
 - word: published
   count: 2
-- word: smart
-  count: 2
 - word: strategy
-  count: 8
-- word: So
-  count: 2
+  count: 10
 - word: app
-  count: 4
+  count: 11
 - word: wastes
   count: 1
 - word: retrying
@@ -1240,7 +1168,7 @@
   count: 2
 - word: retried
   count: 1
-- word: Worst
+- word: worst
   count: 1
 - word: all
   count: 1
@@ -1253,13 +1181,9 @@
 - word: corruption
   count: 1
 - word: theres
-  count: 3
+  count: 5
 - word: way
   count: 3
-- word: A
-  count: 21
-- word: resilient
-  count: 2
 - word: simpler
   count: 1
 - word: betterperforming
@@ -1268,38 +1192,32 @@
   count: 4
 - word: think
   count: 1
-- word: Python
+- word: python
   count: 4
-- word: Async
-  count: 1
-- word: Framework
-  count: 1
-- word: With
+- word: async
+  count: 2
+- word: framework
   count: 12
-- word: Coroutines
+- word: coroutines
   count: 1
-- word: Magic
+- word: magic
+  count: 3
+- word: show!
   count: 1
-- word: Show!
-  count: 1
-- word: Can
-  count: 4
 - word: write
   count: 9
 - word: asynciostyle
   count: 1
-- word: framework
-  count: 11
 - word: coroutines
   count: 2
 - word: just
-  count: 18
+  count: 19
 - word: minutes
   count: 1
-- word: Lets
+- word: lets
   count: 8
 - word: find
-  count: 6
+  count: 8
 - word: out!
   count: 1
 - word: see
@@ -1308,22 +1226,20 @@
   count: 1
 - word: trick
   count: 1
-- word: Youll
-  count: 5
+- word: youll
+  count: 12
 - word: gain
   count: 8
 - word: fundamental
   count: 4
 - word: knowledge
   count: 6
-- word: async
-  count: 1
-- word: I/O
+- word: i/o
   count: 1
 - word: generatorbased
   count: 1
 - word: understand
-  count: 9
+  count: 10
 - word: 35s
   count: 1
 - word: coroutine
@@ -1334,30 +1250,28 @@
   count: 1
 - word: await"
   count: 1
-- word: Marketing
+- word: marketing
   count: 1
-- word: First
+- word: comes
   count: 2
-- word: Comes
+- word: usability
   count: 1
-- word: Usability
-  count: 1
-- word: Discoverability
+- word: discoverability
   count: 2
 - word: market
-  count: 8
-- word: Well
+  count: 9
+- word: well
   count: 1
 - word: design
-  count: 37
+  count: 45
 - word: usable
   count: 7
 - word: caters
   count: 1
 - word: experience
-  count: 6
+  count: 7
 - word: best
-  count: 21
+  count: 23
 - word: needs
   count: 18
 - word: promotional
@@ -1367,9 +1281,9 @@
 - word: maximize
   count: 2
 - word: making
-  count: 10
+  count: 14
 - word: interface
-  count: 5
+  count: 8
 - word: naturally
   count: 1
 - word: discoverable
@@ -1378,8 +1292,6 @@
   count: 2
 - word: outline
   count: 1
-- word: strategies
-  count: 10
 - word: increase
   count: 5
 - word: exposure
@@ -1387,13 +1299,13 @@
 - word: covering
   count: 1
 - word: things
-  count: 10
+  count: 11
 - word: like
   count: 3
 - word: '*'
   count: 6
-- word: Examples
-  count: 3
+- word: examples
+  count: 16
 - word: sandboxes
   count: 1
 - word: playgrounds
@@ -1407,7 +1319,7 @@
 - word: welldesigned
   count: 1
 - word: dev
-  count: 1
+  count: 2
 - word: portals
   count: 4
 - word: throughout
@@ -1415,15 +1327,13 @@
 - word: space
   count: 3
 - word: benefits
-  count: 15
+  count: 16
 - word: machine
-  count: 5
+  count: 8
 - word: readable
   count: 1
 - word: definitions
   count: 1
-- word: Tooling
-  count: 2
 - word: aid
   count: 1
 - word: generating
@@ -1434,29 +1344,27 @@
   count: 1
 - word: appeal
   count: 1
-- word: Directory
+- word: directory
   count: 1
 - word: profiling
   count: 1
-- word: Increasing
+- word: increasing
   count: 1
 - word: web
-  count: 26
-- word: APIspecific
+  count: 33
+- word: apispecific
   count: 1
 - word: directories
   count: 1
-- word: ProgrammableWeb
+- word: programmableweb
   count: 1
-- word: APIsguru
+- word: apisguru
   count: 1
 - word: others
   count: 4
-- word: Content
-  count: 1
 - word: generation
   count: 1
-- word: Crafting
+- word: crafting
   count: 1
 - word: searchengine-optimized
   count: 1
@@ -1484,8 +1392,6 @@
   count: 3
 - word: marketing
   count: 4
-- word: SaaS
-  count: 2
 - word: integral
   count: 1
 - word: social
@@ -1498,14 +1404,14 @@
   count: 2
 - word: stay
   count: 2
-- word: Traditional
-  count: 1
+- word: traditional
+  count: 5
 - word: institutions
   count: 1
 - word: financial
-  count: 9
+  count: 12
 - word: sector
-  count: 3
+  count: 4
 - word: heavily
   count: 1
 - word: challenged
@@ -1518,7 +1424,7 @@
   count: 1
 - word: regulations
   count: 1
-- word: PSD2
+- word: psd2
   count: 1
 - word: implementing
   count: 5
@@ -1529,17 +1435,17 @@
 - word: revolutionize
   count: 1
 - word: models
-  count: 6
+  count: 7
 - word: relevant
   count: 1
-- word: We
+- word: we
   count: 3
 - word: cover
   count: 12
 - word: secure
   count: 10
 - word: access
-  count: 19
+  count: 21
 - word: banks
   count: 1
 - word: programmable
@@ -1555,22 +1461,20 @@
 - word: recommendations
   count: 1
 - word: some
-  count: 39
+  count: 43
 - word: banking
   count: 4
 - word: stories
   count: 1
-- word: Integration
-  count: 15
-- word: State
+- word: integration
+  count: 43
+- word: state
+  count: 6
+- word: union
   count: 1
-- word: Union
-  count: 1
-- word: There
+- word: there
   count: 2
 - word: adoption
-  count: 7
-- word: Web
   count: 7
 - word: stats
   count: 1
@@ -1579,74 +1483,68 @@
 - word: around
   count: 12
 - word: what
-  count: 39
+  count: 64
 - word: integration
   count: 1
 - word: session
   count: 24
 - word: take
   count: 16
-- word: integration
-  count: 28
 - word: looking
-  count: 5
+  count: 6
 - word: weve
   count: 6
 - word: collected
   count: 3
 - word: large
-  count: 6
+  count: 7
 - word: enterprise
-  count: 18
+  count: 24
 - word: apps
   count: 1
-- word: Well
-  count: 9
+- word: well
+  count: 13
 - word: seeing
   count: 2
 - word: among
   count: 6
 - word: providers
-  count: 9
+  count: 11
 - word: ease
   count: 2
 - word: burden
   count: 2
 - word: make
-  count: 43
+  count: 44
 - word: recommendations
   count: 1
 - word: ensure
   count: 6
 - word: were
-  count: 6
+  count: 7
 - word: today
-  count: 2
+  count: 3
 - word: fit
   count: 7
 - word: purpose
   count: 2
 - word: tomorrow
   count: 1
-- word: Perils
-  count: 1
-- word: Polling
-  count: 1
-- word: Applications
-  count: 1
-- word: Service
-  count: 12
-- word: Providers
+- word: perils
   count: 2
+- word: polling
+  count: 2
+- word: applications
+  count: 1
 - word: value
   count: 12
 - word: alert
   count: 1
 - word: users
-  count: 14
+  count: 15
 - word: in
   count: 1
-- word: Sadly
+- word: sadly
   count: 1
 - word: sphere
   count: 1
@@ -1655,7 +1553,7 @@
 - word: request/response
   count: 1
 - word: pattern
-  count: 2
+  count: 3
 - word: introduces
   count: 2
 - word: significant
@@ -1664,16 +1562,12 @@
   count: 1
 - word: explore
   count: 13
-- word: perils
-  count: 1
-- word: polling
-  count: 1
 - word: calling
   count: 3
 - word: over
   count: 1
 - word: without
-  count: 17
+  count: 18
 - word: receiving
   count: 1
 - word: any
@@ -1681,31 +1575,25 @@
 - word: useful
   count: 4
 - word: data
-  count: 12
+  count: 13
 - word: alternatives
   count: 1
-- word: WebHooks
+- word: webhooks
   count: 1
 - word: evolution
   count: 1
-- word: OAI
+- word: oai
   count: 1
 - word: eventing
   count: 1
-- word: App
-  count: 7
-- word: Data
-  count: 4
-- word: Hub
-  count: 1
-- word: A
-  count: 1
 - word: hub
+  count: 2
+- word: a
   count: 1
 - word: scale
   count: 2
 - word: governance
-  count: 2
+  count: 5
 - word: mediation
   count: 2
 - word: architecture
@@ -1728,26 +1616,26 @@
   count: 1
 - word: ecosystems
   count: 1
-- word: Bridging
+- word: bridging
   count: 1
-- word: Microservices
-  count: 3
-- word: Management
-  count: 8
+- word: microservices
+  count: 4
+- word: management
+  count: 24
 - word: becoming
   count: 5
 - word: popular
   count: 7
 - word: enterprises
-  count: 7
+  count: 8
 - word: segregated
   count: 1
 - word: finegrained
   count: 1
 - word: services
   count: 10
-- word: However
-  count: 8
+- word: however
+  count: 13
 - word: facing
   count: 5
 - word: issue
@@ -1757,14 +1645,10 @@
 - word: those
   count: 8
 - word: create
-  count: 20
+  count: 22
 - word: composite
   count: 3
-- word: While
-  count: 5
-- word: traditional
-  count: 4
-- word: ESB
+- word: esb
   count: 1
 - word: option
   count: 1
@@ -1776,75 +1660,69 @@
   count: 1
 - word: covers
   count: 5
-- word: Microservices
+- word: microservices
   count: 1
-- word: ESB/Integration
+- word: esb/integration
   count: 1
-- word: Middleware — Myths
+- word: middleware — myths
   count: 1
-- word: FactsMicroservices
+- word: factsmicroservices
   count: 1
-- word: Use
-  count: 2
 - word: cases
   count: 5
 - word: world
-  count: 25
-- word: Netflix
+  count: 26
+- word: netflix
   count: 1
-- word: Uber
+- word: uber
   count: 1
-- word: Paypal
+- word: paypal
   count: 1
-- word: eBay
+- word: ebay
   count: 1
-- word: What
+- word: what
   count: 1
-- word: ‘IntegrationMicroservices/Micro-integrations
+- word: ‘integrationmicroservices/micro-integrations
   count: 1
-- word: Types
+- word: types
   count: 1
-- word: MicroIntegrations
-  count: 1
-- word: State
+- word: microintegrations
+  count: 2
+- word: state
   count: 1
 - word: art
   count: 1
-- word: Microintegrations
+- word: building
+  count: 2
+- word: integrationmicroservices
+  count: 2
+- word: api
+  count: 2
+- word: gateway
+  count: 6
+- word: convergence
   count: 1
-- word: Building
-  count: 2
-- word: Integrationmicroservices
-  count: 2
-- word: API
-  count: 2
-- word: Gateway
-  count: 5
-- word: Convergence
-  count: 1
-- word: management
-  count: 16
 - word: layer
   count: 8
-- word: Breaking
+- word: breaking
   count: 1
 - word: monolith
   count: 1
 - word: story
   count: 7
-- word: Singer
+- word: singer
   count: 4
 - word: opensourcing
   count: 1
 - word: integrations
   count: 8
-- word: Stitch
+- word: stitch
   count: 1
-- word: Datas
-  count: 1
+- word: datas
+  count: 2
 - word: opensource
   count: 3
-- word: ETL
+- word: etl
   count: 1
 - word: helps
   count: 4
@@ -1855,7 +1733,7 @@
 - word: born
   count: 4
 - word: writing
-  count: 4
+  count: 7
 - word: script
   count: 1
 - word: break
@@ -1868,8 +1746,6 @@
   count: 1
 - word: time
   count: 2
-- word: Making
-  count: 4
 - word: purposeful
   count: 1
 - word: move
@@ -1883,7 +1759,7 @@
 - word: easier
   count: 2
 - word: product
-  count: 17
+  count: 20
 - word: along
   count: 9
 - word: successes
@@ -1900,12 +1776,12 @@
   count: 1
 - word: securely
   count: 1
-- word: Trade
-  count: 3
-- word: APIs
+- word: trade
+  count: 6
+- word: apis
   count: 3
 - word: marketplace
-  count: 12
+  count: 14
 - word: decided
   count: 2
 - word: usage
@@ -1932,12 +1808,12 @@
   count: 8
 - word: visibility
   count: 2
-- word: External
-  count: 2
+- word: external
+  count: 11
 - word: consumers
-  count: 13
+  count: 14
 - word: discover
-  count: 7
+  count: 8
 - word: development
   count: 5
 - word: long
@@ -1952,33 +1828,29 @@
   count: 10
 - word: consumer
   count: 2
-- word: In
-  count: 4
+- word: in
+  count: 5
 - word: talk
   count: 22
-- word: Asanka
+- word: asanka
   count: 4
 - word: explain
   count: 10
 - word: strategy
-  count: 5
+  count: 6
 - word: implementation
   count: 3
 - word: maintenance
   count: 4
 - word: marketplace
   count: 4
-- word: Role
-  count: 3
-- word: Architecture
-  count: 5
+- word: role
+  count: 9
 - word: treated
   count: 2
 - word: oldschool
   count: 2
-- word: microservice
-  count: 6
-- word: MSA
+- word: msa
   count: 2
 - word: introduced
   count: 2
@@ -1996,22 +1868,18 @@
   count: 8
 - word: implemented
   count: 5
-- word: MSA
+- word: msa
   count: 4
 - word: identified
   count: 2
 - word: important
   count: 15
-- word: role
-  count: 6
 - word: plays
   count: 2
 - word: modern
-  count: 6
+  count: 8
 - word: paradigm
   count: 3
-- word: An
-  count: 5
 - word: connects
   count: 5
 - word: builds
@@ -2023,12 +1891,12 @@
 - word: routing
   count: 3
 - word: legacy
-  count: 8
+  count: 9
 - word: common
   count: 11
 - word: enterprises
   count: 2
-- word: During
+- word: during
   count: 2
 - word: session
   count: 10
@@ -2038,13 +1906,13 @@
   count: 2
 - word: microservices
   count: 5
-- word: Dishing
+- word: dishing
   count: 1
-- word: Dirt
+- word: dirt
   count: 1
-- word: Initiative
-  count: 2
-- word: I
+- word: initiative
+  count: 4
+- word: i
   count: 33
 - word: front
   count: 1
@@ -2057,7 +1925,7 @@
 - word: am
   count: 6
 - word: here
-  count: 1
+  count: 2
 - word: dish
   count: 1
 - word: dirt
@@ -2066,9 +1934,9 @@
   count: 1
 - word: system
   count: 3
-- word: Bulletproofing
+- word: bulletproofing
   count: 1
-- word: APIs
+- word: apis
   count: 2
 - word: todays
   count: 1
@@ -2081,7 +1949,7 @@
 - word: matter
   count: 6
 - word: if
-  count: 23
+  count: 31
 - word: simple
   count: 12
 - word: breach
@@ -2105,25 +1973,23 @@
 - word: only
   count: 12
 - word: organization
-  count: 9
-- word: external
-  count: 9
+  count: 10
 - word: well
   count: 2
-- word: With
+- word: with
   count: 1
 - word: loaded
   count: 1
 - word: consequences
   count: 1
 - word: testing
-  count: 14
+  count: 19
 - word: validating
   count: 2
 - word: device
-  count: 1
+  count: 2
 - word: security
-  count: 38
+  count: 41
 - word: vulnerabilities
   count: 2
 - word: become
@@ -2132,47 +1998,43 @@
   count: 9
 - word: standard
   count: 3
-- word: In
+- word: in
   count: 3
 - word: youll
-  count: 1
-- word: Shift
-  count: 1
+  count: 2
+- word: shift
+  count: 2
 - word: left
-  count: 1
+  count: 2
 - word: efforts
   count: 4
 - word: continuous
-  count: 1
+  count: 9
 - word: process
   count: 1
-- word: Perform
-  count: 1
+- word: perform
+  count: 2
 - word: penetration
   count: 1
 - word: testing
   count: 1
-- word: Extend
-  count: 1
+- word: extend
+  count: 7
 - word: existing
   count: 5
 - word: functional
   count: 3
 - word: tests
-  count: 4
+  count: 6
 - word: scenarios
   count: 1
-- word: Correlate
+- word: correlate
   count: 1
 - word: requirements
   count: 1
-- word: Continuous
-  count: 8
-- word: Testing
-  count: 5
-- word: DevOps
+- word: devops
   count: 4
-- word: DevOpsAccelerating
+- word: devopsaccelerating
   count: 1
 - word: process
   count: 10
@@ -2191,14 +2053,14 @@
 - word: component
   count: 1
 - word: case
-  count: 10
-- word: SDLC
+  count: 11
+- word: sdlc
   count: 1
 - word: acceleration
   count: 1
 - word: initiatives
   count: 4
-- word: Delivery
+- word: delivery
   count: 2
 - word: repeatedly
   count: 1
@@ -2210,16 +2072,14 @@
   count: 1
 - word: impacting
   count: 2
-- word: velocityThis
+- word: velocitythis
   count: 1
 - word: research
   count: 3
 - word: insights
   count: 7
-- word: why
-  count: 23
-- word: Virtualization
-  count: 1
+- word: virtualization
+  count: 2
 - word: essential
   count: 2
 - word: automating
@@ -2228,27 +2088,25 @@
   count: 1
 - word: marketdifferentiating
   count: 1
-- word: Attendees
+- word: attendees
   count: 1
 - word: learn
   count: 1
-- word: "•\tThe"
+- word: "•\tthe"
   count: 1
 - word: distinctions
   count: 1
 - word: between
-  count: 21
+  count: 22
 - word: automated
-  count: 5
-- word: "Testing•\tWhy"
-  count: 1
-- word: virtualization
+  count: 6
+- word: "testing•\twhy"
   count: 1
 - word: vital
   count: 2
-- word: Testing—and
+- word: testing—and
   count: 1
-- word: "them•\tThe"
+- word: "them•\tthe"
   count: 1
 - word: top
   count: 5
@@ -2258,33 +2116,31 @@
   count: 3
 - word: answers
   count: 1
-- word: Testing
+- word: testing
   count: 1
-- word: DevOps
+- word: devops
   count: 1
 - word: containers
   count: 2
 - word: more
   count: 6
-- word: Unlocking
-  count: 2
-- word: hypermedia
-  count: 13
-- word: api
+- word: unlocking
   count: 3
+- word: hypermedia
+  count: 17
 - word: intelligent
   count: 3
 - word: generic
   count: 8
 - word: clients
   count: 13
-- word: Michael
+- word: michael
   count: 1
-- word: Hibay
+- word: hibay
   count: 1
-- word: Baysong
+- word: baysong
   count: 1
-- word: ServicesWhat
+- word: serviceswhat
   count: 1
 - word: locked
   count: 1
@@ -2300,7 +2156,7 @@
   count: 11
 - word: anyway
   count: 1
-- word: Cant
+- word: cant
   count: 1
 - word: let
   count: 2
@@ -2308,7 +2164,7 @@
   count: 2
 - word: worry
   count: 1
-- word: stuffIn
+- word: stuffin
   count: 1
 - word: concept
   count: 4
@@ -2337,7 +2193,7 @@
 - word: contribute
   count: 2
 - word: within
-  count: 9
+  count: 10
 - word: enables
   count: 8
 - word: size
@@ -2356,22 +2212,20 @@
   count: 1
 - word: employee
   count: 1
-- word: talentDoes
+- word: talentdoes
   count: 1
 - word: seem
   count: 3
 - word: too
   count: 5
 - word: good
-  count: 13
+  count: 14
 - word: 'true'
   count: 1
 - word: isnt
   count: 1
 - word: live
   count: 2
-- word: examples
-  count: 13
 - word: action
   count: 2
 - word: revealing
@@ -2379,24 +2233,22 @@
 - word: glimpse
   count: 2
 - word: future
-  count: 9
-- word: hAPI
-  count: 1
-- word: Digital
-  count: 7
-- word: Connectors
+  count: 10
+- word: hapi
   count: 1
 - word: digital
-  count: 14
+  count: 21
+- word: connectors
+  count: 2
 - word: transformation
-  count: 8
+  count: 9
 - word: seen
   count: 5
 - word: “reception”
   count: 1
 - word: defence
   count: 1
-- word: Therefore
+- word: therefore
   count: 1
 - word: assist
   count: 1
@@ -2404,9 +2256,9 @@
   count: 1
 - word: reap
   count: 2
-- word: ecosystemIn
+- word: ecosystemin
   count: 1
-- word: Lakmal
+- word: lakmal
   count: 1
 - word: discuss
   count: 1
@@ -2414,13 +2266,11 @@
   count: 6
 - word: transformation
   count: 1
-- word: Key
-  count: 2
 - word: performance
   count: 7
 - word: indicators
   count: 1
-- word: KPIs
+- word: kpis
   count: 1
 - word: evaluate
   count: 3
@@ -2428,7 +2278,7 @@
   count: 1
 - word: digitize
   count: 1
-- word: APIs
+- word: apis
   count: 1
 - word: right
   count: 10
@@ -2436,24 +2286,18 @@
   count: 5
 - word: architecture
   count: 1
-- word: APIcentric
+- word: apicentric
   count: 1
 - word: stories
   count: 1
-- word: Creating
-  count: 4
-- word: Communication
-  count: 1
-- word: Asterisk
+- word: communication
+  count: 2
+- word: asterisk
   count: 8
-- word: RESTFul
+- word: ari
   count: 2
-- word: Interface
-  count: 3
-- word: ARI
-  count: 2
-- word: People
-  count: 2
+- word: people
+  count: 19
 - word: often
   count: 14
 - word: tend
@@ -2462,7 +2306,7 @@
   count: 7
 - word: open
   count: 1
-- word: PBX
+- word: pbx
   count: 1
 - word: because
   count: 4
@@ -2471,13 +2315,13 @@
 - word: original
   count: 1
 - word: development
-  count: 23
+  count: 26
 - word: effort
   count: 2
-- word: PBX
+- word: pbx
   count: 1
 - word: selling
-  count: 1
+  count: 2
 - word: short
   count: 4
 - word: it
@@ -2489,20 +2333,18 @@
 - word: less
   count: 1
 - word: communications
-  count: 4
+  count: 5
 - word: server
   count: 5
 - word: applications
   count: 5
 - word: server
   count: 2
-- word: communication
-  count: 1
 - word: install
   count: 1
-- word: Asterisk
+- word: asterisk
   count: 1
-- word: applicationsThe
+- word: applicationsthe
   count: 1
 - word: asynchronous
   count: 2
@@ -2524,73 +2366,67 @@
   count: 1
 - word: etc
   count: 2
-- word: state
-  count: 5
 - word: controlled
   count: 1
 - word: user
-  count: 19
+  count: 21
 - word: conveyed
   count: 1
-- word: JSON
+- word: json
   count: 13
-- word: WebSocket
+- word: websocket
   count: 1
 - word: traditionally
   count: 1
 - word: purview
   count: 1
-- word: Asterisks
+- word: asterisks
   count: 1
-- word: C
+- word: c
   count: 2
 - word: modules
   count: 1
 - word: handing
   count: 1
-- word: ARI
+- word: ari
   count: 3
 - word: regardless
-  count: 2
+  count: 3
 - word: language
   count: 8
 - word: choice
   count: 3
 - word: engine
-  count: 2
+  count: 3
 - word: communication
   count: 1
 - word: logic
-  count: 4
+  count: 5
 - word: deferred
   count: 1
-- word: Asterisk
+- word: asterisk
   count: 1
-- word: This
+- word: this
   count: 4
 - word: presentation
-  count: 10
-- word: information
-  count: 7
-- word: getting
-  count: 8
-- word: working
   count: 11
+- word: information
+  count: 8
+- word: getting
+  count: 10
+- word: working
+  count: 12
 - word: demonstration
   count: 3
 - word: telephone
   count: 1
 - word: application
   count: 2
-- word: Models
-  count: 1
-- word: Design
-  count: 8
-- word: REST
+- word: rest
   count: 2
-- word: RPC
+- word: rpc
   count: 2
-- word: GraphQL
+- word: graphql
   count: 3
 - word: list
   count: 3
@@ -2601,7 +2437,7 @@
 - word: architectures
   count: 3
 - word: know
-  count: 8
+  count: 10
 - word: use
   count: 1
 - word: break
@@ -2613,10 +2449,10 @@
 - word: highlight
   count: 2
 - word: where
-  count: 16
+  count: 19
 - word: forward
   count: 1
-- word: Broadly
+- word: broadly
   count: 1
 - word: speaking
   count: 1
@@ -2629,10 +2465,10 @@
 - word: namespace
   count: 1
 - word: functions
-  count: 2
+  count: 3
 - word: machine
   count: 1
-- word: Almost
+- word: almost
   count: 1
 - word: everyones
   count: 2
@@ -2644,8 +2480,6 @@
   count: 13
 - word: underutilized
   count: 1
-- word: What
-  count: 24
 - word: modeling
   count: 4
 - word: machine
@@ -2655,7 +2489,7 @@
 - word: processes
   count: 3
 - word: specifically
-  count: 1
+  count: 2
 - word: show
   count: 9
 - word: traverse
@@ -2665,10 +2499,6 @@
 - word: improved
   count: 3
 - word: flows
-  count: 2
-- word: Create
-  count: 2
-- word: Marketplace
   count: 2
 - word: defined
   count: 3
@@ -2682,30 +2512,20 @@
   count: 1
 - word: reach
   count: 1
-- word: today
-  count: 3
-- word: however
-  count: 5
 - word: struggle
   count: 1
 - word: meet
   count: 5
 - word: programs
   count: 3
-- word: Building
-  count: 13
 - word: enable
-  count: 9
+  count: 10
 - word: visibility
   count: 3
 - word: efforts
   count: 2
-- word: Other
-  count: 1
 - word: 80%
   count: 2
-- word: Product
-  count: 3
 - word: offering
   count: 1
 - word: office
@@ -2714,10 +2534,8 @@
   count: 2
 - word: needed
   count: 3
-- word: Its
-  count: 3
 - word: fun
-  count: 3
+  count: 4
 - word: 'on'
   count: 2
 - word: critical
@@ -2726,16 +2544,16 @@
   count: 13
 - word: lessons
   count: 13
-- word: Pitney
+- word: pitney
   count: 1
-- word: Bowes
+- word: bowes
   count: 1
 - word: global
   count: 3
 - word: processing
   count: 2
 - word: transactions
-  count: 3
+  count: 4
 - word: day
   count: 2
 - word: physical
@@ -2745,62 +2563,54 @@
 - word: commerce
   count: 1
 - word: implementation
-  count: 5
+  count: 6
 - word: valuable
   count: 4
 - word: insight
   count: 4
 - word: designing
-  count: 6
+  count: 7
 - word: systems
   count: 8
 - word: sell
   count: 3
-- word: Unified
+- word: unified
+  count: 4
+- word: billing
+  count: 2
+- word: contracting
   count: 1
-- word: Billing
-  count: 1
-- word: Contracting
-  count: 1
-- word: Fragility
+- word: fragility
   count: 1
 - word: interoperability
   count: 3
-- word: Today
-  count: 1
-- word: extend
-  count: 6
 - word: catching
   count: 1
 - word: opportunities
   count: 1
-- word: For
-  count: 5
 - word: example
   count: 3
-- word: Mesos
+- word: mesos
   count: 1
 - word: deploy
   count: 2
-- word: cloudsOn
+- word: cloudson
   count: 1
 - word: cloudnative
   count: 1
-- word: APPs
-  count: 1
+- word: apps
+  count: 3
 - word: switch
   count: 2
 - word: private
-  count: 1
+  count: 3
 - word: clouds
   count: 1
 - word: costefficiency
   count: 1
 - word: highperformance
   count: 1
-- word: face
-  count: 6
-- word: timeIn
+- word: timein
   count: 1
 - word: general
   count: 1
@@ -2824,23 +2634,21 @@
   count: 3
 - word: providers
   count: 1
-- word: featuresIn
+- word: featuresin
   count: 1
 - word: speaker
-  count: 2
+  count: 3
 - word: keep
-  count: 8
+  count: 9
 - word: stable
   count: 1
 - word: interoperability
   count: 1
-- word: Mapping
+- word: mapping
+  count: 2
+- word: "applications\L"
   count: 1
-- word: Cloud
-  count: 4
-- word: "Applications\L"
-  count: 1
-- word: "\LIn"
+- word: "\Lin"
   count: 2
 - word: complexity
   count: 1
@@ -2849,13 +2657,11 @@
 - word: withing
   count: 1
 - word: interactions
-  count: 1
-- word: As
-  count: 13
+  count: 2
 - word: chaotic
   count: 1
 - word: dynamic
-  count: 2
+  count: 4
 - word: topology
   count: 1
 - word: maps
@@ -2869,13 +2675,13 @@
 - word: response
   count: 1
 - word: monitoring
-  count: 2
+  count: 3
 - word: capacity
   count: 2
 - word: planning
   count: 1
 - word: security
-  count: 4
+  count: 5
 - word: deploys
   count: 1
 - word: "cover\L1"
@@ -2891,8 +2697,8 @@
 - word: center/regions
   count: 1
 - word: infrastructure
-  count: 6
-- word: VMs
+  count: 7
+- word: vms
   count: 1
 - word: pods
   count: 1
@@ -2902,63 +2708,61 @@
   count: 1
 - word: 'on'
   count: 3
-- word: Various
-  count: 1
+- word: various
+  count: 10
 - word: techniques
   count: 11
 - word: gather
-  count: 1
+  count: 2
 - word: pros/cons
   count: 1
 - word: each
   count: 1
 - word: a
   count: 1
-- word: Endto-end
-  count: 1
-- word: tracing
+- word: endto-end
   count: 2
-- word: Whitebox
+- word: tracing
+  count: 4
+- word: whitebox
   count: 1
 - word: techniques
   count: 2
 - word: eg.
   count: 3
-- word: APMs
+- word: apms
   count: 1
-- word: Tracing
-  count: 2
-- word: SDKs
+- word: sdks
   count: 7
 - word: "proxies\L"
   count: 1
 - word: b
   count: 1
-- word: Ingress/Egress
+- word: ingress/egress
   count: 1
-- word: Blackbox
+- word: blackbox
   count: 1
 - word: packet
   count: 1
 - word: capture
   count: 5
-- word: Netsil
+- word: netsil
   count: 1
 - word: logs
   count: 2
-- word: Linux
+- word: linux
   count: 5
-- word: Kernel
+- word: kernel
   count: 1
-- word: eBPF
+- word: ebpf
   count: 1
 - word: sysdig
   count: 1
 - word: etc
   count: 2
-- word: Summary
-  count: 1
-- word: Netsils
+- word: summary
+  count: 2
+- word: netsils
   count: 1
 - word: autogrouping
   count: 1
@@ -2972,18 +2776,14 @@
   count: 2
 - word: tags
   count: 1
-- word: "Conclusion\L"
+- word: "conclusion\L"
   count: 1
 - word: free
-  count: 3
-- word: More
-  count: 3
+  count: 4
 - word: five
   count: 2
-- word: Free
-  count: 1
 - word: challenge
-  count: 9
+  count: 10
 - word: involves
   count: 3
 - word: patient
@@ -2994,18 +2794,14 @@
   count: 1
 - word: universities
   count: 1
-- word: PUCP
+- word: pucp
   count: 1
-- word: USIL
+- word: usil
   count: 1
-- word: IT
-  count: 5
-- word: PetroPeru
+- word: petroperu
   count: 1
-- word: Starting
+- word: starting
   count: 1
-- word: people
-  count: 17
 - word: attempt
   count: 2
 - word: celebration
@@ -3014,12 +2810,10 @@
   count: 4
 - word: project
   count: 2
-- word: GNOMe
-  count: 1
+- word: gnome
+  count: 2
 - word: course
   count: 6
-- word: following
-  count: 4
 - word: years
   count: 3
 - word: achieved
@@ -3037,7 +2831,7 @@
 - word: self
   count: 3
 - word: learning
-  count: 9
+  count: 12
 - word: skills
   count: 3
 - word: claimed
@@ -3053,32 +2847,30 @@
 - word: conform
   count: 3
 - word: group
-  count: 3
+  count: 4
 - word: specialists
   count: 1
 - word: knows
   count: 1
-- word: Linux
+- word: linux
   count: 1
 - word: soft
   count: 1
 - word: essence
   count: 2
-- word: GNU
+- word: gnu
   count: 1
 - word: philosophy
   count: 1
 - word: duty
   count: 1
-- word: Some
-  count: 4
 - word: sessions
   count: 1
 - word: succeeded
   count: 1
 - word: them
   count: 5
-- word: Nowadays
+- word: nowadays
   count: 1
 - word: managing
   count: 4
@@ -3088,50 +2880,42 @@
   count: 6
 - word: goal
   count: 1
-- word: Fixing
+- word: fixing
   count: 1
 - word: bug
   count: 1
-- word: GNOME
+- word: gnome
   count: 1
 - word: later
   count: 2
 - word: technical
-  count: 8
+  count: 9
 - word: contribution
   count: 1
-- word: 'Fedorahttps//wiki.gnome.org/Hackfests/GNOMEPeruChallenge20171#preview'
+- word: 'fedorahttps//wiki.gnome.org/hackfests/gnomeperuchallenge20171#preview'
   count: 1
-- word: My
+- word: my
   count: 1
-- word: GNOME
+- word: 'profilehttps://wikignome.org/julitaincamy'
   count: 1
-- word: 'profilehttps://wikignome.org/JulitaIncaMy'
+- word: fedora
   count: 1
-- word: Fedora
-  count: 1
-- word: 'profilehttps://fedoraprojectorg/wiki/User:YulytasMy'
+- word: 'profilehttps://fedoraprojectorg/wiki/user:yulytasmy'
   count: 1
 - word: personal
-  count: 2
+  count: 3
 - word: 'bloghttps://lleksahwordpress.com'
   count: 1
-- word: Merapi
+- word: merapi
   count: 1
-- word: Dynamic
-  count: 1
-- word: Modular
-  count: 1
-- word: Orchestration
-  count: 1
-- word: Abstract
-  count: 1
-- word: Merapi
+- word: modular
+  count: 2
+- word: abstract
+  count: 2
+- word: merapi
   count: 1
 - word: implements
   count: 2
-- word: modular
-  count: 1
 - word: stateless
   count: 1
 - word: ready
@@ -3152,49 +2936,39 @@
   count: 4
 - word: ideal
   count: 3
-- word: unlocking
-  count: 1
 - word: flexible
   count: 3
-- word: Merapi
+- word: merapi
   count: 3
 - word: fulfills
   count: 1
-- word: Enterprise
-  count: 6
-- word: Bus
+- word: bus
   count: 1
-- word: ESB
+- word: esb
   count: 1
-- word: Oriented
+- word: oriented
   count: 1
-- word: SOA
+- word: soa
   count: 1
 - word: includes
   count: 2
-- word: Identity
-  count: 2
-- word: Access
-  count: 2
-- word: IAM
+- word: identity
+  count: 5
+- word: iam
   count: 1
 - word: system
   count: 1
-- word: IAM
+- word: iam
   count: 1
 - word: federated
   count: 1
-- word: HTTPS
+- word: https
   count: 1
-- word: Based
-  count: 2
-- word: Control
-  count: 1
-- word: RBAC
+- word: rbac
   count: 1
 - word: field
   count: 2
-- word: levelMerapi
+- word: levelmerapi
   count: 1
 - word: portable
   count: 1
@@ -3202,28 +2976,22 @@
   count: 1
 - word: deployed
   count: 4
-- word: Windows
+- word: windows
   count: 1
 - word: tools
   count: 1
-- word: Admin
+- word: admin
   count: 1
-- word: Portal
-  count: 1
-- word: User
-  count: 2
-- word: OpenAPI
+- word: openapi
   count: 1
 - word: specification
   count: 4
-- word: Documentation
-  count: 3
 - word: sample
   count: 5
-- word: includedMerapi
+- word: includedmerapi
   count: 1
 - word: connect
-  count: 9
+  count: 13
 - word: sources
   count: 2
 - word: transparent
@@ -3236,7 +3004,7 @@
   count: 4
 - word: practice
   count: 3
-- word: This
+- word: this
   count: 3
 - word: speeds
   count: 1
@@ -3252,7 +3020,7 @@
   count: 1
 - word: tasks
   count: 1
-- word: maintenanceIn
+- word: maintenancein
   count: 1
 - word: solves
   count: 1
@@ -3260,8 +3028,6 @@
   count: 1
 - word: architectures
   count: 1
-- word: Every
-  count: 3
 - word: microservice
   count: 2
 - word: custom
@@ -3280,8 +3046,6 @@
   count: 4
 - word: “smart”
   count: 1
-- word: Business
-  count: 4
 - word: hidden
   count: 1
 - word: compiled
@@ -3296,17 +3060,15 @@
   count: 1
 - word: reusable
   count: 1
-- word: City
+- word: city
   count: 1
-- word: IoT
+- word: iot
   count: 9
-- word: Cities
-  count: 3
+- word: cities
+  count: 4
 - word: globe
   count: 1
 - word: levering
-  count: 1
-- word: cities
   count: 1
 - word: smoother
   count: 1
@@ -3332,7 +3094,7 @@
   count: 1
 - word: solutions
   count: 2
-- word: Helsinki
+- word: helsinki
   count: 1
 - word: cities
   count: 1
@@ -3344,20 +3106,20 @@
   count: 1
 - word: developers
   count: 1
-- word: Agile
+- word: agile
   count: 3
 - word: projects
   count: 10
-- word: Synchronicity
-  count: 1
-- word: Select4Cities
+- word: synchronicity
+  count: 2
+- word: select4cities
   count: 1
 - word: taking
-  count: 4
+  count: 6
 - word: learnt
   count: 1
 - word: principles
-  count: 5
+  count: 6
 - word: openness
   count: 1
 - word: domain
@@ -3365,7 +3127,7 @@
 - word: businesses
   count: 2
 - word: citizens
-  count: 1
+  count: 3
 - word: chain
   count: 1
 - word: enabling
@@ -3386,54 +3148,42 @@
   count: 3
 - word: cities
   count: 1
-- word: To
-  count: 8
 - word: mention
   count: 2
 - word: few
   count: 2
-- word: Next
-  count: 2
-- word: Generation
-  count: 5
-- word: Then
-  count: 1
+- word: next
+  count: 4
+- word: generation
+  count: 7
 - word: proposed
   count: 2
-- word: Presentation
-  count: 1
 - word: focused
   count: 3
-- word: About
+- word: about
   count: 1
-- word: APIHistoryWhy
+- word: apihistorywhy
   count: 1
-- word: APIAdvantage
+- word: apiadvantage
   count: 1
-- word: APINext
+- word: apinext
   count: 1
-- word: APIReal
+- word: apireal
   count: 1
-- word: Time
-  count: 1
-- word: Open
+- word: open
   count: 2
-- word: Ecosystem
-  count: 3
-- word: Conclusion
+- word: conclusion
   count: 1
 - word: mr
   count: 1
 - word: 'yes'
   count: 1
-- word: Economy
+- word: economy
+  count: 3
+- word: markets
   count: 1
-- word: Markets
+- word: commodities
   count: 1
-- word: Commodities
-  count: 1
-- word: Services
-  count: 2
 - word: deeply
   count: 1
 - word: fragmented
@@ -3447,16 +3197,16 @@
 - word: lack
   count: 1
 - word: beyond
-  count: 5
+  count: 6
 - word: search
   count: 2
 - word: engines
   count: 1
-- word: Nonuniform
+- word: nonuniform
   count: 1
 - word: providers
   count: 2
-- word: Expensive
+- word: expensive
   count: 1
 - word: sophisticated
   count: 1
@@ -3464,8 +3214,8 @@
   count: 5
 - word: comparison
   count: 1
-- word: Multiple
-  count: 1
+- word: multiple
+  count: 14
 - word: packages
   count: 1
 - word: pricing
@@ -3490,8 +3240,6 @@
   count: 1
 - word: themselves
   count: 2
-- word: various
-  count: 9
 - word: commodity
   count: 1
 - word: technical
@@ -3499,25 +3247,25 @@
 - word: legal
   count: 1
 - word: cultural
-  count: 3
+  count: 4
 - word: issues
   count: 7
 - word: friction
   count: 2
-- word: Economy
-  count: 3
+- word: economy
+  count: 8
 - word: standards
-  count: 3
+  count: 4
 - word: effort
   count: 6
 - word: tools
-  count: 2
+  count: 3
 - word: available
   count: 6
 - word: created
   count: 1
-- word: Tips
-  count: 1
+- word: tips
+  count: 4
 - word: stable
   count: 1
 - word: in
@@ -3549,8 +3297,8 @@
 - word: example
   count: 5
 - word: redesign
-  count: 2
-- word: Vimeos
+  count: 3
+- word: vimeos
   count: 2
 - word: playback
   count: 2
@@ -3564,17 +3312,13 @@
   count: 1
 - word: links
   count: 1
-- word: If
-  count: 8
 - word: does
   count: 11
 - word: tip
   count: 1
 - word: my
-  count: 11
-- word: history
-  count: 2
-- word: VimeoThe
+  count: 12
+- word: vimeothe
   count: 1
 - word: incorporate
   count: 3
@@ -3594,9 +3338,9 @@
   count: 6
 - word: history
   count: 1
-- word: Outline1
+- word: outline1
   count: 1
-- word: Intro
+- word: intro
   count: 1
 - word: problem
   count: 1
@@ -3606,39 +3350,33 @@
   count: 1
 - word: 3m2
   count: 1
-- word: Where
-  count: 3
 - word: start
   count: 1
 - word: 3ma
   count: 1
-- word: Compared
+- word: compared
   count: 1
 - word: visual
   count: 1
 - word: designb
   count: 1
-- word: Fosters
+- word: fosters
   count: 1
 - word: discussionc
   count: 1
-- word: Teaches
+- word: teaches
   count: 1
 - word: company3
   count: 1
-- word: Know
-  count: 2
 - word: 5ma
   count: 1
 - word: themb
   count: 1
-- word: Understanding
-  count: 2
+- word: understanding
+  count: 10
 - word: stored
   count: 1
 - word: managedc.
-  count: 1
-- word: Gather
   count: 1
 - word: feedback
   count: 2
@@ -3646,32 +3384,26 @@
   count: 1
 - word: mind
   count: 3
-- word: tips
-  count: 3
 - word: term
   count: 3
 - word: 19ma
   count: 1
-- word: Dont
-  count: 1
+- word: dont
+  count: 6
 - word: anything
   count: 3
 - word: obsessively
   count: 1
 - word: supporting
-  count: 3
+  count: 5
 - word: additional
   count: 5
 - word: layers
-  count: 4
+  count: 5
 - word: abstractioni
-  count: 1
-- word: Backwards
   count: 1
 - word: compatibilityii
   count: 1
-- word: Library
-  count: 3
 - word: abstraction
   count: 2
 - word: increased
@@ -3688,12 +3420,12 @@
   count: 1
 - word: clientsi
   count: 1
-- word: Hypermediaii
+- word: hypermediaii
   count: 1
-- word: Linksc
+- word: linksc
   count: 1
-- word: Manage
-  count: 1
+- word: manage
+  count: 6
 - word: complexity
   count: 1
 - word: pleasant
@@ -3702,39 +3434,37 @@
   count: 1
 - word: controlsi
   count: 1
-- word: Versioningii
+- word: versioningii
   count: 1
-- word: Permissionsiii
+- word: permissionsiii
   count: 1
-- word: Documentation5
+- word: documentation5
   count: 1
 - word: exploring
   count: 3
 - word: nexta
   count: 1
-- word: Automate
-  count: 2
 - word: description
   count: 4
 - word: tooling
   count: 1
-- word: Lets
+- word: lets
   count: 2
-- word: Encrypt
+- word: encrypt
   count: 6
-- word: Trusted
-  count: 1
+- word: trusted
+  count: 3
 - word: certificates
   count: 3
 - word: block
   count: 1
 - word: secure
   count: 2
-- word: Traditionally
+- word: traditionally
   count: 1
-- word: Certificate
-  count: 2
-- word: Authorities
+- word: certificate
+  count: 4
+- word: authorities
   count: 1
 - word: advantage
   count: 1
@@ -3760,21 +3490,15 @@
   count: 1
 - word: certificates
   count: 1
-- word: They
-  count: 6
 - word: adopted
   count: 4
 - word: practices
-  count: 14
-- word: well
-  count: 4
+  count: 15
 - word: works
   count: 4
-- word: importantAt
+- word: importantat
   count: 1
-- word: Netlify
-  count: 1
-- word: Part
+- word: netlify
   count: 1
 - word: goals
   count: 4
@@ -3786,29 +3510,25 @@
   count: 1
 - word: possible
   count: 1
-- word: Thats
-  count: 3
+- word: thats
+  count: 5
 - word: integrated
   count: 1
 - word: platform
-  count: 2
-- word: certificate
-  count: 2
+  count: 3
 - word: issuing
   count: 2
-- word: itIntegrating
+- word: itintegrating
   count: 1
-- word: trusted
-  count: 2
 - word: requires
   count: 7
-- word: Internet
+- word: internet
   count: 1
 - word: concepts
   count: 4
 - word: work
   count: 4
-- word: DNS
+- word: dns
   count: 1
 - word: propagation
   count: 1
@@ -3816,42 +3536,34 @@
   count: 1
 - word: propagate
   count: 1
-- word: CDN
+- word: cdn
   count: 1
 - word: points
-  count: 2
+  count: 3
 - word: presence
   count: 1
-- word: worldFinally
+- word: worldfinally
   count: 1
 - word: doing
   count: 5
 - word: improve
-  count: 10
+  count: 12
 - word: upon
   count: 2
 - word: opened
   count: 1
 - word: possibilities
   count: 1
-- word: Platforms
-  count: 1
-- word: Developers
+- word: platforms
+  count: 5
+- word: join
   count: 2
-- word: Join
-  count: 1
 - word: retrospective
   count: 1
-- word: Uber
+- word: uber
   count: 5
 - word: launched
   count: 4
-- word: Developer
-  count: 11
-- word: Platform
-  count: 1
-- word: Find
-  count: 2
 - word: designed
   count: 1
 - word: implemented
@@ -3874,67 +3586,59 @@
   count: 1
 - word: build
   count: 1
-- word: Production
-  count: 3
-- word: Apps
-  count: 4
-- word: GraphQL
+- word: production
+  count: 6
+- word: apps
+  count: 6
+- word: graphql
   count: 11
 - word: level
-  count: 6
+  count: 7
 - word: query
   count: 4
 - word: recently
   count: 1
 - word: released
   count: 1
-- word: Facebook
+- word: facebook
   count: 1
 - word: release
   count: 1
 - word: speculated
   count: 1
-- word: Particularly
+- word: particularly
   count: 1
-- word: ReactJS
+- word: reactjs
   count: 2
 - word: embraced
   count: 2
 - word: replacement
   count: 1
-- word: REST
+- word: rest
   count: 1
-- word: Coupled
+- word: coupled
   count: 1
 - word: popularity
   count: 2
-- word: RelayJS
+- word: relayjs
   count: 1
-- word: GraphQLoptimized
+- word: graphqloptimized
   count: 1
-- word: apps
-  count: 2
 - word: accelerated
   count: 1
-- word: tremendouslyIn
+- word: tremendouslyin
   count: 1
 - word: scale
-  count: 2
+  count: 3
 - word: servers
   count: 1
-- word: production
-  count: 3
-- word: NodeJS
+- word: nodejs
   count: 1
 - word: fast
   count: 5
 - word: possible
   count: 2
-- word: Security
-  count: 3
 - word: embrace
-  count: 2
-- word: economy
   count: 2
 - word: constant
   count: 1
@@ -3944,39 +3648,31 @@
   count: 1
 - word: completely
   count: 2
-- word: understanding
-  count: 8
-- word: ecosystemAPI
+- word: ecosystemapi
   count: 1
-- word: economy
-  count: 5
 - word: opens
   count: 2
 - word: itself
   count: 1
 - word: programmatic
   count: 1
-- word: Having
-  count: 1
-- word: ”Agile”
+- word: ”agile”
   count: 1
 - word: automation
-  count: 4
+  count: 5
 - word: improving
   count: 4
 - word: embedded
   count: 1
 - word: throughout
   count: 1
-- word: Organization
-  count: 1
 - word: define
   count: 7
 - word: patterns
-  count: 3
+  count: 4
 - word: classifications
   count: 1
-- word: External/Internal/Admin
+- word: external/internal/admin
   count: 1
 - word: artifacts
   count: 1
@@ -3985,29 +3681,25 @@
 - word: libraries
   count: 1
 - word: guides
-  count: 4
-- word: etc.A
+  count: 5
+- word: etc.a
   count: 1
-- word: LAYERED
+- word: layered
   count: 1
 - word: echo
   count: 1
 - word: there
-  count: 15
-- word: deliveryIn
+  count: 18
+- word: deliveryin
   count: 1
-- word: PROGRAMMATIC"
+- word: programmatic"
   count: 1
-- word: Mature
+- word: mature
   count: 1
-- word: You
-  count: 1
-- word: Experience
-  count: 6
-- word: Maturity
-  count: 1
-- word: Model
-  count: 1
+- word: you
+  count: 2
+- word: maturity
+  count: 3
 - word: confident
   count: 1
 - word: matches
@@ -4030,14 +3722,12 @@
   count: 1
 - word: compare
   count: 1
-- word: We
+- word: we
   count: 1
-- word: Arity
+- word: arity
   count: 1
-- word: maturity
-  count: 2
 - word: developers
-  count: 4
+  count: 6
 - word: documentation
   count: 4
 - word: areas
@@ -4046,8 +3736,6 @@
   count: 1
 - word: customers
   count: 3
-- word: Its
-  count: 2
 - word: distill
   count: 1
 - word: elements
@@ -4063,21 +3751,21 @@
 - word: helping
   count: 3
 - word: manager
-  count: 1
+  count: 3
 - word: translate
   count: 2
 - word: sales
   count: 3
 - word: organization
   count: 2
-- word: Well
+- word: well
   count: 1
 - word: score
   count: 2
 - word: companys
   count: 4
 - word: program
-  count: 3
+  count: 4
 - word: leave
   count: 5
 - word: roadmap
@@ -4086,12 +3774,6 @@
   count: 2
 - word: stakeholders
   count: 2
-- word: Adopting
-  count: 3
-- word: Large
-  count: 1
-- word: Organizations
-  count: 1
 - word: significantly
   count: 2
 - word: boost
@@ -4118,26 +3800,20 @@
   count: 1
 - word: transformation
   count: 2
-- word: Heterogenous
-  count: 1
-- word: Microservices
-  count: 1
-- word: Local
-  count: 1
-- word: Dev
-  count: 1
-- word: Setup
-  count: 1
-- word: Runs
-  count: 1
 - word: heterogenous
+  count: 2
+- word: microservices
+  count: 1
+- word: local
+  count: 3
+- word: setup
+  count: 1
+- word: runs
   count: 1
 - word: written
   count: 1
-- word: multiple
-  count: 13
 - word: programming
-  count: 4
+  count: 6
 - word: languages
   count: 1
 - word: pose
@@ -4148,8 +3824,6 @@
   count: 2
 - word: productive
   count: 1
-- word: local
-  count: 2
 - word: environment
   count: 2
 - word: as
@@ -4161,15 +3835,15 @@
 - word: audience
   count: 7
 - word: starting
-  count: 8
-- word: Dockerenabled
+  count: 10
+- word: dockerenabled
   count: 1
 - word: machine
   count: 1
-- word: Go
+- word: go
   count: 1
-- word: Node
-  count: 1
+- word: node
+  count: 2
 - word: launching
   count: 2
 - word: containerized
@@ -4180,8 +3854,6 @@
   count: 1
 - word: environment
   count: 2
-- word: All
-  count: 1
 - word: bestpractices
   count: 1
 - word: optimization
@@ -4193,13 +3865,13 @@
 - word: tremendously
   count: 1
 - word: universal
-  count: 3
+  count: 4
 - word: encrypted
   count: 1
 - word: exchange
-  count: 3
-- word: Remittance
-  count: 2
+  count: 4
+- word: remittance
+  count: 6
 - word: transfer
   count: 1
 - word: money
@@ -4212,17 +3884,15 @@
   count: 1
 - word: transaction
   count: 1
-- word: Thus
+- word: thus
   count: 2
-- word: remittance
-  count: 4
 - word: cash
   count: 1
 - word: bank
   count: 4
 - word: account
   count: 6
-- word: Unlike
+- word: unlike
   count: 1
 - word: systems
   count: 2
@@ -4238,7 +3908,7 @@
   count: 5
 - word: seeks
   count: 2
-- word: resolveInstead
+- word: resolveinstead
   count: 1
 - word: remitter
   count: 2
@@ -4248,9 +3918,7 @@
   count: 2
 - word: standard
   count: 8
-- word: formatsThe
-  count: 1
-- word: Universal
+- word: formatsthe
   count: 1
 - word: solution
   count: 4
@@ -4263,43 +3931,39 @@
 - word: form
   count: 4
 - word: efficiency
-  count: 2
+  count: 3
 - word: reduced
   count: 3
 - word: costs
-  count: 2
+  count: 3
 - word: development
   count: 6
-- word: Adapting
+- word: adapting
   count: 1
-- word: NodeJS
+- word: nodejs
   count: 2
-- word: Back
+- word: walgreens
   count: 1
-- word: Walgreens
-  count: 1
-- word: Photo
-  count: 1
-- word: Prints
+- word: photo
+  count: 2
+- word: prints
   count: 2
 - word: named
   count: 1
-- word: Quick
-  count: 1
+- word: quick
+  count: 3
 - word: time
   count: 1
-- word: iOS
+- word: ios
   count: 1
-- word: Android
+- word: android
   count: 1
-- word: Windows
+- word: windows
   count: 1
 - word: phone
   count: 2
 - word: allowed
   count: 3
-- word: photo
-  count: 1
 - word: print
   count: 1
 - word: checkout
@@ -4308,7 +3972,7 @@
   count: 2
 - word: generated
   count: 3
-- word: HTML
+- word: html
   count: 1
 - word: page
   count: 1
@@ -4318,10 +3982,8 @@
   count: 3
 - word: made
   count: 9
-- word: RESTful
+- word: restful
   count: 1
-- word: Now
-  count: 2
 - word: leads
   count: 3
 - word: cost
@@ -4332,41 +3994,29 @@
   count: 5
 - word: stacks
   count: 1
-- word: React
+- word: react
   count: 1
-- word: Get
+- word: api
   count: 1
-- word: API
-  count: 1
-- word: UX
+- word: ux
   count: 4
-- word: Approach
-  count: 1
 - word: usually
   count: 1
 - word: spend
-  count: 5
-- word: it
-  count: 7
+  count: 6
 - word: scribble
   count: 1
 - word: instructions
   count: 1
 - word: end
   count: 2
-- word: Were
-  count: 1
 - word: wrong
   count: 1
 - word: thinking
   count: 3
 - word: ourselves
   count: 2
-- word: dont
-  count: 5
-- word: until
-  count: 2
-- word: Instead
+- word: instead
   count: 2
 - word: first
   count: 1
@@ -4377,7 +4027,7 @@
 - word: know
   count: 1
 - word: trying
-  count: 4
+  count: 5
 - word: do
   count: 1
 - word: actually
@@ -4385,7 +4035,7 @@
 - word: use
   count: 2
 - word: docs
-  count: 8
+  count: 9
 - word: want
   count: 1
 - word: features
@@ -4396,8 +4046,6 @@
   count: 1
 - word: started
   count: 1
-- word: 'No'
-  count: 2
 - word: what
   count: 1
 - word: step
@@ -4422,23 +4070,17 @@
   count: 5
 - word: advantage
   count: 1
-- word: Pattern
-  count: 1
-- word: Kong
+- word: kong
   count: 4
 - word: https//getkongorg/
   count: 1
 - word: widely
   count: 1
-- word: gateway
+- word: microservices
   count: 1
-- word: Microservices
+- word: lua
   count: 1
-- word: Built
-  count: 1
-- word: Lua
-  count: 1
-- word: NGINX
+- word: nginx
   count: 1
 - word: highperformance
   count: 1
@@ -4454,7 +4096,7 @@
   count: 1
 - word: and
   count: 2
-- word: PluginsIn
+- word: pluginsin
   count: 1
 - word: increasingly
   count: 5
@@ -4476,20 +4118,16 @@
   count: 2
 - word: efficiently
   count: 1
-- word: manage
-  count: 5
-- word: in
-  count: 1
 - word: environments
   count: 1
 - word: singe
   count: 1
-- word: multiDC
+- word: multidc
   count: 1
-- word: setupsAPI
+- word: setupsapi
   count: 1
 - word: gateways
-  count: 2
+  count: 5
 - word: functionality
   count: 1
 - word: place
@@ -4508,18 +4146,14 @@
   count: 1
 - word: functions
   count: 1
-- word: Starting
-  count: 2
-- word: GTK
+- word: gtk
   count: 2
 - word: toolkit
   count: 1
-- word: GUI
+- word: gui
   count: 1
 - word: language
   count: 4
-- word: Programming
-  count: 2
 - word: forms
   count: 2
 - word: initial
@@ -4528,23 +4162,21 @@
   count: 3
 - word: educate
   count: 1
-- word: Glib
+- word: glib
   count: 1
 - word: clutter
   count: 1
 - word: involved
   count: 1
-- word: GTK
+- word: gtk
   count: 1
-- word: Interactions
+- word: databases
   count: 1
-- word: DataBases
+- word: fedora
   count: 1
-- word: Fedora
+- word: sqlite
   count: 1
-- word: Sqlite
-  count: 1
-- word: PostgreSQL
+- word: postgresql
   count: 1
 - word: proposal
   count: 1
@@ -4554,22 +4186,18 @@
   count: 1
 - word: interaction
   count: 1
-- word: DataBase
-  count: 1
+- word: database
+  count: 3
 - word: register
   count: 1
 - word: event
   count: 1
 - word: vs
   count: 2
-- word: World
-  count: 1
-- word: Despite
-  count: 1
-- word: datas
+- word: despite
   count: 1
 - word: potential
-  count: 8
+  count: 9
 - word: seems
   count: 3
 - word: uphill
@@ -4606,8 +4234,6 @@
   count: 1
 - word: climate
   count: 1
-- word: shift
-  count: 1
 - word: countries
   count: 3
 - word: causing
@@ -4616,15 +4242,15 @@
   count: 1
 - word: towards
   count: 4
-- word: Shelby
+- word: shelby
   count: 1
-- word: Switzer
+- word: switzer
   count: 1
 - word: origins
   count: 1
 - word: globally
   count: 1
-- word: US
+- word: us
   count: 1
 - word: concrete
   count: 1
@@ -4637,11 +4263,11 @@
 - word: communities
   count: 1
 - word: governments
-  count: 1
+  count: 2
 - word: businesses
   count: 2
-- word: She
-  count: 1
+- word: she
+  count: 2
 - word: ecosystem
   count: 2
 - word: instrumental
@@ -4652,12 +4278,10 @@
   count: 1
 - word: movement
   count: 1
-- word: Apply
-  count: 1
-- word: TwelveFactor
+- word: apply
+  count: 5
+- word: twelvefactor
   count: 4
-- word: Principles
-  count: 1
 - word: decade
   count: 3
 - word: outlined
@@ -4670,7 +4294,7 @@
   count: 1
 - word: scale
   count: 4
-- word: Continuing
+- word: continuing
   count: 1
 - word: maturation
   count: 1
@@ -4690,12 +4314,12 @@
   count: 1
 - word: sustained
   count: 1
-- word: cloudMicroservices
+- word: cloudmicroservices
   count: 1
 - word: architectural
   count: 4
 - word: style
-  count: 5
+  count: 7
 - word: externalization
   count: 1
 - word: groups
@@ -4707,7 +4331,7 @@
 - word: described
   count: 2
 - word: methodology
-  count: 1
+  count: 3
 - word: avoiding
   count: 1
 - word: erosion
@@ -4724,54 +4348,44 @@
   count: 1
 - word: apps
   count: 1
-- word: codebaseIn
+- word: codebasein
   count: 1
 - word: overview
   count: 1
-- word: apply
+- word: twelve
+  count: 2
+- word: factors
   count: 4
-- word: Twelve
-  count: 2
-- word: Factors
-  count: 2
 - word: practices
   count: 3
-- word: Attendees
-  count: 3
+- word: attendees
+  count: 4
 - word: offerings
   count: 1
 - word: backbone
   count: 1
-- word: attendees
-  count: 1
-- word: factors
-  count: 2
 - word: put
   count: 2
-- word: Microsoft
+- word: microsoft
   count: 8
-- word: Learn
-  count: 5
 - word: accelerate
   count: 1
 - word: extensibility
   count: 1
 - word: powerful
   count: 6
-- word: Azure
+- word: azure
   count: 1
-- word: Azure
+- word: azure
   count: 2
-- word: Logic
-  count: 1
-- word: Flow
-  count: 1
+- word: flow
+  count: 2
 - word: seamless
   count: 1
 - word: hundred
   count: 1
-- word: Early
-  count: 2
+- word: early
+  count: 3
 - word: decision
   count: 5
 - word: both
@@ -4782,8 +4396,6 @@
   count: 2
 - word: come
   count: 2
-- word: Connect
-  count: 4
 - word: dots
   count: 1
 - word: interact
@@ -4794,7 +4406,7 @@
   count: 1
 - word: signup
   count: 1
-- word: CRM
+- word: crm
   count: 1
 - word: leveraged
   count: 1
@@ -4812,9 +4424,9 @@
   count: 1
 - word: tools
   count: 1
-- word: Chains
+- word: chains
   count: 1
-- word: Graphs
+- word: graphs
   count: 2
 - word: problematic
   count: 1
@@ -4825,10 +4437,10 @@
 - word: for
   count: 1
 - word: avoid
-  count: 2
+  count: 4
 - word: remember
   count: 1
-- word: SOAP
+- word: soap
   count: 1
 - word: both
   count: 1
@@ -4852,51 +4464,41 @@
   count: 6
 - word: request
   count: 1
-- word: Painfree
+- word: painfree
   count: 1
 - word: contract
-  count: 7
+  count: 8
 - word: dont
-  count: 5
+  count: 7
 - word: consumed
-  count: 1
-- word: Evolving
   count: 1
 - word: slow
   count: 1
 - word: breaking
-  count: 5
+  count: 9
 - word: released
   count: 1
 - word: production
   count: 2
 - word: failed
   count: 2
-- word: whyContract
+- word: whycontract
   count: 1
-- word: Tests
-  count: 2
 - word: maintain
   count: 1
-- word: quick
-  count: 2
 - word: detecting
   count: 1
 - word: contracts
   count: 1
-- word: Even
+- word: consumerdriven
   count: 1
-- word: ConsumerDriven
-  count: 1
-- word: Contract
-  count: 1
-- word: CDCTs
+- word: cdcts
   count: 1
 - word: contracts
   count: 9
 - word: expect
   count: 1
-- word: Serving
+- word: serving
   count: 1
 - word: creators
   count: 2
@@ -4904,21 +4506,21 @@
   count: 1
 - word: consumers
   count: 3
-- word: specificationsThis
+- word: specificationsthis
   count: 1
 - word: reasons
   count: 2
-- word: CDCTs
+- word: cdcts
   count: 1
 - word: write
   count: 1
 - word: version
   count: 6
 - word: consumer
-  count: 8
+  count: 9
 - word: perspectives
   count: 1
-- word: Pact
+- word: pact
   count: 1
 - word: crossplatform
   count: 1
@@ -4926,9 +4528,9 @@
   count: 1
 - word: framework
   count: 4
-- word: CDCTs
+- word: cdcts
   count: 1
-- word: pipeline*Describe
+- word: pipeline*describe
   count: 1
 - word: presentation*
   count: 1
@@ -4936,7 +4538,7 @@
   count: 1
 - word: missing
   count: 1
-- word: formThe
+- word: formthe
   count: 1
 - word: member
   count: 1
@@ -4944,7 +4546,7 @@
   count: 2
 - word: frontend
   count: 2
-- word: UIs
+- word: uis
   count: 2
 - word: consume
   count: 4
@@ -4958,7 +4560,7 @@
   count: 1
 - word: closely
   count: 1
-- word: togetherThe
+- word: togetherthe
   count: 1
 - word: tests
   count: 1
@@ -4972,7 +4574,7 @@
   count: 2
 - word: have
   count: 1
-- word: changedThey
+- word: changedthey
   count: 1
 - word: publish
   count: 4
@@ -4980,25 +4582,23 @@
   count: 1
 - word: location
   count: 1
-- word: toThen
+- word: tothen
   count: 1
 - word: deploying
   count: 2
-- word: confidenceFinally
+- word: confidencefinally
   count: 1
 - word: versions
-  count: 2
+  count: 3
 - word: pipeline
   count: 1
 - word: potentially
   count: 1
 - word: changes
   count: 1
-- word: Strategy
+- word: strategy
   count: 1
-- word: Look
-  count: 2
-- word: Ahead
+- word: ahead
   count: 1
 - word: panel
   count: 1
@@ -5008,19 +4608,15 @@
   count: 1
 - word: influencers
   count: 1
-- word: Gateways
-  count: 3
 - word: relative
   count: 3
-- word: Over
-  count: 1
 - word: last
   count: 3
 - word: include
   count: 10
 - word: flavors
   count: 1
-- word: SOAP
+- word: soap
   count: 1
 - word: rose
   count: 1
@@ -5045,9 +4641,7 @@
 - word: silently
   count: 1
 - word: consumers
-  count: 2
-- word: keeping
-  count: 4
+  count: 3
 - word: malicious
   count: 1
 - word: attacks
@@ -5060,7 +4654,7 @@
   count: 3
 - word: streaming
   count: 1
-- word: AI/machine
+- word: ai/machine
   count: 1
 - word: learning
   count: 1
@@ -5070,23 +4664,21 @@
   count: 1
 - word: occasion
   count: 1
-- word: Scale
+- word: scale
   count: 1
-- word: Humans
-  count: 2
-- word: Machines
+- word: humans
+  count: 6
+- word: machines
   count: 1
 - word: hundreds
-  count: 7
+  count: 8
 - word: application
   count: 1
-- word: Writing
-  count: 3
 - word: laborious
   count: 1
 - word: process
   count: 2
-- word: Yet
+- word: yet
   count: 1
 - word: fully
   count: 5
@@ -5094,31 +4686,27 @@
   count: 1
 - word: removing
   count: 1
-- word: elementBy
+- word: elementby
   count: 1
 - word: will*
   count: 1
 - word: cases*
   count: 1
-- word: Understand
-  count: 1
 - word: down*
   count: 1
-- word: Build
-  count: 4
 - word: products
-  count: 5
+  count: 6
 - word: serve
   count: 2
-- word: audiencesIn
+- word: audiencesin
   count: 1
 - word: lively
   count: 1
 - word: veteran
   count: 1
-- word: Adam
+- word: adam
   count: 1
-- word: DuVander
+- word: duvander
   count: 1
 - word: brings
   count: 1
@@ -5128,15 +4716,15 @@
   count: 1
 - word: millions
   count: 1
-- word: Zapier
+- word: zapier
   count: 1
 - word: sees
   count: 1
 - word: 750+
   count: 1
-- word: Istio
+- word: istio
   count: 1
-- word: Mesh
+- word: mesh
   count: 1
 - word: great
   count: 1
@@ -5146,27 +4734,25 @@
   count: 1
 - word: composed
   count: 1
-- word: Docker
+- word: docker
   count: 1
-- word: Kubernetes
+- word: kubernetes
   count: 4
-- word: thats
-  count: 2
 - word: story
   count: 1
-- word: Each
+- word: each
   count: 1
 - word: suite
   count: 4
-- word: Load
-  count: 1
+- word: load
+  count: 3
 - word: balancing
   count: 1
 - word: tracing
   count: 1
 - word: auth
   count: 1
-- word: TLS
+- word: tls
   count: 1
 - word: graceful
   count: 1
@@ -5181,20 +4767,20 @@
 - word: functionalities
   count: 1
 - word: languages
-  count: 4
+  count: 5
 - word: places
   count: 1
 - word: total
   count: 1
 - word: nightmare
   count: 1
-- word: Istio
+- word: istio
   count: 1
 - word: solve
   count: 4
 - word: problems
   count: 2
-- word: Istio
+- word: istio
   count: 1
 - word: transparently
   count: 1
@@ -5204,8 +4790,6 @@
   count: 3
 - word: acts
   count: 1
-- word: distributed
-  count: 7
 - word: switchboard
   count: 1
 - word: giving
@@ -5214,12 +4798,10 @@
   count: 1
 - word: motivation
   count: 2
-- word: Istio
+- word: istio
   count: 1
-- word: Compass
+- word: compass
   count: 1
-- word: Is
-  count: 9
 - word: heading
   count: 1
 - word: direction
@@ -5231,7 +4813,7 @@
 - word: result
   count: 1
 - word: economy
-  count: 4
+  count: 5
 - word: successful
   count: 1
 - word: executing
@@ -5254,8 +4836,8 @@
   count: 8
 - word: disciplines
   count: 2
-- word: During
-  count: 1
+- word: during
+  count: 4
 - word: evaluation
   count: 1
 - word: headed
@@ -5264,17 +4846,17 @@
   count: 1
 - word: success
   count: 1
-- word: Age
+- word: age
   count: 1
-- word: Bots
+- word: bots
+  count: 4
+- word: iot
   count: 2
-- word: IoT
+- word: voice
   count: 2
-- word: Voice
-  count: 1
 - word: debating
   count: 1
-- word: RPC
+- word: rpc
   count: 1
 - word: options
   count: 2
@@ -5284,15 +4866,11 @@
   count: 3
 - word: add
   count: 4
-- word: bots
-  count: 2
 - word: edge
   count: 4
 - word: devices
   count: 1
-- word: voice
-  count: 1
-- word: mixThis
+- word: mixthis
   count: 1
 - word: examines
   count: 2
@@ -5301,24 +4879,20 @@
 - word: devices
   count: 1
 - word: futureproof
-  count: 1
+  count: 2
 - word: light
   count: 1
 - word: interaction
   count: 1
-- word: well
-  count: 9
 - word: computing
   count: 1
-- word: Invasion
+- word: invasion
   count: 1
-- word: Request
+- word: request
+  count: 4
+- word: body
   count: 1
-- word: Body
-  count: 1
-- word: Snatchers
-  count: 1
-- word: Transforming
+- word: snatchers
   count: 1
 - word: yearold
   count: 1
@@ -5349,7 +4923,7 @@
 - word: adoption
   count: 1
 - word: governance
-  count: 2
+  count: 4
 - word: assimilate
   count: 1
 - word: natives
@@ -5360,15 +4934,15 @@
   count: 2
 - word: meld
   count: 1
-- word: Over
+- word: over
   count: 1
 - word: past
   count: 3
-- word: SAS
+- word: sas
   count: 1
 - word: deployment
   count: 2
-- word: DevSecOps
+- word: devsecops
   count: 1
 - word: enormous
   count: 1
@@ -5390,9 +4964,9 @@
   count: 1
 - word: differently
   count: 1
-- word: Over
+- word: over
   count: 1
-- word: “In
+- word: “in
   count: 1
 - word: hypermedia
   count: 1
@@ -5402,14 +4976,14 @@
   count: 1
 - word: secret
   count: 2
-- word: DX
+- word: dx
   count: 2
 - word: extension
   count: 2
 - word: general
   count: 7
-- word: Experience
-  count: 1
+- word: experience
+  count: 6
 - word: emphasizes
   count: 1
 - word: developer
@@ -5428,10 +5002,8 @@
   count: 3
 - word: samples
   count: 1
-- word: The
+- word: the
   count: 1
-- word: Specification
-  count: 5
 - word: allowing
   count: 3
 - word: build
@@ -5442,30 +5014,26 @@
   count: 1
 - word: optimize
   count: 1
-- word: I
+- word: i
   count: 1
 - word: speaking
   count: 1
-- word: DX
+- word: dx
   count: 7
 - word: journey
-  count: 4
+  count: 5
 - word: integration
   count: 4
-- word: Spec/Swagger
+- word: spec/swagger
   count: 1
 - word: great
-  count: 16
-- word: Trojan
+  count: 17
+- word: trojan
   count: 1
-- word: Horse
+- word: horse
   count: 1
-- word: Blueprint
-  count: 1
-- word: Cultural
-  count: 1
-- word: Change
-  count: 1
+- word: blueprint
+  count: 2
 - word: exciting
   count: 1
 - word: industrious
@@ -5476,10 +5044,8 @@
   count: 1
 - word: hundreds
   count: 1
-- word: Reactive
-  count: 1
-- word: Governance
-  count: 3
+- word: reactive
+  count: 2
 - word: wrestle
   count: 1
 - word: align
@@ -5490,21 +5056,19 @@
   count: 1
 - word: landscapes
   count: 1
-- word: It
+- word: it
   count: 1
 - word: doesnt
   count: 2
 - word: proactive
-  count: 1
+  count: 4
 - word: force
   count: 1
 - word: takes
   count: 1
-- word: Matthew
+- word: matthew
   count: 1
-- word: blueprint
-  count: 1
-- word: Fortune
+- word: fortune
   count: 1
 - word: proactively
   count: 1
@@ -5512,11 +5076,7 @@
   count: 1
 - word: initiatives
   count: 1
-- word: Great
-  count: 1
-- word: Redesign
-  count: 1
-- word: Redesigning
+- word: redesigning
   count: 1
 - word: major
   count: 2
@@ -5528,7 +5088,7 @@
   count: 2
 - word: releases..
   count: 1
-- word: DNSimple
+- word: dnsimple
   count: 1
 - word: v2
   count: 1
@@ -5536,25 +5096,23 @@
   count: 1
 - word: innocuous
   count: 1
-- word: GitHub
-  count: 1
+- word: github
+  count: 2
 - word: pull
   count: 1
-- word: request
-  count: 3
 - word: title
   count: 1
-- word: Proposal
+- word: proposal
   count: 1
 - word: versioned
   count: 1
-- word: API
+- word: api
   count: 2
-- word: December
+- word: december
   count: 1
 - word: availability
   count: 1
-- word: Simone
+- word: simone
   count: 1
 - word: decisions
   count: 5
@@ -5562,8 +5120,6 @@
   count: 2
 - word: shaped
   count: 1
-- word: next
-  count: 2
 - word: project
   count: 2
 - word: question
@@ -5572,26 +5128,18 @@
   count: 4
 - word: next
   count: 1
-- word: Damning
+- word: damning
   count: 1
-- word: Fallacy
+- word: fallacy
   count: 1
-- word: Assuming
+- word: assuming
   count: 1
-- word: Reuse
-  count: 1
-- word: Road
-  count: 1
-- word: Efficiency
-  count: 1
-- word: Leveraging
-  count: 1
-- word: Experimentation
-  count: 1
-- word: Code
-  count: 3
 - word: reuse
-  count: 3
+  count: 4
+- word: road
+  count: 1
+- word: experimentation
+  count: 1
 - word: commonly
   count: 1
 - word: perceived
@@ -5621,7 +5169,7 @@
 - word: reuse
   count: 1
 - word: especially
-  count: 4
+  count: 5
 - word: large
   count: 1
 - word: settings
@@ -5631,7 +5179,7 @@
 - word: conclusions
   count: 1
 - word: maybe
-  count: 3
+  count: 5
 - word: efficient
   count: 2
 - word: way
@@ -5652,13 +5200,7 @@
   count: 1
 - word: reuse
   count: 1
-- word: Supporting
-  count: 2
-- word: Financial
-  count: 3
-- word: Sector
-  count: 1
-- word: Fintech
+- word: fintech
   count: 1
 - word: strongly
   count: 1
@@ -5668,38 +5210,30 @@
   count: 1
 - word: high
   count: 7
-- word: Financial
+- word: financial
   count: 1
-- word: OpenID
-  count: 6
-- word: Foundation
+- word: openid
+  count: 8
+- word: sectorwe
   count: 1
-- word: sectorWe
-  count: 1
-- word: identity
-  count: 3
 - word: keycloak"
-  count: 1
-- word: Technical
   count: 1
 - word: difficulties
   count: 1
 - word: discussed
   count: 2
-- word: RFC
+- word: rfc
   count: 1
-- word: Proof
+- word: proof
   count: 1
-- word: Exchange
-  count: 1
-- word: PKCE
+- word: pkce
   count: 1
 - word: conformance
   count: 3
 - word: required
   count: 1
 - word: authentication
-  count: 6
+  count: 7
 - word: multifactor
   count: 1
 - word: required
@@ -5714,9 +5248,9 @@
   count: 2
 - word: explained
   count: 1
-- word: Firstly
+- word: firstly
   count: 1
-- word: PKCE
+- word: pkce
   count: 1
 - word: patch
   count: 1
@@ -5724,7 +5258,7 @@
   count: 1
 - word: keycloak
   count: 1
-- word: Secondly
+- word: secondly
   count: 1
 - word: were
   count: 2
@@ -5746,11 +5280,9 @@
   count: 2
 - word: discussed
   count: 1
-- word: Beyond
+- word: oauth
   count: 1
-- word: OAuth
-  count: 1
-- word: JOSE
+- word: jose
   count: 1
 - word: friend!
   count: 1
@@ -5759,16 +5291,14 @@
 - word: likely
   count: 1
 - word: told
-  count: 3
-- word: OAuth2
+  count: 4
+- word: oauth2
   count: 2
-- word: TLS
+- word: tls
   count: 1
 - word: properly
   count: 1
 - word: aspects
-  count: 1
-- word: Security
   count: 1
 - word: tools/solutions
   count: 1
@@ -5778,39 +5308,35 @@
   count: 1
 - word: as
   count: 1
-- word: Transport
+- word: transport
   count: 1
 - word: encryption
   count: 1
-- word: Signatures
+- word: signatures
   count: 1
-- word: Auditing
+- word: auditing
   count: 1
 - word: nonrepudiation-
   count: 1
-- word: SecDevOps
+- word: secdevops
   count: 1
 - word: code
   count: 1
-- word: Coding
-  count: 1
+- word: coding
+  count: 2
 - word: enforce
   count: 1
 - word: them
   count: 1
-- word: Infrastructure
-  count: 1
-- word: Best
-  count: 2
-- word: PracticesAttendees
+- word: practicesattendees
   count: 1
 - word: attending
   count: 2
-- word: Simplify
-  count: 2
+- word: simplify
+  count: 4
 - word: connections
   count: 1
-- word: BitScoop
+- word: bitscoop
   count: 1
 - word: radically
   count: 1
@@ -5818,19 +5344,15 @@
   count: 1
 - word: streamlines
   count: 1
-- word: unified
-  count: 3
 - word: unify
   count: 2
 - word: rich
   count: 1
-- word: iPaaS
+- word: ipaas
   count: 1
-- word: Strategy
-  count: 2
 - word: prevalent
   count: 1
-- word: digitalAn
+- word: digitalan
   count: 1
 - word: marketplace
   count: 2
@@ -5847,20 +5369,18 @@
 - word: place
   count: 1
 - word: consumption
-  count: 2
+  count: 3
 - word: usage
   count: 2
 - word: connection
   count: 3
 - word: producers
-  count: 2
+  count: 4
 - word: ensures
   count: 1
 - word: works
   count: 1
-- word: initiative
-  count: 2
-- word: successfulAs
+- word: successfulas
   count: 1
 - word: relates
   count: 1
@@ -5873,16 +5393,12 @@
 - word: interesting
   count: 1
 - word: study
-  count: 3
+  count: 4
 - word: telco
   count: 2
-- word: Asia
+- word: asia
   count: 1
-- word: Pacific
-  count: 1
-- word: Automation
-  count: 1
-- word: Practices
+- word: pacific
   count: 1
 - word: stages
   count: 2
@@ -5904,9 +5420,7 @@
   count: 1
 - word: adoption
   count: 1
-- word: Style
-  count: 2
-- word: Guide
+- word: guide
   count: 1
 - word: lord
   count: 1
@@ -5921,10 +5435,10 @@
 - word: therefore
   count: 1
 - word: consistent
-  count: 3
+  count: 4
 - word: challenge
   count: 1
-- word: Failing
+- word: failing
   count: 1
 - word: counterproductive
   count: 1
@@ -5954,33 +5468,29 @@
   count: 1
 - word: preemptively
   count: 1
-- word: Diving
+- word: diving
   count: 1
-- word: Deep
-  count: 2
-- word: Ocean
+- word: deep
+  count: 5
+- word: ocean
   count: 1
-- word: Learning
-  count: 3
-- word: Tools
+- word: paul
   count: 1
-- word: Paul
+- word: cray
   count: 1
-- word: Cray
-  count: 1
-- word: APImetrics
+- word: apimetrics
   count: 3
 - word: full
-  count: 2
+  count: 3
 - word: seas
   count: 3
 - word: exchanged
   count: 1
-- word: APIs
+- word: apis
   count: 1
 - word: accumulated
   count: 1
-- word: GB
+- word: gb
   count: 1
 - word: endpoints
   count: 1
@@ -5988,7 +5498,7 @@
   count: 2
 - word: continents
   count: 1
-- word: Theres
+- word: theres
   count: 1
 - word: amount
   count: 1
@@ -6000,8 +5510,6 @@
   count: 2
 - word: unlabelled
   count: 1
-- word: Getting
-  count: 2
 - word: wouldve
   count: 1
 - word: nearly
@@ -6010,11 +5518,9 @@
   count: 1
 - word: emergence
   count: 1
-- word: deep
-  count: 3
 - word: mid2010s
   count: 1
-- word: APImetrics
+- word: apimetrics
   count: 1
 - word: chose
   count: 2
@@ -6038,16 +5544,14 @@
   count: 1
 - word: oceans
   count: 1
-- word: AIassisted
+- word: aiassisted
   count: 2
-- word: Curation
-  count: 1
+- word: curation
+  count: 3
 - word: abundance
   count: 1
 - word: expert
   count: 1
-- word: curation
-  count: 2
 - word: important
   count: 1
 - word: substantial
@@ -6061,8 +5565,6 @@
 - word: qualities
   count: 2
 - word: metaphorical
-  count: 1
-- word: abstract
   count: 1
 - word: nature
   count: 1
@@ -6078,27 +5580,25 @@
   count: 1
 - word: wine
   count: 1
-- word: Such
-  count: 1
 - word: hard
-  count: 7
-- word: ML
+  count: 8
+- word: ml
   count: 1
-- word: AI
+- word: ai
   count: 1
 - word: propose
   count: 3
 - word: methods
-  count: 4
+  count: 5
 - word: augment
   count: 1
 - word: curators
   count: 1
 - word: inserting
   count: 1
-- word: AI
+- word: ai
   count: 4
-- word: AI
+- word: ai
   count: 1
 - word: loop
   count: 1
@@ -6112,7 +5612,7 @@
   count: 2
 - word: trains
   count: 1
-- word: AIHowever
+- word: aihowever
   count: 1
 - word: sufficient
   count: 3
@@ -6140,24 +5640,24 @@
   count: 1
 - word: dataset
   count: 1
-- word: Oxford
+- word: oxford
   count: 1
-- word: English
+- word: english
   count: 1
-- word: Dictionary
+- word: dictionary
   count: 1
-- word: OED
+- word: oed
   count: 1
 - word: such
   count: 1
 - word: opendata
   count: 1
-- word: amplifiedThis
+- word: amplifiedthis
   count: 1
 - word: curation
   count: 1
 - word: and
-  count: 1
+  count: 2
 - word: particular
   count: 1
 - word: keen
@@ -6182,25 +5682,19 @@
   count: 1
 - word: understanding
   count: 1
-- word: Taking
-  count: 2
-- word: New
-  count: 2
-- word: Level
-  count: 1
 - word: generate
   count: 5
 - word: kits
   count: 1
-- word: SDKs
+- word: sdks
   count: 1
-- word: Watson
+- word: watson
   count: 2
 - word: specifications
   count: 1
 - word: written
   count: 2
-- word: Swagger
+- word: swagger
   count: 1
 - word: exceed
   count: 1
@@ -6210,7 +5704,7 @@
   count: 1
 - word: productlevel
   count: 2
-- word: SDKs
+- word: sdks
   count: 3
 - word: incorporating
   count: 2
@@ -6222,20 +5716,16 @@
   count: 2
 - word: faced
   count: 1
-- word: coding
-  count: 1
 - word: mere
   count: 1
 - word: adherence
   count: 1
-- word: generation
-  count: 2
 - word: highquality
   count: 1
-- word: SDKs
+- word: sdks
   count: 2
-- word: Another
-  count: 2
+- word: another
+  count: 3
 - word: producing
   count: 2
 - word: backward
@@ -6252,20 +5742,18 @@
   count: 5
 - word: several
   count: 7
-- word: Java/Android
+- word: java/android
   count: 1
-- word: Python
+- word: python
   count: 1
-- word: Swift
+- word: swift
   count: 1
-- word: NET.
+- word: net.
   count: 1
-- word: Homomorphic
-  count: 3
-- word: Encryption
-  count: 2
+- word: homomorphic
+  count: 4
 - word: encryption
-  count: 2
+  count: 4
 - word: companys
   count: 1
 - word: party
@@ -6278,43 +5766,39 @@
   count: 1
 - word: handle
   count: 1
-- word: Especially
+- word: europe
   count: 1
-- word: Europe
+- word: payment
   count: 1
-- word: Payment
-  count: 1
-- word: Directive
+- word: directive
   count: 1
 - word: governments
-  count: 1
-- word: Jaroslav
+  count: 3
+- word: jaroslav
   count: 2
-- word: Machan
+- word: machan
   count: 1
-- word: Jan
+- word: jan
   count: 1
-- word: Sechovec
+- word: sechovec
   count: 1
 - word: introduced
   count: 1
-- word: Boston
+- word: boston
   count: 1
-- word: APIStrat
+- word: apistrat
   count: 1
 - word: talks
   count: 1
 - word: appreciated
   count: 1
 - word: standing
-  count: 1
+  count: 2
 - word: applause
   count: 1
 - word: audience
   count: 1
 - word: project
-  count: 1
-- word: homomorphic
   count: 1
 - word: strongest
   count: 1
@@ -6326,7 +5810,7 @@
   count: 1
 - word: oldest
   count: 1
-- word: Czech
+- word: czech
   count: 1
 - word: prototyping
   count: 1
@@ -6334,13 +5818,11 @@
   count: 1
 - word: far
   count: 1
-- word: Pragmatic
+- word: pragmatic
   count: 1
 - word: adopt
   count: 4
 - word: advantages
-  count: 1
-- word: Were
   count: 1
 - word: misaligned
   count: 1
@@ -6351,31 +5833,31 @@
 - word: perspective
   count: 1
 - word: consuming
-  count: 4
+  count: 5
 - word: design
   count: 2
-- word: Then
+- word: then
   count: 1
 - word: demonstrate
   count: 6
-- word: JSONAPIorg
+- word: jsonapiorg
   count: 1
 - word: diverse
   count: 1
 - word: opposing
   count: 1
-- word: requirementsThis
+- word: requirementsthis
   count: 1
 - word: informed
   count: 1
-- word: Fitbit
+- word: fitbit
   count: 1
 - word: ultimately
   count: 1
-- word: APIfirst
+- word: apifirst
   count: 2
 - word: customers
-  count: 7
+  count: 8
 - word: directly
   count: 1
 - word: mostly
@@ -6400,33 +5882,21 @@
   count: 2
 - word: customer
   count: 1
-- word: Contractfirst
+- word: contractfirst
   count: 1
-- word: Development
-  count: 1
-- word: Case
-  count: 1
-- word: Study
-  count: 1
-- word: Parallel
-  count: 1
-- word: Publishing
-  count: 1
-- word: Consumption
-  count: 1
+- word: development
+  count: 2
+- word: publishing
+  count: 4
 - word: idea
   count: 5
 - word: first
   count: 1
-- word: publishing
-  count: 3
 - word: worth
   count: 1
 - word: considering
   count: 1
-- word: comes
-  count: 1
-- word: communicationThis
+- word: communicationthis
   count: 1
 - word: realworld
   count: 4
@@ -6450,17 +5920,13 @@
   count: 1
 - word: model
   count: 2
-- word: Venture
+- word: venture
   count: 2
-- word: Platforming
+- word: platforming
   count: 1
-- word: Capital
+- word: capital
   count: 7
-- word: Applied
-  count: 1
-- word: Products
-  count: 1
-- word: “Two
+- word: “two
   count: 1
 - word: startup
   count: 2
@@ -6468,23 +5934,21 @@
   count: 1
 - word: wellestablished
   count: 2
-- word: Minimum
+- word: minimum
   count: 1
-- word: Viable
+- word: viable
   count: 1
-- word: MVP
+- word: mvp
   count: 1
 - word: mashing
   count: 1
-- word: platforms
-  count: 4
 - word: mapping
   count: 1
 - word: payments
   count: 1
 - word: text
   count: 2
-- word: notifications..Enterprises
+- word: notifications..enterprises
   count: 1
 - word: longer
   count: 3
@@ -6495,7 +5959,7 @@
 - word: necessarily
   count: 1
 - word: domain
-  count: 6
+  count: 11
 - word: boardroom
   count: 1
 - word: negotiation — one
@@ -6504,11 +5968,9 @@
   count: 1
 - word: relationship
   count: 2
-- word: companiesThis
+- word: companiesthis
   count: 1
-- word: Enterprises
-  count: 1
-- word: Capitalists
+- word: capitalists
   count: 1
 - word: belief
   count: 1
@@ -6518,7 +5980,7 @@
   count: 1
 - word: big
   count: 6
-- word: GraphQL
+- word: graphql
   count: 1
 - word: linearly
   count: 1
@@ -6536,17 +5998,15 @@
   count: 2
 - word: render
   count: 2
-- word: UIWeb
+- word: uiweb
   count: 1
-- word: apps
-  count: 2
 - word: clients
   count: 1
-- word: Graph
+- word: graph
+  count: 2
+- word: ql
   count: 1
-- word: QL
-  count: 1
-- word: UI
+- word: ui
   count: 1
 - word: combine
   count: 3
@@ -6554,10 +6014,6 @@
   count: 1
 - word: clients
   count: 4
-- word: Challenge
-  count: 1
-- word: Support
-  count: 1
 - word: integrations
   count: 1
 - word: ingredients
@@ -6569,7 +6025,7 @@
 - word: available
   count: 2
 - word: believe
-  count: 1
+  count: 3
 - word: healing
   count: 1
 - word: fix
@@ -6577,35 +6033,31 @@
 - word: mistakes
   count: 1
 - word: science
-  count: 1
+  count: 2
 - word: art
-  count: 1
-- word: Within
   count: 1
 - word: learnings
   count: 1
-- word: SmartBear
+- word: smartbear
   count: 1
-- word: Postman
-  count: 1
+- word: postman
+  count: 2
 - word: bots
   count: 1
-- word: apis
-  count: 1
 - word: spec
-  count: 2
+  count: 3
 - word: contract
   count: 1
 - word: one!
-  count: 1
+  count: 2
 - word: representing
   count: 1
 - word: developers
   count: 1
 - word: guarantee
   count: 1
-- word: Now
-  count: 1
+- word: now
+  count: 3
 - word: enough
   count: 1
 - word: useful
@@ -6616,13 +6068,13 @@
   count: 3
 - word: contract
   count: 1
-- word: Specification
+- word: specification
   count: 1
-- word: OpenAPI
+- word: openapi
   count: 1
 - word: documenting
   count: 2
-- word: But
+- word: but
   count: 1
 - word: rule
   count: 1
@@ -6630,7 +6082,7 @@
   count: 1
 - word: aligned
   count: 1
-- word: Rather
+- word: rather
   count: 1
 - word: todo
   count: 1
@@ -6646,53 +6098,41 @@
   count: 1
 - word: lifecycle
   count: 1
-- word: Rolling
-  count: 2
-- word: Marketplace
-  count: 2
-- word: From
-  count: 6
-- word: Start
-  count: 2
-- word: Never
+- word: rolling
   count: 3
-- word: Finished
+- word: marketplace
   count: 2
-- word: Nikolas
+- word: never
+  count: 9
+- word: finished
+  count: 3
+- word: nikolas
   count: 1
-- word: Acheson
+- word: acheson
   count: 1
-- word: Premera
+- word: premera
   count: 2
-- word: Blue
+- word: blue
   count: 1
-- word: Cross
+- word: cross
   count: 1
-- word: Migrating
+- word: migrating
   count: 1
-- word: “APIFirst”
+- word: “apifirst”
   count: 1
 - word: economy
-  count: 1
-- word: Need
   count: 1
 - word: executive
   count: 1
 - word: incrementally
   count: 1
-- word: Looking
-  count: 1
 - word: monetize
   count: 1
 - word: model
   count: 1
-- word: Regardless
-  count: 1
 - word: journey
   count: 1
 - word: navigate
-  count: 1
-- word: early
   count: 1
 - word: debt
   count: 1
@@ -6706,26 +6146,20 @@
   count: 1
 - word: to!
   count: 1
-- word: Nik
+- word: nik
   count: 1
 - word: his
-  count: 2
-- word: Public
-  count: 2
-- word: Private
   count: 2
 - word: sectors
   count: 1
 - word: he
-  count: 2
+  count: 7
 - word: architectures
   count: 2
-- word: He
-  count: 5
-- word: Premeras
+- word: premeras
   count: 1
 - word: operating
-  count: 4
+  count: 5
 - word: model
   count: 1
 - word: partnering
@@ -6736,25 +6170,23 @@
   count: 1
 - word: meeting
   count: 1
-- word: Alpha/Beta/MVP
+- word: alpha/beta/mvp
   count: 1
 - word: iterations
   count: 1
-- word: Hypermedia
-  count: 4
 - word: versus
   count: 1
 - word: isnt
-  count: 2
+  count: 3
 - word: staging
   count: 1
 - word: environment
-  count: 1
+  count: 2
 - word: risk
   count: 5
 - word: cancelled
   count: 1
-- word: Demonstrating
+- word: demonstrating
   count: 1
 - word: pieces
   count: 1
@@ -6762,7 +6194,7 @@
   count: 2
 - word: deliver
   count: 1
-- word: thereI
+- word: therei
   count: 1
 - word: fastmoving
   count: 1
@@ -6777,7 +6209,7 @@
 - word: specified
   count: 1
 - word: me
-  count: 4
+  count: 5
 - word: opportunity
   count: 2
 - word: option
@@ -6798,11 +6230,11 @@
   count: 1
 - word: spend
   count: 1
-- word: Lux
+- word: lux
   count: 1
-- word: UI
+- word: ui
   count: 3
-- word: LuxUI
+- word: luxui
   count: 4
 - word: rendering
   count: 1
@@ -6819,50 +6251,42 @@
 - word: diverse
   count: 1
 - word: ever
-  count: 5
+  count: 6
 - word: needing
   count: 1
-- word: CSS
+- word: css
   count: 1
-- word: HTML
+- word: html
   count: 1
-- word: JavaScript
+- word: javascript
   count: 1
 - word: responses
   count: 1
 - word: follow
   count: 2
-- word: Siren
+- word: siren
   count: 1
 - word: restrictions
   count: 1
-- word: Siren+lux
+- word: siren+lux
   count: 1
-- word: Unleash
+- word: unleash
   count: 1
-- word: Full
-  count: 1
-- word: Potential
-  count: 1
-- word: Serverless
-  count: 7
-- word: Theres
-  count: 2
 - word: doubt
   count: 1
 - word: rapidly
-  count: 1
+  count: 2
 - word: picking
   count: 1
 - word: traction
   count: 1
 - word: functions
-  count: 1
+  count: 2
 - word: backed
   count: 1
 - word: love
   count: 1
-- word: Although
+- word: although
   count: 1
 - word: simply
   count: 2
@@ -6880,15 +6304,11 @@
   count: 1
 - word: socialization
   count: 1
-- word: youll
-  count: 7
 - word: tackle
   count: 1
 - word: encounters
   count: 1
-- word: Practical
-  count: 2
-- word: DevSecOps
+- word: devsecops
   count: 2
 - word: “shift
   count: 1
@@ -6902,29 +6322,25 @@
   count: 1
 - word: earliest
   count: 1
-- word: Philippe
+- word: philippe
   count: 1
 - word: innovative
   count: 3
 - word: to1/
   count: 1
-- word: Assess
+- word: assess
   count: 1
 - word: terms
   count: 1
 - word: sensitivity2/
   count: 1
-- word: Specify
+- word: specify
   count: 1
 - word: input/output
   count: 1
 - word: formats3/
   count: 1
-- word: Describe
-  count: 1
-- word: flow
-  count: 1
-- word: From
+- word: from
   count: 1
 - word: gathered
   count: 1
@@ -6938,37 +6354,35 @@
   count: 1
 - word: respecting
   count: 1
-- word: teamsPhilippe
+- word: teamsphilippe
   count: 1
-- word: CI/CD
+- word: ci/cd
   count: 1
 - word: pipeline
   count: 1
-- word: PEP
+- word: pep
   count: 1
-- word: Policy
+- word: policy
   count: 1
-- word: Enforcement
-  count: 1
-- word: Point
+- word: enforcement
+  count: 2
+- word: point
   count: 1
 - word: /
   count: 3
-- word: QA
+- word: qa
   count: 1
-- word: PreProduction
+- word: preproduction
   count: 1
 - word: environments
   count: 1
-- word: Rapidly
-  count: 1
-- word: Nodejs
+- word: nodejs
   count: 3
-- word: LoopBack
+- word: loopback
   count: 3
 - word: architected
   count: 1
-- word: LoopBack
+- word: loopback
   count: 1
 - word: incredibly
   count: 1
@@ -6980,20 +6394,12 @@
   count: 1
 - word: keeps
   count: 1
-- word: Make
+- word: change
   count: 1
-- word: Breaking
-  count: 4
-- word: Change
-  count: 1
-- word: Believe
-  count: 2
 - word: me!
   count: 1
-- word: Changes
-  count: 1
 - word: death
-  count: 1
+  count: 2
 - word: taxes
   count: 1
 - word: inevitable
@@ -7014,26 +6420,20 @@
   count: 1
 - word: customers
   count: 2
-- word: Recognizing
+- word: recognizing
   count: 1
 - word: familiar
   count: 1
 - word: with
   count: 1
-- word: Revisions
-  count: 1
-- word: Versions
+- word: revisions
   count: 1
 - word: flexibility
   count: 1
 - word: confidently
   count: 2
-- word: never
-  count: 6
-- word: Incremental
-  count: 1
-- word: Development
-  count: 3
+- word: incremental
+  count: 2
 - word: iterative
   count: 2
 - word: months
@@ -7044,22 +6444,16 @@
   count: 4
 - word: users
   count: 2
-- word: incremental
-  count: 1
 - word: accomplished
   count: 2
 - word: ways
   count: 1
-- word: microservicesIn
+- word: microservicesin
   count: 1
-- word: Ive
+- word: ive
   count: 3
 - word: incrementally
   count: 1
-- word: Layers
-  count: 1
-- word: Modern
-  count: 2
 - word: rely
   count: 2
 - word: frontend
@@ -7074,7 +6468,7 @@
   count: 1
 - word: slowing
   count: 1
-- word: crawlIn
+- word: crawlin
   count: 1
 - word: plans
   count: 3
@@ -7086,30 +6480,22 @@
   count: 1
 - word: acceptance
   count: 1
-- word: endto-end
-  count: 1
 - word: greatly
   count: 2
 - word: reliability
   count: 1
 - word: longrun
   count: 1
-- word: Keep
+- word: behold
   count: 1
-- word: Behold
-  count: 1
-- word: magic
-  count: 2
 - word: nextgen
   count: 1
 - word: tooling
   count: 3
-- word: V3
+- word: v3
   count: 1
 - word: support!
   count: 1
-- word: experience
-  count: 5
 - word: enhanced
   count: 1
 - word: infrastructure
@@ -7124,15 +6510,13 @@
   count: 1
 - word: demo
   count: 3
-- word: OpenAPIV3
+- word: openapiv3
   count: 1
 - word: looks
   count: 1
 - word: like!
   count: 1
-- word: Embracing
-  count: 1
-- word: Schema
+- word: schema
   count: 6
 - word: extremely
   count: 2
@@ -7171,14 +6555,14 @@
 - word: attendee
   count: 1
 - word: enough
-  count: 1
+  count: 2
 - word: documents
   count: 2
-- word: Serverless"
+- word: serverless"
   count: 2
-- word: APIs
+- word: apis
   count: 1
-- word: strategyServerless
+- word: strategyserverless
   count: 1
 - word: democratize
   count: 1
@@ -7190,13 +6574,13 @@
   count: 1
 - word: building
   count: 1
-- word: Meanwhile
+- word: meanwhile
   count: 1
 - word: inherent
   count: 1
 - word: scalability
   count: 1
-- word: APIsGiven
+- word: apisgiven
   count: 1
 - word: platforms
   count: 2
@@ -7212,9 +6596,9 @@
   count: 1
 - word: minimize
   count: 1
-- word: downsidesWho
+- word: downsideswho
   count: 1
-- word: audienceThe
+- word: audiencethe
   count: 1
 - word: company
   count: 1
@@ -7226,28 +6610,24 @@
   count: 1
 - word: architect
   count: 1
-- word: CTO
+- word: cto
   count: 1
-- word: CIO
+- word: cio
   count: 1
-- word: After
-  count: 3
+- word: after
+  count: 4
 - word: whether
-  count: 1
+  count: 3
 - word: project/product/company
   count: 1
-- word: gRPC
+- word: grpc
   count: 3
-- word: Sideby-Side
-  count: 1
-- word: Spend
-  count: 1
+- word: sideby-side
+  count: 2
 - word: notice
   count: 1
 - word: common
   count: 1
-- word: Both
-  count: 2
 - word: efforts
   count: 2
 - word: promise
@@ -7260,8 +6640,6 @@
   count: 1
 - word: other
   count: 1
-- word: sideby-side
-  count: 1
 - word: comparison
   count: 1
 - word: answers
@@ -7270,9 +6648,7 @@
   count: 1
 - word: networked
   count: 1
-- word: Machine
-  count: 3
-- word: Learning
+- word: learning
   count: 1
 - word: teaching
   count: 1
@@ -7282,8 +6658,6 @@
   count: 1
 - word: biases
   count: 2
-- word: humans
-  count: 4
 - word: involved
   count: 1
 - word: natural
@@ -7308,7 +6682,7 @@
   count: 1
 - word: from
   count: 2
-- word: SuperPowered
+- word: superpowered
   count: 1
 - word: testing
   count: 2
@@ -7328,8 +6702,6 @@
   count: 1
 - word: say
   count: 1
-- word: Whether
-  count: 2
 - word: prefer
   count: 1
 - word: command
@@ -7338,17 +6710,17 @@
   count: 1
 - word: editor
   count: 1
-- word: GUI
+- word: gui
   count: 1
 - word: nicely
   count: 2
 - word: workflow
   count: 1
-- word: Plus
+- word: plus
   count: 1
 - word: home
   count: 2
-- word: startedThis
+- word: startedthis
   count: 1
 - word: accompanying
   count: 1
@@ -7366,23 +6738,17 @@
   count: 1
 - word: features
   count: 2
-- word: Everyone
-  count: 1
+- word: everyone
+  count: 4
 - word: broader
   count: 1
-- word: Pain
+- word: development
   count: 1
-- word: Points
-  count: 1
-- word: Development
-  count: 1
-- word: Theyre
-  count: 1
-- word: Everywhere
+- word: everywhere
   count: 1
 - word: growing
   count: 1
-- word: ProgrammableWeb
+- word: programmableweb
   count: 1
 - word: names
   count: 1
@@ -7398,23 +6764,21 @@
   count: 2
 - word: time
   count: 1
-- word: Reducing
+- word: reducing
   count: 1
 - word: path
   count: 2
-- word: development
-  count: 1
 - word: easyto-learn
   count: 1
 - word: use
   count: 1
 - word: functionality
   count: 1
-- word: Abhinav
+- word: abhinav
   count: 1
 - word: automation
   count: 1
-- word: CI
+- word: ci
   count: 1
 - word: mocks
   count: 1
@@ -7424,15 +6788,13 @@
   count: 1
 - word: collaboration
   count: 1
-- word: Developers
-  count: 2
 - word: managers
   count: 1
 - word: workflow
   count: 1
 - word: extends
   count: 1
-- word: OAuth
+- word: oauth
   count: 4
 - word: layer
   count: 1
@@ -7442,25 +6804,21 @@
   count: 3
 - word: aka
   count: 1
-- word: ID
+- word: id
   count: 1
 - word: client
-  count: 1
-- word: OpenId
   count: 1
 - word: raised
   count: 1
 - word: preferred
   count: 1
-- word: securityThis
+- word: securitythis
   count: 1
 - word: between
   count: 1
-- word: OAuth
+- word: oauth
   count: 1
-- word: JWT
-  count: 1
-- word: openID
+- word: jwt
   count: 1
 - word: connect
   count: 1
@@ -7468,47 +6826,45 @@
   count: 1
 - word: respective
   count: 1
-- word: Dos
+- word: dos
   count: 1
-- word: Dont
+- word: dont
   count: 1
-- word: Handson
+- word: handson
   count: 1
 - word: 3scale
   count: 1
-- word: Redhat
+- word: redhat
   count: 1
-- word: Red
+- word: red
   count: 1
-- word: Hat
+- word: hat
   count: 1
-- word: SSO
+- word: sso
   count: 1
 - word: keycloak
   count: 1
 - word: connect
   count: 1
-- word: Neura
+- word: neura
   count: 1
 - word: standard
   count: 2
 - word: limited
   count: 1
-- word: ASAP
+- word: asap
   count: 1
-- word: Ruby
+- word: ruby
   count: 1
-- word: Rails
+- word: rails
   count: 1
-- word: That
+- word: that
   count: 1
 - word: app
   count: 3
-- word: after
-  count: 1
 - word: pivots
   count: 1
-- word: SDK
+- word: sdk
   count: 1
 - word: struggles
   count: 1
@@ -7518,7 +6874,7 @@
   count: 1
 - word: viewpoints
   count: 1
-- word: "teams•\tUse"
+- word: "teams•\tuse"
   count: 1
 - word: entities
   count: 1
@@ -7528,7 +6884,7 @@
   count: 1
 - word: richer
   count: 2
-- word: "•\tStick"
+- word: "•\tstick"
   count: 1
 - word: tailor
   count: 1
@@ -7536,9 +6892,7 @@
   count: 1
 - word: connected
   count: 3
-- word: "environment•\tDo"
-  count: 1
-- word: errors
+- word: "environment•\tdo"
   count: 1
 - word: sense
   count: 2
@@ -7562,47 +6916,43 @@
   count: 1
 - word: arent
   count: 1
-- word: Maybe
-  count: 2
 - word: knew
   count: 2
 - word: that—but
   count: 1
 - word: place
   count: 1
-- word: applicationsWhy
+- word: applicationswhy
   count: 1
-- word: webWell
+- word: webwell
   count: 1
 - word: suppose
   count: 1
 - word: wanted
   count: 2
-- word: Slack
+- word: slack
   count: 1
-- word: Screenhero
+- word: screenhero
   count: 1
-- word: APIIts
+- word: apiits
   count: 1
 - word: done
   count: 1
-- word: And
-  count: 12
-- word: tooLets
+- word: toolets
   count: 1
-- word: Screenheros
+- word: screenheros
   count: 1
 - word: stack
   count: 1
 - word: blended
   count: 1
-- word: Ruby
+- word: ruby
   count: 2
-- word: Erlang
+- word: erlang
   count: 1
-- word: C
+- word: c
   count: 1
-- word: Javascript
+- word: javascript
   count: 1
 - word: sheer
   count: 1
@@ -7614,39 +6964,33 @@
   count: 1
 - word: '`/hero`'
   count: 1
-- word: Slack
+- word: slack
   count: 2
 - word: watch
   count: 1
 - word: happen
   count: 1
-- word: Different
+- word: sanity
   count: 1
-- word: Languages
+- word: sendgrids
   count: 1
-- word: Maintaining
-  count: 2
-- word: Sanity
+- word: engineer
   count: 1
-- word: SendGrids
+- word: elmer
   count: 1
-- word: Engineer
-  count: 1
-- word: Elmer
-  count: 1
-- word: Thomas
+- word: thomas
   count: 1
 - word: rebuilt
   count: 1
-- word: Python
+- word: python
   count: 1
-- word: PHP
+- word: php
   count: 1
-- word: 'C#'
+- word: 'c#'
   count: 1
-- word: Nodejs
+- word: nodejs
   count: 1
-- word: Go
+- word: go
   count: 1
 - word: endpoints
   count: 1
@@ -7654,7 +6998,7 @@
   count: 1
 - word: execution
   count: 1
-- word: Swagger/OAI
+- word: swagger/oai
   count: 1
 - word: powered
   count: 1
@@ -7664,7 +7008,7 @@
   count: 1
 - word: examples
   count: 2
-- word: CLAs
+- word: clas
   count: 1
 - word: backlogs
   count: 1
@@ -7676,13 +7020,11 @@
   count: 1
 - word: automations
   count: 1
-- word: Implementation
+- word: executable
   count: 1
-- word: Executable
-  count: 1
-- word: Specs
-  count: 1
-- word: Swagger
+- word: specs
+  count: 3
+- word: swagger
   count: 1
 - word: clients
   count: 2
@@ -7696,7 +7038,7 @@
   count: 1
 - word: systems
   count: 2
-- word: Whatever
+- word: whatever
   count: 1
 - word: case
   count: 1
@@ -7710,10 +7052,8 @@
   count: 1
 - word: implementations
   count: 1
-- word: Especially
+- word: especially
   count: 1
-- word: specs
-  count: 2
 - word: organize
   count: 1
 - word: iterate
@@ -7722,27 +7062,17 @@
   count: 1
 - word: ow
   count: 1
-- word: load
-  count: 2
 - word: runtime
   count: 1
 - word: validation
   count: 2
 - word: response
   count: 2
-- word: during
-  count: 3
 - word: development
-  count: 1
-- word: FutureProof
-  count: 1
-- word: Innovation
   count: 1
 - word: faster
   count: 2
 - word: digitalfirst
-  count: 1
-- word: Going
   count: 1
 - word: necessity
   count: 1
@@ -7751,8 +7081,6 @@
 - word: distributing
   count: 1
 - word: keys
-  count: 1
-- word: Success
   count: 1
 - word: proper
   count: 1
@@ -7768,8 +7096,6 @@
   count: 1
 - word: prosperous
   count: 1
-- word: Discover
-  count: 1
 - word: involve
   count: 1
 - word: set
@@ -7778,23 +7104,23 @@
   count: 1
 - word: fledgling
   count: 1
-- word: Thats
+- word: thats
   count: 1
-- word: API..DevX
+- word: api..devx
   count: 1
 - word: intersection
   count: 1
 - word: devices
-  count: 2
+  count: 3
 - word: things"
   count: 1
-- word: APIsFor
+- word: apisfor
   count: 1
 - word: router
   count: 1
-- word: YANG
+- word: yang
   count: 1
-- word: RESTCONF
+- word: restconf
   count: 1
 - word: ..but
   count: 1
@@ -7802,7 +7128,7 @@
   count: 2
 - word: entirely
   count: 1
-- word: RESTJoin
+- word: restjoin
   count: 1
 - word: discussion
   count: 1
@@ -7811,7 +7137,7 @@
 - word: winning
   count: 1
 - word: bringing
-  count: 2
+  count: 3
 - word: standards
   count: 2
 - word: engineering
@@ -7822,7 +7148,7 @@
   count: 1
 - word: costs
   count: 1
-- word: Ill
+- word: ill
   count: 3
 - word: clearly
   count: 1
@@ -7830,9 +7156,7 @@
   count: 1
 - word: lives
   count: 1
-- word: House
-  count: 1
-- word: Order
+- word: house
   count: 1
 - word: maximum
   count: 1
@@ -7846,35 +7170,25 @@
   count: 1
 - word: results
   count: 1
-- word: Ryan
+- word: ryan
   count: 1
-- word: GSA
+- word: gsa
   count: 2
 - word: agencywide
   count: 1
-- word: Strategy
-  count: 1
-- word: Standards
-  count: 1
+- word: strategy
+  count: 3
 - word: reviving
   count: 1
-- word: Working
-  count: 1
-- word: Group
+- word: group
   count: 1
 - word: template
   count: 1
 - word: prototype
   count: 1
-- word: Learn
+- word: learn
   count: 1
-- word: Bringing
-  count: 1
-- word: Enterprise
-  count: 1
-- word: Isnt
-  count: 1
-- word: Enough
+- word: enterprise
   count: 1
 - word: surfaces
   count: 1
@@ -7886,9 +7200,9 @@
   count: 1
 - word: away
   count: 1
-- word: IBMs
+- word: ibms
   count: 1
-- word: Bluemix
+- word: bluemix
   count: 1
 - word: independent
   count: 1
@@ -7898,20 +7212,14 @@
   count: 1
 - word: ~25x
   count: 1
-- word: improvementsWell
+- word: improvementswell
   count: 1
 - word: technique
   count: 1
 - word: reliable
   count: 1
-- word: AND
-  count: 1
 - word: 000s
   count: 1
-- word: Growing
-  count: 1
-- word: Program
-  count: 2
 - word: basics
   count: 3
 - word: segmentation
@@ -7924,8 +7232,6 @@
   count: 1
 - word: activities
   count: 1
-- word: Will
-  count: 4
 - word: extra
   count: 1
 - word: special
@@ -7936,39 +7242,29 @@
   count: 1
 - word: techniques
   count: 1
-- word: NOTE
+- word: note
   count: 1
 - word: indepth
   count: 1
-- word: OR
-  count: 1
 - word: narrowed
   count: 1
-- word: Risky
+- word: risky
+  count: 3
+- word: business
   count: 2
-- word: Business
+- word: screen
   count: 2
-- word: Avoid
+- word: scraping
   count: 2
-- word: Screen
-  count: 2
-- word: Scraping
-  count: 2
-- word: Improve
-  count: 2
-- word: Becky
+- word: becky
   count: 1
-- word: Heironimus
+- word: heironimus
   count: 1
-- word: Claudia
+- word: claudia
   count: 5
-- word: Holanda*
+- word: holanda*
   count: 1
-- word: One
-  count: 1
-- word: Customers
-  count: 1
-- word: Personal
+- word: one
   count: 1
 - word: tracking
   count: 1
@@ -7982,11 +7278,9 @@
   count: 1
 - word: do
   count: 1
-- word: Entrust
+- word: entrust
   count: 1
 - word: credentials
-  count: 1
-- word: risky
   count: 1
 - word: solution
   count: 1
@@ -7994,19 +7288,15 @@
   count: 1
 - word: reasons
   count: 1
-- word: One
+- word: one
   count: 2
 - word: way
-  count: 1
-- word: Introducing
-  count: 1
-- word: Customer
   count: 2
-- word: Transactions
+- word: introducing
   count: 1
 - word: product
   count: 2
-- word: DevExchange
+- word: devexchange
   count: 1
 - word: family
   count: 1
@@ -8016,7 +7306,7 @@
   count: 1
 - word: procedures
   count: 1
-- word: softwareFor
+- word: softwarefor
   count: 1
 - word: handling
   count: 1
@@ -8040,13 +7330,13 @@
   count: 1
 - word: redesigned
   count: 1
-- word: UIs
+- word: uis
   count: 1
 - word: types
   count: 1
 - word: added
   count: 1
-- word: experienceFor
+- word: experiencefor
   count: 1
 - word: explicit
   count: 1
@@ -8066,53 +7356,37 @@
   count: 1
 - word: customers
   count: 1
-- word: One*Second
+- word: one*second
   count: 1
-- word: Speaker
+- word: holanda
   count: 1
-- word: Holanda
+- word: holanda
   count: 1
-- word: Holanda
-  count: 1
-- word: Manager
-  count: 2
-- word: Corporation
+- word: corporation
   count: 1
 - word: datadriven
   count: 1
 - word: products
   count: 1
-- word: Prior
-  count: 1
 - word: roles
   count: 2
-- word: Hobsons
+- word: hobsons
   count: 1
-- word: United
+- word: united
   count: 1
-- word: Communications
-  count: 1
-- word: Group
-  count: 1
-- word: Information
-  count: 1
-- word: Builders
+- word: builders
   count: 1
 - word: holds
   count: 1
-- word: BS.
+- word: bs.
   count: 1
-- word: Computer
+- word: computer
+  count: 6
+- word: york
   count: 1
-- word: Science
+- word: institute
   count: 1
-- word: York
-  count: 1
-- word: Institute
-  count: 1
-- word: Technology
-  count: 1
-- word: Scale
+- word: technology
   count: 1
 - word: loose
   count: 1
@@ -8132,20 +7406,18 @@
   count: 1
 - word: scalability
   count: 1
-- word: Using
+- word: using
   count: 1
-- word: Comcasts
+- word: comcasts
   count: 1
-- word: Xfinity
+- word: xfinity
   count: 1
-- word: Stream
+- word: stream
   count: 1
 - word: shape
   count: 1
 - word: patterns
   count: 2
-- word: perform
-  count: 1
 - word: shedding
   count: 1
 - word: necessary
@@ -8154,11 +7426,11 @@
   count: 1
 - word: rollout
   count: 1
-- word: Implications
+- word: implications
   count: 1
 - word: considered
   count: 1
-- word: Ive
+- word: ive
   count: 1
 - word: havent
   count: 1
@@ -8168,13 +7440,9 @@
   count: 3
 - word: one
   count: 1
-- word: There
-  count: 3
 - word: response
   count: 1
 - word: provide
-  count: 1
-- word: Between
   count: 1
 - word: versioning
   count: 2
@@ -8186,27 +7454,23 @@
   count: 1
 - word: competitors
   count: 1
-- word: Workflow
-  count: 1
-- word: Engine
-  count: 1
-- word: AWEsome
-  count: 1
-- word: Query
-  count: 1
-- word: Extract
-  count: 1
-- word: Transform
-  count: 1
-- word: Persist
-  count: 1
-- word: RepeatHow
-  count: 1
 - word: workflow
-  count: 2
+  count: 3
+- word: awesome
+  count: 1
+- word: query
+  count: 1
+- word: extract
+  count: 1
+- word: transform
+  count: 1
+- word: persist
+  count: 1
+- word: repeathow
+  count: 1
 - word: codified
   count: 1
-- word: againAWE
+- word: againawe
   count: 1
 - word: method
   count: 6
@@ -8218,21 +7482,15 @@
   count: 1
 - word: orders
   count: 1
-- word: magnitudeThis
+- word: magnitudethis
   count: 1
 - word: describes
   count: 2
-- word: WHAT
-  count: 1
-- word: HOW
-  count: 1
-- word: Specifically
-  count: 1
 - word: abstracted
   count: 1
 - word: interacting
   count: 1
-- word: APIWe
+- word: apiwe
   count: 2
 - word: utilize
   count: 2
@@ -8244,7 +7502,7 @@
   count: 1
 - word: together”
   count: 1
-- word: itemsStop
+- word: itemsstop
   count: 1
 - word: insanity
   count: 1
@@ -8252,11 +7510,9 @@
   count: 1
 - word: codification!!
   count: 1
-- word: Composition
+- word: composition
   count: 1
-- word: Patterns
-  count: 1
-- word: Salesforce
+- word: salesforce
   count: 1
 - word: '['
   count: 1
@@ -8274,12 +7530,10 @@
   count: 1
 - word: ']'
   count: 1
-- word: Salesforces
+- word: salesforces
   count: 1
-- word: Forcecom
+- word: forcecom
   count: 1
-- word: Platform
-  count: 2
 - word: succesfullmedium
   count: 1
 - word: extraordinarynumber
@@ -8288,7 +7542,7 @@
   count: 1
 - word: usersspecific
   count: 1
-- word: Recently
+- word: recently
   count: 1
 - word: revisting
   count: 1
@@ -8298,9 +7552,9 @@
   count: 1
 - word: focusing
   count: 2
-- word: Lightning
+- word: lightning
   count: 1
-- word: MobileapplicationsIn
+- word: mobileapplicationsin
   count: 1
 - word: compositional"
   count: 1
@@ -8318,31 +7572,29 @@
   count: 1
 - word: datamodel
   count: 1
-- word: OData
+- word: odata
   count: 4
-- word: BFFs
+- word: bffs
   count: 1
-- word: Arch
+- word: arch
   count: 1
-- word: Rivals
+- word: rivals
   count: 1
 - word: friends
   count: 1
 - word: hypermediaoriented
   count: 1
-- word: OData
-  count: 1
-- word: Spec
+- word: odata
   count: 1
 - word: committer
   count: 1
-- word: Rob
+- word: rob
   count: 1
-- word: Dolin
+- word: dolin
   count: 1
 - word: asserts
   count: 1
-- word: 'YES'
+- word: 'yes'
   count: 1
 - word: though
   count: 1
@@ -8368,31 +7620,29 @@
   count: 1
 - word: expand
   count: 1
-- word: OpenAPIoriented
+- word: openapioriented
   count: 1
-- word: AutoRest
+- word: autorest
   count: 1
-- word: ODataoriented
+- word: odataoriented
   count: 1
-- word: Graph
+- word: graph
   count: 1
-- word: Credit
-  count: 1
-- word: Insurance
-  count: 1
+- word: credit
+  count: 3
+- word: insurance
+  count: 5
 - word: tax
   count: 2
 - word: capitalism
   count: 1
-- word: insurance
-  count: 4
 - word: bonding
   count: 1
 - word: providers
   count: 1
-- word: Euler
+- word: euler
   count: 1
-- word: Hermes
+- word: hermes
   count: 1
 - word: the
   count: 2
@@ -8400,15 +7650,11 @@
   count: 1
 - word: worldwide
   count: 1
-- word: trade
-  count: 3
-- word: credit
-  count: 2
 - word: institution
   count: 1
 - word: saner
   count: 1
-- word: industryTrade
+- word: industrytrade
   count: 1
 - word: commercial
   count: 1
@@ -8416,8 +7662,8 @@
   count: 1
 - word: goods
   count: 1
-- word: Trust
-  count: 1
+- word: trust
+  count: 3
 - word: trade
   count: 1
 - word: trust
@@ -8442,7 +7688,7 @@
   count: 2
 - word: 3rdparty
   count: 1
-- word: failureAPIs
+- word: failureapis
   count: 1
 - word: trade"
   count: 1
@@ -8450,18 +7696,14 @@
   count: 1
 - word: wide
   count: 1
-- word: trust
-  count: 2
-- word: enforcement
-  count: 1
 - word: sane
   count: 1
-- word: B2B
+- word: b2b
   count: 1
 - word: enabled
   count: 2
 - word: others
-  count: 3
+  count: 4
 - word: failure
   count: 1
 - word: default
@@ -8476,8 +7718,6 @@
   count: 1
 - word: reliability
   count: 1
-- word: Like
-  count: 2
 - word: inflation
   count: 1
 - word: investment
@@ -8490,7 +7730,7 @@
   count: 1
 - word: capitalism
   count: 1
-- word: Guns
+- word: guns
   count: 1
 - word: scenes
   count: 2
@@ -8498,9 +7738,9 @@
   count: 1
 - word: fueled
   count: 1
-- word: Yina
+- word: yina
   count: 1
-- word: Arenas
+- word: arenas
   count: 1
 - word: small
   count: 1
@@ -8510,11 +7750,11 @@
   count: 1
 - word: movement
   count: 3
-- word: Graph
+- word: graph
   count: 1
-- word: “One
+- word: “one
   count: 1
-- word: Microsoft”
+- word: microsoft”
   count: 1
 - word: transformation
   count: 1
@@ -8522,24 +7762,10 @@
   count: 1
 - word: influenced
   count: 1
-- word: Microsofts
+- word: microsofts
   count: 1
-- word: strategy
-  count: 2
-- word: Things
+- word: wish
   count: 1
-- word: Wish
-  count: 1
-- word: Told
-  count: 1
-- word: Me
-  count: 1
-- word: About
-  count: 1
-- word: Docs
-  count: 1
-- word: Have
-  count: 2
 - word: piece
   count: 1
 - word: mess
@@ -8558,11 +7784,9 @@
   count: 2
 - word: doing
   count: 1
-- word: Taylor
+- word: taylor
   count: 1
 - word: wished
-  count: 1
-- word: she
   count: 1
 - word: content
   count: 1
@@ -8572,7 +7796,7 @@
   count: 1
 - word: principles
   count: 1
-- word: Also
+- word: also
   count: 1
 - word: language
   count: 1
@@ -8584,28 +7808,22 @@
   count: 2
 - word: messages
   count: 1
-- word: Lastly
+- word: lastly
   count: 1
-- word: Lifting
+- word: lifting
   count: 1
-- word: Legacy
+- word: boosters
   count: 1
-- word: Boosters
-  count: 1
-- word: Congratulations
+- word: congratulations
   count: 1
 - word: migrate
   count: 1
 - word: cloud
   count: 1
-- word: Also
-  count: 1
 - word: whole
   count: 1
 - word: requests
   count: 1
-- word: Are
-  count: 4
 - word: experiencing
   count: 1
 - word: feelings
@@ -8622,7 +7840,7 @@
   count: 1
 - word: successful
   count: 1
-- word: Seth
+- word: seth
   count: 1
 - word: teams
   count: 1
@@ -8640,12 +7858,10 @@
   count: 1
 - word: think
   count: 1
-- word: Collaborative
+- word: collaborative
   count: 1
-- word: Fun
-  count: 1
-- word: Profit
-  count: 1
+- word: profit
+  count: 2
 - word: implementers
   count: 1
 - word: value
@@ -8660,7 +7876,7 @@
   count: 4
 - word: humans
   count: 1
-- word: PointSource
+- word: pointsource
   count: 1
 - word: leaders
   count: 2
@@ -8670,15 +7886,13 @@
   count: 1
 - word: value
   count: 1
-- word: Since
+- word: since
   count: 1
-- word: computer
-  count: 5
 - word: overlook
   count: 1
-- word: Unfortunately
-  count: 1
-- word: UI
+- word: unfortunately
+  count: 2
+- word: ui
   count: 2
 - word: consideration
   count: 1
@@ -8689,8 +7903,6 @@
 - word: near
   count: 1
 - word: midterm
-  count: 1
-- word: another
   count: 1
 - word: program
   count: 1
@@ -8714,10 +7926,6 @@
   count: 1
 - word: could
   count: 1
-- word: Journey
-  count: 1
-- word: Driven
-  count: 5
 - word: ultra
   count: 1
 - word: compete
@@ -8726,35 +7934,33 @@
   count: 3
 - word: moments
   count: 1
-- word: APILed
+- word: apiled
   count: 1
 - word: key
   count: 2
-- word: CXN
+- word: cxn
   count: 1
 - word: moments
   count: 1
-- word: CXN
+- word: cxn
   count: 1
 - word: touch
   count: 1
-- word: CXN
+- word: cxn
   count: 1
-- word: Amazon
+- word: amazon
   count: 1
-- word: Alexa
+- word: alexa
   count: 1
-- word: CXN
+- word: cxn
   count: 1
-- word: Monitoring
-  count: 3
+- word: monitoring
+  count: 5
 - word: unarguably
   count: 1
-- word: Management
-  count: 1
+- word: management
+  count: 2
 - word: exactly
-  count: 1
-- word: Monitoring
   count: 1
 - word: particular
   count: 2
@@ -8762,7 +7968,7 @@
   count: 1
 - word: operations
   count: 1
-- word: Nevatech
+- word: nevatech
   count: 1
 - word: detailed
   count: 1
@@ -8782,24 +7988,18 @@
   count: 4
 - word: singlesign-on
   count: 1
-- word: SSO
+- word: sso
   count: 1
 - word: implement
   count: 1
 - word: “brokers”
   count: 1
-- word: simplify
-  count: 2
-- word: Honest
-  count: 1
-- word: Ever
+- word: honest
   count: 1
 - word: sync
   count: 4
 - word: implementation
   count: 1
-- word: Or
-  count: 4
 - word: broke
   count: 1
 - word: refactor
@@ -8809,7 +8009,7 @@
 - word: wrong
   count: 1
 - word: instead
-  count: 2
+  count: 3
 - word: staging..
   count: 1
 - word: sends
@@ -8822,13 +8022,7 @@
   count: 1
 - word: spec
   count: 1
-- word: everyone
-  count: 3
-- word: eXperience
-  count: 1
 - word: crucial
-  count: 1
-- word: That
   count: 1
 - word: reference
   count: 1
@@ -8846,36 +8040,32 @@
   count: 1
 - word: nonobvious
   count: 1
-- word: researchShould
+- word: researchshould
   count: 1
 - word: tutorials
   count: 1
-- word: MVP
+- word: mvp
   count: 1
 - word: format
   count: 1
 - word: win
   count: 1
-- word: Belgian
+- word: belgian
   count: 1
 - word: chocolates!
   count: 1
-- word: Upstream
-  count: 1
-- word: Most
-  count: 1
+- word: upstream
+  count: 6
 - word: consciously
   count: 1
-- word: upstream
-  count: 5
-- word: DX
+- word: dx
   count: 1
 - word: logical
   count: 1
 - word: doesnt
   count: 1
 - word: attention
-  count: 1
+  count: 2
 - word: focusses
   count: 1
 - word: overcome
@@ -8898,53 +8088,41 @@
   count: 1
 - word: catalogue
   count: 1
-- word: Lambda
+- word: lambda
   count: 1
-- word: Hard
-  count: 1
-- word: Way
-  count: 1
-- word: Yourself
-  count: 2
+- word: yourself
+  count: 3
 - word: fascinated
   count: 1
-- word: Functionsas-a-Service
+- word: functionsas-a-service
   count: 2
-- word: Faas
+- word: faas
   count: 1
-- word: AWS
+- word: aws
   count: 1
-- word: Lambda
+- word: lambda
   count: 1
-- word: Google
+- word: google
   count: 6
-- word: Functions
-  count: 1
-- word: OpenWisk
+- word: openwisk
   count: 1
 - word: wondered
   count: 1
 - word: this
   count: 2
-- word: Id
+- word: id
   count: 1
 - word: tooling
   count: 1
 - word: anatomy
   count: 1
-- word: FaaS
+- word: faas
   count: 1
-- word: Applying
-  count: 1
-- word: Methods
+- word: applying
   count: 1
 - word: hard!
   count: 1
-- word: And
-  count: 1
-- word: unfortunately
-  count: 1
-- word: Luckily
+- word: luckily
   count: 1
 - word: too
   count: 1
@@ -8961,16 +8139,16 @@
 - word: disagreements
   count: 1
 - word: workers
+  count: 2
+- word: pwas
   count: 1
-- word: PWAs
-  count: 1
-- word: Workers
+- word: workers
   count: 1
 - word: doubt
   count: 1
 - word: cool
   count: 1
-- word: Javascript
+- word: javascript
   count: 1
 - word: recent
   count: 3
@@ -8982,8 +8160,6 @@
   count: 1
 - word: background
   count: 1
-- word: Workers
-  count: 1
 - word: fill
   count: 1
 - word: gap
@@ -8994,15 +8170,11 @@
   count: 1
 - word: developers
   count: 1
-- word: management
-  count: 1
 - word: abstracts
   count: 1
 - word: away
   count: 2
 - word: payper-use
-  count: 1
-- word: billing
   count: 1
 - word: attractive
   count: 1
@@ -9012,16 +8184,10 @@
   count: 1
 - word: metadata
   count: 1
-- word: Functions
-  count: 1
 - word: solution
   count: 2
-- word: Empowering
+- word: empowering
   count: 1
-- word: Citizens
-  count: 2
-- word: Governments
-  count: 2
 - word: days
   count: 1
 - word: media
@@ -9034,59 +8200,45 @@
   count: 1
 - word: cohesive
   count: 1
-- word: Incase
-  count: 1
-- word: Governments
+- word: incase
   count: 1
 - word: slow
   count: 1
-- word: Governance
-  count: 2
 - word: sometime
   count: 1
 - word: catastrophic
   count: 2
-- word: Lately
+- word: lately
   count: 1
 - word: mass
   count: 2
 - word: movements
   count: 1
-- word: chaosWhat
+- word: chaoswhat
   count: 1
-- word: Proactive
+- word: governance
   count: 3
-- word: Governance
-  count: 2
-- word: dissatisfactionOpen
+- word: dissatisfactionopen
   count: 1
-- word: Government
+- word: government
   count: 1
-- word: reactive
+- word: india
   count: 1
-- word: India
-  count: 1
-- word: India
+- word: india
   count: 4
-- word: APIsA
+- word: apisa
   count: 1
 - word: initiative
   count: 2
-- word: Aadhaar
+- word: aadhaar
   count: 1
-- word: Biometric
+- word: biometric
   count: 1
-- word: Database
-  count: 1
-- word: Billion
+- word: billion
   count: 1
 - word: enrollments
   count: 1
 - word: counting
-  count: 1
-- word: Authentication
-  count: 1
-- word: database
   count: 1
 - word: targeted
   count: 2
@@ -9110,21 +8262,21 @@
   count: 1
 - word: largely
   count: 1
-- word: unbankedAadhaar
+- word: unbankedaadhaar
   count: 1
-- word: “API”
+- word: “api”
   count: 1
-- word: MultiParadigm
+- word: multiparadigm
+  count: 2
+- word: modeling
   count: 1
-- word: Modeling
-  count: 1
-- word: Box
-  count: 1
+- word: box
+  count: 2
 - word: youre
   count: 3
 - word: mainstream
   count: 1
-- word: REST"
+- word: rest"
   count: 1
 - word: style
   count: 1
@@ -9142,11 +8294,9 @@
   count: 3
 - word: love
   count: 1
-- word: JSONover-HTTP
+- word: jsonover-http
   count: 1
-- word: Mobile
-  count: 1
-- word: microservices
+- word: mobile
   count: 1
 - word: interest
   count: 1
@@ -9160,13 +8310,13 @@
   count: 1
 - word: graphs
   count: 1
-- word: RCP
+- word: rcp
   count: 1
 - word: name
   count: 1
 - word: visualized
   count: 1
-- word: What
+- word: what
   count: 1
 - word: tools
   count: 1
@@ -9184,10 +8334,6 @@
   count: 1
 - word: adapt
   count: 2
-- word: multiparadigm
-  count: 1
-- word: Methodology
-  count: 2
 - word: own
   count: 1
 - word: drill
@@ -9202,43 +8348,33 @@
   count: 1
 - word: of
   count: 1
-- word: Domain
-  count: 5
-- word: Consistent
-  count: 1
-- word: Here
-  count: 1
 - word: chars
   count: 1
-- word: Wendys
+- word: wendys
   count: 1
-- word: feedbackDesigning
+- word: feedbackdesigning
   count: 1
 - word: trivial
   count: 1
 - word: task
   count: 1
-- word: Producers
-  count: 2
 - word: modeling
-  count: 1
-- word: Consumers
   count: 1
 - word: side
   count: 1
 - word: work
   count: 1
-- word: API!
+- word: api!
   count: 1
 - word: consistent
   count: 1
-- word: As
+- word: as
   count: 1
 - word: grow
   count: 1
 - word: limited
   count: 1
-- word: Existing
+- word: existing
   count: 1
 - word: bibliography
   count: 1
@@ -9248,9 +8384,9 @@
   count: 1
 - word: alone
   count: 1
-- word: Nike
+- word: nike
   count: 1
-- word: DDD
+- word: ddd
   count: 2
 - word: cookie
   count: 1
@@ -9260,10 +8396,10 @@
   count: 2
 - word: concepts
   count: 1
-- word: Proxies
+- word: proxies
   count: 1
-- word: Shared
-  count: 1
+- word: shared
+  count: 2
 - word: resource​
   count: 1
 - word: close
@@ -9282,8 +8418,6 @@
   count: 1
 - word: that
   count: 1
-- word: shared
-  count: 1
 - word: proxies
   count: 3
 - word: serverside
@@ -9294,8 +8428,6 @@
   count: 1
 - word: progressed
   count: 1
-- word: Weve
-  count: 1
 - word: above
   count: 1
 - word: each
@@ -9304,21 +8436,17 @@
   count: 1
 - word: spots
   count: 1
-- word: Google
+- word: google
   count: 2
 - word: surfaced
   count: 1
-- word: Chatbots
+- word: chatbots
   count: 2
-- word: Future
-  count: 1
-- word: One!
+- word: future
   count: 1
 - word: conversational
   count: 1
-- word: Chatbots
-  count: 1
-- word: you
+- word: chatbots
   count: 1
 - word: answered
   count: 1
@@ -9326,13 +8454,9 @@
   count: 1
 - word: along
   count: 1
-- word: join
+- word: chatbot!
   count: 1
-- word: Chatbot!
-  count: 1
-- word: Googles
-  count: 1
-- word: Guide
+- word: googles
   count: 1
 - word: publishes
   count: 1
@@ -9342,63 +8466,53 @@
   count: 1
 - word: dedication
   count: 1
-- word: governance
-  count: 1
 - word: approving
   count: 1
-- word: Guide
+- word: guide
   count: 1
 - word: consistently
   count: 2
 - word: quality
   count: 1
-- word: Nom
+- word: nom
   count: 1
-- word: Nom
+- word: nom
   count: 1
-- word: Consuming
-  count: 1
-- word: Feeling
+- word: feeling
   count: 1
 - word: hungry
   count: 1
-- word: Youve
+- word: youve
   count: 1
 - word: place!
   count: 1
 - word: basics
   count: 1
-- word: Whats
+- word: whats
   count: 1
-- word: Whys
+- word: whys
   count: 1
-- word: Wheres
+- word: wheres
   count: 1
-- word: Whens
-  count: 1
-- word: POSTMAN
+- word: whens
   count: 1
 - word: calls
   count: 1
-- word: Consumers
+- word: brigham
   count: 1
-- word: Brigham
-  count: 1
-- word: Young
-  count: 1
-- word: University
+- word: young
+  count: 2
+- word: university
   count: 1
 - word: replace
   count: 1
 - word: aging
   count: 1
-- word: Ecosystem
-  count: 1
+- word: ecosystem
+  count: 2
 - word: navigate
   count: 1
 - word: contained
-  count: 1
-- word: outdated
   count: 1
 - word: centered
   count: 1
@@ -9408,17 +8522,17 @@
   count: 1
 - word: iteration
   count: 1
-- word: Noting
+- word: noting
   count: 1
 - word: issues
   count: 1
-- word: BYU
+- word: byu
   count: 2
 - word: joy
   count: 1
-- word: OAuth20
+- word: oauth20
   count: 1
-- word: Tokens
+- word: tokens
   count: 1
 - word: adoptions
   count: 1
@@ -9428,13 +8542,9 @@
   count: 2
 - word: suck
   count: 1
-- word: Transformation
-  count: 1
 - word: bad
   count: 1
 - word: with
-  count: 1
-- word: Through
   count: 1
 - word: transformations
   count: 1
@@ -9442,8 +8552,6 @@
   count: 1
 - word: infrastructures
   count: 2
-- word: Experience
-  count: 1
 - word: tough
   count: 1
 - word: reality
@@ -9452,13 +8560,11 @@
   count: 1
 - word: provision
   count: 1
-- word: Standing
+- word: taller
   count: 1
-- word: Taller
+- word: technology
   count: 1
-- word: Technology
-  count: 1
-- word: Workforce
+- word: workforce
   count: 1
 - word: technological
   count: 1
@@ -9496,21 +8602,15 @@
   count: 1
 - word: ways
   count: 1
-- word: Illustrative
+- word: illustrative
   count: 1
 - word: academic
   count: 1
 - word: industries
   count: 1
-- word: Operating
+- word: ai
   count: 1
-- word: AI
-  count: 1
-- word: Computing
-  count: 1
-- word: Enable
-  count: 1
-- word: Intelligence
+- word: intelligence
   count: 1
 - word: computing
   count: 1
@@ -9518,7 +8618,7 @@
   count: 1
 - word: scaling
   count: 1
-- word: GPU
+- word: gpu
   count: 1
 - word: clusters
   count: 1
@@ -9538,31 +8638,25 @@
   count: 1
 - word: times
   count: 1
-- word: SendGrid
-  count: 1
-- word: github
+- word: sendgrid
   count: 1
 - word: engineer
   count: 1
 - word: highest
   count: 3
 - word: community
-  count: 2
+  count: 3
 - word: level
   count: 1
 - word: sustaining
   count: 1
 - word: lean
   count: 1
-- word: Client
-  count: 1
 - word: effort
   count: 1
 - word: again
   count: 1
 - word: insane
-  count: 1
-- word: finally
   count: 1
 - word: documented
   count: 1
@@ -9572,7 +8666,7 @@
   count: 2
 - word: impossible
   count: 1
-- word: At
+- word: at
   count: 1
 - word: addressed
   count: 1
@@ -9580,11 +8674,9 @@
   count: 1
 - word: opinionated
   count: 1
-- word: Protocol
+- word: buffer
   count: 1
-- word: Buffer
-  count: 1
-- word: IDL
+- word: idl
   count: 1
 - word: codegeneration
   count: 1
@@ -9594,19 +8686,13 @@
   count: 1
 - word: characteristics
   count: 1
-- word: APIs
+- word: apis
   count: 1
-- word: Toys
+- word: toys
   count: 1
-- word: Market
+- word: accordingly
   count: 1
-- word: Them
-  count: 1
-- word: Accordingly
-  count: 1
-- word: Selling
-  count: 1
-- word: APIbased
+- word: apibased
   count: 1
 - word: parties
   count: 1
@@ -9634,7 +8720,7 @@
   count: 1
 - word: convince
   count: 1
-- word: transactionIn
+- word: transactionin
   count: 1
 - word: differs
   count: 1
@@ -9646,33 +8732,27 @@
   count: 1
 - word: tutorials
   count: 1
-- word: Community
-  count: 1
-- word: Guides
-  count: 1
 - word: integration
   count: 1
 - word: flow
   count: 1
 - word: etc
   count: 1
-- word: OWASPs
+- word: owasps
   count: 2
-- word: Latest
+- word: latest
   count: 1
-- word: Category
-  count: 1
-- word: Underprotection
+- word: category
+  count: 2
+- word: underprotection
   count: 1
 - word: ten
   count: 1
 - word: adds
   count: 1
-- word: category
-  count: 1
 - word: underprotected
   count: 1
-- word: APIs
+- word: apis
   count: 1
 - word: reflecting
   count: 1
@@ -9686,13 +8766,9 @@
   count: 1
 - word: posture
   count: 1
-- word: Youll
-  count: 1
 - word: keys
   count: 2
 - word: interplay
-  count: 1
-- word: Of
   count: 1
 - word: whose
   count: 2
@@ -9706,7 +8782,7 @@
   count: 1
 - word: security
   count: 2
-- word: TLS
+- word: tls
   count: 1
 - word: necessary
   count: 1
@@ -9728,8 +8804,6 @@
   count: 1
 - word: white
   count: 1
-- word: box
-  count: 1
 - word: cryptography
   count: 1
 - word: attestation
@@ -9750,7 +8824,7 @@
   count: 1
 - word: mainly
   count: 1
-- word: onesWhen
+- word: oneswhen
   count: 1
 - word: collaborators
   count: 1
@@ -9760,13 +8834,13 @@
   count: 1
 - word: someones
   count: 1
-- word: workIn
+- word: workin
   count: 1
-- word: Kin
+- word: kin
   count: 1
-- word: Lane
+- word: lane
   count: 1
-- word: APIsjson
+- word: apisjson
   count: 1
 - word: robotstxt
   count: 1
@@ -9774,15 +8848,15 @@
   count: 1
 - word: crawlable
   count: 1
-- word: indexableAs
+- word: indexableas
   count: 1
 - word: engine
   count: 1
-- word: APIsio
+- word: apisio
   count: 1
 - word: mechanism
   count: 1
-- word: domainWhat
+- word: domainwhat
   count: 1
 - word: announced
   count: 1
@@ -9796,7 +8870,7 @@
   count: 1
 - word: monolith
   count: 1
-- word: Inplace
+- word: inplace
   count: 2
 - word: refactoring
   count: 2
@@ -9830,7 +8904,7 @@
   count: 2
 - word: boundaries
   count: 1
-- word: APIlayer
+- word: apilayer
   count: 1
 - word: substantially
   count: 1
@@ -9856,34 +8930,28 @@
   count: 1
 - word: partners
   count: 1
-- word: Dont
-  count: 2
-- word: Repeat
-  count: 1
-- word: yourself
+- word: repeat
   count: 1
 - word: explaining
-  count: 1
-- word: finished
   count: 1
 - word: yet
   count: 1
 - word: discussing
   count: 1
-- word: Swagger
+- word: swagger
   count: 1
-- word: JsonLD
+- word: jsonld
   count: 1
-- word: Schemaorg
+- word: schemaorg
   count: 1
-- word: HAL
+- word: hal
   count: 1
-- word: Hydra
+- word: hydra
   count: 1
-- word: Siren
+- word: siren
   count: 1
-- word: Semantic
-  count: 1
+- word: semantic
+  count: 2
 - word: profiles
   count: 1
 - word: comparing
@@ -9898,7 +8966,7 @@
   count: 1
 - word: direct
   count: 2
-- word: APIDiscover
+- word: apidiscover
   count: 1
 - word: save
   count: 1
@@ -9922,8 +8990,6 @@
   count: 1
 - word: mean
   count: 1
-- word: Instead
-  count: 1
 - word: intuitive
   count: 1
 - word: consume
@@ -9934,21 +9000,19 @@
   count: 1
 - word: expense
   count: 1
-- word: Swagger
+- word: swagger
   count: 1
-- word: gRPC
+- word: grpc
   count: 1
 - word: buffers
   count: 1
 - word: cutting
   count: 1
-- word: hostileIn
+- word: hostilein
   count: 1
 - word: utilizing
   count: 2
 - word: profile
-  count: 1
-- word: semantic
   count: 1
 - word: vocabularies
   count: 1
@@ -9956,17 +9020,11 @@
   count: 1
 - word: consumption
   count: 1
-- word: SMEs
+- word: smes
   count: 1
 - word: brainstorming
   count: 1
 - word: tech
-  count: 1
-- word: Automated
-  count: 1
-- word: Consumer
-  count: 1
-- word: Trying
   count: 1
 - word: impression
   count: 1
@@ -9984,7 +9042,7 @@
   count: 1
 - word: burden
   count: 1
-- word: Enter
+- word: enter
   count: 1
 - word: automation!
   count: 1
@@ -10000,9 +9058,7 @@
   count: 1
 - word: source
   count: 1
-- word: Death
-  count: 1
-- word: Star
+- word: star
   count: 1
 - word: tasked
   count: 1
@@ -10010,11 +9066,11 @@
   count: 2
 - word: universe
   count: 1
-- word: 'No'
+- word: 'no'
   count: 1
 - word: consumes
   count: 1
-- word: APIsWhatever
+- word: apiswhatever
   count: 1
 - word: putting
   count: 1
@@ -10030,7 +9086,7 @@
   count: 1
 - word: blow
   count: 1
-- word: laterWeb
+- word: laterweb
   count: 1
 - word: different
   count: 1
@@ -10040,15 +9096,13 @@
   count: 1
 - word: severe
   count: 1
-- word: onDuring
+- word: onduring
   count: 1
 - word: beginning
   count: 1
 - word: prevent
   count: 2
-- word: young
-  count: 1
-- word: Jedi
+- word: jedi
   count: 1
 - word: shooting
   count: 1
@@ -10064,21 +9118,21 @@
   count: 1
 - word: destroying
   count: 1
-- word: workWell
+- word: workwell
   count: 1
-- word: "cover•\tOverview"
+- word: "cover•\toverview"
   count: 1
-- word: "methods•\tUsing"
+- word: "methods•\tusing"
   count: 1
-- word: "security•\tHow"
+- word: "security•\thow"
   count: 1
-- word: "website•\tProviding"
+- word: "website•\tproviding"
   count: 1
-- word: "data•\tCommon"
+- word: "data•\tcommon"
   count: 1
 - word: mistakes
   count: 2
-- word: APIsA
+- word: apisa
   count: 1
 - word: abilities
   count: 1
@@ -10087,8 +9141,6 @@
 - word: exposed
   count: 1
 - word: prove
-  count: 1
-- word: Just
   count: 1
 - word: afterwards
   count: 1
@@ -10100,20 +9152,12 @@
   count: 1
 - word: destruction
   count: 1
-- word: Calculating
+- word: calculating
   count: 1
-- word: Projecting
-  count: 1
-- word: Costs
-  count: 1
-- word: Benefits
-  count: 1
-- word: Good
+- word: projecting
   count: 1
 - word: strategic
   count: 1
-- word: now
-  count: 2
 - word: remains
   count: 1
 - word: open
@@ -10122,13 +9166,11 @@
   count: 1
 - word: question
   count: 1
-- word: Whether
+- word: whether
   count: 1
 - word: elses
   count: 1
 - word: evaluating
-  count: 1
-- word: Without
   count: 1
 - word: of
   count: 1
@@ -10140,18 +9182,14 @@
   count: 1
 - word: implementations
   count: 1
-- word: profit
-  count: 1
 - word: loss
   count: 1
 - word: contributing
   count: 1
-- word: My
+- word: dont
   count: 1
-- word: Dont
-  count: 1
-- word: Healthcare
-  count: 1
+- word: healthcare
+  count: 3
 - word: nobrainer
   count: 1
 - word: promote
@@ -10160,14 +9198,10 @@
   count: 1
 - word: longevity
   count: 1
-- word: ecosystem
-  count: 1
 - word: greater
   count: 1
 - word: contributor
   count: 1
-- word: healthcare
-  count: 2
 - word: companies
   count: 2
 - word: way
@@ -10176,22 +9210,16 @@
   count: 1
 - word: speakers
   count: 1
-- word: Specification
+- word: specification
   count: 1
-- word: Referral
+- word: referral
   count: 1
 - word: reluctant
   count: 1
-- word: Dynamic
-  count: 2
 - word: microservices!
   count: 1
 - word: dependency
   count: 4
-- word: graph
-  count: 1
-- word: rolling
-  count: 1
 - word: deployments
   count: 1
 - word: nodes
@@ -10200,9 +9228,9 @@
   count: 1
 - word: dependencies
   count: 1
-- word: occurOf
+- word: occurof
   count: 1
-- word: can!In
+- word: can!in
   count: 1
 - word: complexities
   count: 1
@@ -10213,8 +9241,6 @@
 - word: graphs
   count: 1
 - word: definitions
-  count: 1
-- word: node
   count: 1
 - word: selfcorrect
   count: 1
@@ -10228,13 +9254,9 @@
   count: 1
 - word: actions
   count: 1
-- word: Designing
-  count: 1
-- word: Intuit
+- word: intuit
   count: 4
-- word: ITs
-  count: 3
-- word: CIO
+- word: cio
   count: 1
 - word: embarked
   count: 1
@@ -10246,7 +9268,7 @@
   count: 1
 - word: cohesive
   count: 1
-- word: IT
+- word: it
   count: 1
 - word: service
   count: 1
@@ -10270,11 +9292,11 @@
   count: 1
 - word: idioms
   count: 1
-- word: URL
+- word: url
   count: 1
 - word: pagination
   count: 1
-- word: HATEOAS
+- word: hateoas
   count: 1
 - word: links
   count: 1
@@ -10286,25 +9308,21 @@
   count: 1
 - word: expansion
   count: 1
-- word: clientAPI
-  count: 1
-- word: synchronicity
+- word: clientapi
   count: 1
 - word: codes
   count: 1
 - word: concludes
   count: 1
-- word: summary
-  count: 1
 - word: today
-  count: 1
+  count: 2
 - word: away
   count: 1
 - word: here
   count: 1
 - word: flashy
   count: 1
-- word: BI
+- word: bi
   count: 1
 - word: notch
   count: 1
@@ -10327,20 +9345,18 @@
 - word: torrent
   count: 1
 - word: signs
-  count: 1
-- word: shiftingThe
+  count: 2
+- word: shiftingthe
   count: 1
 - word: interoperating
   count: 1
-- word: Has
-  count: 1
 - word: ensured
   count: 1
-- word: rateIf
+- word: rateif
   count: 1
 - word: havent
   count: 1
-- word: Lasting
+- word: lasting
   count: 1
 - word: misconceptions
   count: 1
@@ -10350,11 +9366,9 @@
   count: 1
 - word: poised
   count: 1
-- word: Data/API
+- word: data/api
   count: 1
 - word: foundations
-  count: 1
-- word: Data
   count: 1
 - word: excel
   count: 1
@@ -10370,25 +9384,23 @@
   count: 1
 - word: upload
   count: 1
-- word: mapping
-  count: 1
 - word: automatic
   count: 1
 - word: basic
   count: 2
-- word: CRUD
+- word: crud
   count: 1
 - word: registry
   count: 1
 - word: demands
   count: 1
-- word: Softwareas-a-Service
+- word: softwareas-a-service
   count: 1
-- word: SaaS
+- word: saas
   count: 1
-- word: Internetof-Things
+- word: internetof-things
   count: 3
-- word: IoT
+- word: iot
   count: 1
 - word: integration
   count: 1
@@ -10402,41 +9414,27 @@
   count: 1
 - word: system
   count: 1
-- word: Environment
+- word: provisioning
   count: 1
-- word: Provisioning
+- word: config
   count: 1
-- word: Config
+- word: please
   count: 1
-- word: Device
+- word: optimizing
   count: 1
-- word: Messaging
-  count: 1
-- word: Devices
-  count: 1
-- word: Attention
-  count: 1
-- word: Please
-  count: 1
-- word: Optimizing
-  count: 1
-- word: Metrics
-  count: 1
+- word: metrics
+  count: 2
 - word: careful
   count: 1
-- word: monitoring
-  count: 2
 - word: promises
   count: 1
 - word: machines
   count: 1
 - word: theres
-  count: 1
+  count: 2
 - word: measure
   count: 1
 - word: revamped
-  count: 1
-- word: metrics
   count: 1
 - word: worlds
   count: 1
@@ -10450,11 +9448,7 @@
   count: 1
 - word: 01%.
   count: 1
-- word: Succeed
-  count: 1
-- word: Signs
-  count: 1
-- word: Companies
+- word: succeed
   count: 1
 - word: sizes
   count: 1
@@ -10464,8 +9458,6 @@
   count: 1
 - word: effectively
   count: 1
-- word: Theres
-  count: 1
 - word: dire
   count: 1
 - word: measure
@@ -10473,8 +9465,6 @@
 - word: indicate
   count: 1
 - word: risks
-  count: 1
-- word: Program
   count: 1
 - word: scorecard
   count: 1
@@ -10484,15 +9474,9 @@
   count: 1
 - word: excelling
   count: 1
-- word: Economy
+- word: integration..
   count: 1
-- word: Future
-  count: 1
-- word: Integration..
-  count: 1
-- word: Where
-  count: 1
-- word: Users
+- word: where
   count: 1
 - word: demanding
   count: 1
@@ -10502,15 +9486,15 @@
   count: 1
 - word: it
   count: 1
-- word: So
+- word: so
   count: 1
 - word: obvious
   count: 1
 - word: demand
   count: 1
-- word: Apps
+- word: apps
   count: 1
-- word: Marketplaces
+- word: marketplaces
   count: 1
 - word: access
   count: 1
@@ -10518,23 +9502,21 @@
   count: 1
 - word: approach
   count: 1
-- word: IFTTT
+- word: ifttt
   count: 1
-- word: Zapier
+- word: zapier
   count: 1
-- word: Mulesoft
+- word: mulesoft
   count: 1
-- word: Skype
+- word: skype
   count: 1
-- word: Hipchat
+- word: hipchat
   count: 1
 - word: more
   count: 1
-- word: Lets
+- word: lets
   count: 1
 - word: weigh
-  count: 1
-- word: Strategy
   count: 1
 - word: integrations
   count: 1
@@ -10546,15 +9528,11 @@
   count: 1
 - word: connectors
   count: 1
-- word: Hundreds
+- word: minutes
   count: 1
-- word: Others
+- word: zapier
   count: 1
-- word: Minutes
-  count: 1
-- word: Zapier
-  count: 1
-- word: Platforms
+- word: platforms
   count: 1
 - word: articles
   count: 1
@@ -10564,17 +9542,15 @@
   count: 1
 - word: outrageous
   count: 1
-- word: Theyre
+- word: theyre
   count: 1
 - word: 'true'
   count: 1
 - word: workshop
   count: 1
-- word: Left
+- word: hook
   count: 1
-- word: Hook
-  count: 1
-- word: Zapiers
+- word: zapiers
   count: 1
 - word: asterisks
   count: 1
@@ -10582,7 +9558,7 @@
   count: 1
 - word: token
   count: 1
-- word: OAuth20
+- word: oauth20
   count: 1
 - word: cases
   count: 1
@@ -10590,19 +9566,15 @@
   count: 2
 - word: environment
   count: 1
-- word: CLI
+- word: cli
   count: 1
 - word: tool
   count: 1
-- word: Well
+- word: well
   count: 1
 - word: 30+
   count: 1
 - word: there
   count: 1
-- word: highlighting
-  count: 1
-- word: connectors
-  count: 1
-- word: TODAY
-  count: 1
+- word: life
+  count: 2
