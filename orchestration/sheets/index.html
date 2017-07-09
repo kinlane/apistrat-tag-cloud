@@ -122,6 +122,7 @@ title: Update Spreadsheet
           for ($e = 0; $e < $abstract_array.length; $e++)
             {
             $word = $abstract_array[$e];
+            $word = $word.toLowerCase();
             $word_exist = 0;
             $word_index = 0;
             for ($word_index = 0; $word_index < $all_words.length; $word_index++)
