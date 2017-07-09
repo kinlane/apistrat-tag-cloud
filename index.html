@@ -46,15 +46,15 @@ title: API Evangelist - Tag Cloud for APIStrat
 {% assign words = words | sort: 'count' | reverse %}
 <section>
 	<header>
-		<h2>Word Count</h2>
+		<h2>Word Count - 1</h2>
 	</header>
 	<div class="table-wrapper" style="height: 500px; overflow: auto;">
 		<table class="alt">
 			<tbody>
-				{% for item in words %}
+				{% for entry in words %}
 					<tr>
-						<td width="90%">{{ item.word }}</td>
-						<td width="10%" align="center">{{ item.count }}</td>
+						<td width="90%">{{ entry.word }}</td>
+						<td width="10%" align="center">{{ entry.count }}</td>
 					</tr>
 				{% endfor %}
 			</tbody>
