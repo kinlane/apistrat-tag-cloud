@@ -122,13 +122,20 @@ title: Update Spreadsheet
               $word = $word.replace(')','');
               $word = $word.replace('(','');
               $word = $word.replace('?','');
-              $word_count = $all_words[$word_index]['count'];
-              console.log($word + ' = ' + $word_count);
+              $word = $word.replace(':','');
+              $word = $word.replace(',','');
+              $word = $word.replace('.','');
 
-              $this_word = {};
-              $this_word['word'] = $word;
-              $this_word['count'] = $word_count;
-              $publish_words.push($this_word);
+              if(word!='')
+                {                
+                $word_count = $all_words[$word_index]['count'];
+                console.log($word + ' = ' + $word_count);
+
+                $this_word = {};
+                $this_word['word'] = $word;
+                $this_word['count'] = $word_count;
+                $publish_words.push($this_word);
+                }
 
               }
 
