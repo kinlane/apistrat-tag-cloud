@@ -108,13 +108,14 @@ title: Update Spreadsheet
             }
 
           $count++;
-          console.log("ALL:"+$all_words);
           if($count==$total_count)
             {
-            for ($word_index = 0; $word_index = $all_words.length; $word_index++)
+            console.log("ALL:"+$all_words);
+            for ($word_index = 0; $word_index < $all_words.length; $word_index++)
               {
-              $word = $main_word[word_index]['word'];
-              $word_count = $main_word[word_index]['count'];
+              console.log("SINGLE:"+$all_words[word_index]);  
+              $word = $all_words[word_index]['word'];
+              $word_count = $all_words[word_index]['count'];
               console.log($word + ' = ' + $word_count);
               }
             }
