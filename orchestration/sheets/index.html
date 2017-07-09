@@ -187,7 +187,7 @@ function compareSecondColumn(a, b) {
 
               }
 
-            $publish_words.sort(compareSecondColumn);
+            $publish_words.sort();
 
             $yaml_dump = jsyaml.dump($publish_words);
             document.getElementById('source').value = $yaml_dump;
