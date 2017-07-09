@@ -145,8 +145,7 @@ title: Update Spreadsheet
 
               }
 
-              $new_array = JSON.parse($this_json);
-
+              $new_array = JSON.parse($publish_words);
               $all_words_sorted = sortByColumn($new_array, 2);
 
               $this_json  = JSON.stringify($all_words_sorted);
