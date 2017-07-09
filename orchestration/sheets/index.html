@@ -73,8 +73,8 @@ title: Update Spreadsheet
           {
           $all_words = new Array();
           $this_word = new Array();
-          $this_word['word'] = "start";
-          $this_word['count'] = 1;
+          $this_word[0] = 1;
+          $this_word[1] = "start";
           $all_words.push($this_word);
           }
 
@@ -82,8 +82,8 @@ title: Update Spreadsheet
           {
           $all_words = new Array();
           $this_word = new Array();
-          $this_word['word'] = 'start';
-          $this_word['count'] = 1;
+          $this_word[0] = 1;
+          $this_word[1] = 'start';
           $all_words.push($this_word);
           }
 
@@ -102,10 +102,10 @@ title: Update Spreadsheet
             $word_index = 0;
             for ($word_index = 0; $word_index < $all_words.length; $word_index++)
               {
-              if($all_words[$word_index]['word'] == $word)
+              if($all_words[$word_index][1] == $word)
                 {
                 $word_exist=1;
-                $all_words[$word_index]['count'] = $all_words[$word_index]['count']+1;
+                $all_words[$word_index][0] = $all_words[$word_index][0]+1;
                 }
               }
 
@@ -116,8 +116,8 @@ title: Update Spreadsheet
             else
               {
               $this_word = new Array();
-              $this_word['word'] = $word;
-              $this_word['count'] = 1;
+              $this_word[1] = $word;
+              $this_word[0] = 1;
               $all_words.push($this_word);
               }
 
@@ -134,22 +134,22 @@ title: Update Spreadsheet
             for ($word_index = 0; $word_index < $all_words.length; $word_index++)
               {
               //console.log("SINGLE:"+$all_words[$word_index]);
-              $word = $all_words[$word_index]['word'];
+              $word = $all_words[$word_index][1];
               $word = $word.replace(')','');
               $word = $word.replace('(','');
               $word = $word.replace('?','');
-              $word_count = $all_words[$word_index]['count'];
+              $word_count = $all_words[$word_index][0];
               console.log($word + ' = ' + $word_count);
 
               $this_word = {};
-              $this_word['word'] = $word;
-              $this_word['count'] = $word_count;
+              $this_word[1] = $word;
+              $this_word[0] = $word_count;
               $publish_words.push($this_word);
 
               }
 
               $new_array = JSON.parse($publish_words);
-              $all_words_sorted = sortByColumn($publish_words,2);
+              $all_words_sorted = sortByColumn($publish_words,1);
 
               $this_json  = JSON.stringify($all_words_sorted);
               document.getElementById('source').value = $this_json;
