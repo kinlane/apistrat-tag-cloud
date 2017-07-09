@@ -91,6 +91,7 @@ function compareSecondColumn(a, b) {
           for ($e = 0; $e < $title_array.length; $e++)
             {
             $word = $title_array[$e];
+            $word = $word.toLowerCase();
             $word_exist = 0;
             $word_index = 0;
             for ($word_index = 0; $word_index < $all_words.length; $word_index++)
