@@ -72,7 +72,7 @@ title: Update Spreadsheet
         if(!$all_words)
           {
           $all_words = new Array();
-          $this_word = {};
+          $this_word = new Array();
           $this_word['word'] = "start";
           $this_word['count'] = 1;
           $all_words.push($this_word);
@@ -81,7 +81,7 @@ title: Update Spreadsheet
         if(!Array.isArray($all_words))
           {
           $all_words = new Array();
-          $this_word = {};
+          $this_word = new Array();
           $this_word['word'] = 'start';
           $this_word['count'] = 1;
           $all_words.push($this_word);
@@ -115,7 +115,7 @@ title: Update Spreadsheet
               }
             else
               {
-              $this_word = {};
+              $this_word = new Array();
               $this_word['word'] = $word;
               $this_word['count'] = 1;
               $all_words.push($this_word);
