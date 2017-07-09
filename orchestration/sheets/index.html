@@ -128,14 +128,14 @@ title: Update Spreadsheet
           if($count==$total_count)
             {
 
-            $all_words = sortByColumn($all_words, 1);
+            $all_words_sorted = sortByColumn($all_words, 1);
 
             //console.log("ALL:"+$all_words);
-            for ($word_index = 0; $word_index < $all_words.length; $word_index++)
+            for ($word_index = 0; $word_index < $all_words_sorted.length; $word_index++)
               {
               //console.log("SINGLE:"+$all_words[$word_index]);
-              $word = $all_words[$word_index]['word'];
-              $word_count = $all_words[$word_index]['count'];
+              $word = $all_words_sorted[$word_index]['word'];
+              $word_count = $all_words_sorted[$word_index]['count'];
               console.log($word + ' = ' + $word_count);
               }
             }
