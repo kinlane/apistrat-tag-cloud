@@ -149,7 +149,7 @@ title: Update Spreadsheet
               }
 
               $new_array = JSON.parse($publish_words);
-              $all_words_sorted = sortByColumn($publish_words, 1);
+              $all_words_sorted = sortByColumn($publish_words,2);
 
               $this_json  = JSON.stringify($all_words_sorted);
               document.getElementById('source').value = $this_json;
