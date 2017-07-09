@@ -128,18 +128,25 @@ title: Update Spreadsheet
           if($count==$total_count)
             {
 
-            $this_json  = JSON.stringify($all_words);
-            document.getElementById('source').value = $this_json;
-
             //$all_words_sorted = sortByColumn($all_words, 2);
 
+            $publish_words = new Array();
             for ($word_index = 0; $word_index < $all_words.length; $word_index++)
               {
               //console.log("SINGLE:"+$all_words[$word_index]);
               $word = $all_words[$word_index]['word'];
               $word_count = $all_words[$word_index]['count'];
               console.log($word + ' = ' + $word_count);
+
+              $this_word = {};
+              $this_word['word'] = $word;
+              $this_word['count'] = word_count;
+              $publish_words.push($this_word);
+
               }
+
+              $this_json  = JSON.stringify($publish_words);
+              document.getElementById('source').value = $this_json;
 
             }
 
