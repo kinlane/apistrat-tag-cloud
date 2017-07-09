@@ -5,6 +5,22 @@ title: Update Spreadsheet
 <h1>Update</h1>
 <script type="text/javascript">
 
+  function sortByColumn(a, colIndex){
+
+      a.sort(sortFunction);
+
+      function sortFunction(a, b) {
+          if (a[colIndex] === b[colIndex]) {
+              return 0;
+          }
+          else {
+              return (a[colIndex] < b[colIndex]) ? -1 : 1;
+          }
+      }
+
+      return a;
+  }
+
     // Reset the cookie manually
     //Cookies.expire('token');
 
@@ -111,9 +127,8 @@ title: Update Spreadsheet
           //console.log($count + ' == ' + $total_count);
           if($count==$total_count)
             {
-            $all_words = $all_words.sort(function(a,b) {
-             return b[1] - a[1];
-             });
+
+            $all_words = sortByColumn($all_words, 2);
 
             //console.log("ALL:"+$all_words);
             for ($word_index = 0; $word_index < $all_words.length; $word_index++)
