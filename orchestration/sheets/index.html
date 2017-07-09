@@ -129,8 +129,7 @@ title: Update Spreadsheet
             {
 
             $this_json  = JSON.stringify($all_words);
-
-            console.log($this_json);
+            document.write($this_json);
 
             //$all_words_sorted = sortByColumn($all_words, 2);
 
@@ -141,6 +140,7 @@ title: Update Spreadsheet
               $word_count = $all_words[$word_index]['count'];
               console.log($word + ' = ' + $word_count);
               }
+
             }
 
           //}
