@@ -135,6 +135,9 @@ title: Update Spreadsheet
               {
               //console.log("SINGLE:"+$all_words[$word_index]);
               $word = $all_words[$word_index]['word'];
+              $word = $word.replace(')','');
+              $word = $word.replace('(','');
+              $word = $word.replace('?','');
               $word_count = $all_words[$word_index]['count'];
               console.log($word + ' = ' + $word_count);
 
@@ -145,10 +148,10 @@ title: Update Spreadsheet
 
               }
 
-              //$new_array = JSON.parse($publish_words);
-              //$all_words_sorted = sortByColumn($new_array, 1);
+              $new_array = JSON.parse($publish_words);
+              $all_words_sorted = sortByColumn($publish_words, 1);
 
-              $this_json  = JSON.stringify($publish_words);
+              $this_json  = JSON.stringify($all_words_sorted);
               document.getElementById('source').value = $this_json;
 
             }
