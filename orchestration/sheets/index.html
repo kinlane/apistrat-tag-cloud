@@ -159,7 +159,12 @@ title: Update Spreadsheet
               $word = $word.replace("'",'');
               $word = $word.replace("’",'');
               $word = $word.replace('-','');
+              $word = $word.replace('_','');
               $word = $word.replace('"','');
+              $word = $word.replace('|','');
+              $word = $word.replace(';','');
+              $word = $word.replace(/[\n\r]/g, '');
+
               if($word!='' && isNaN($word))
                 {
                 $word_count = $all_words[$word_index]['count'];
